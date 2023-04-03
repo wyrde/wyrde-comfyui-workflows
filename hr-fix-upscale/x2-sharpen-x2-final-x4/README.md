@@ -6,3 +6,4 @@ Takes an image from text prompt (or image) and
 * uses a 4x upscale model to increase the size again
 * saves it at a total of x4 size
 
+Includes a couple lora. There's also a coupple places where moving noodles changes the generation.
