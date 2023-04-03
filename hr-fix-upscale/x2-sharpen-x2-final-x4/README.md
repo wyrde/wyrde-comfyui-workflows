@@ -1,4 +1,7 @@
 # wyrde HR-Fix model upscaling x2 x2 (x4 final)
+
+Includes WAS nodes. https://github.com/WASasquatch/was-node-suite-comfyui
+
 Takes an image from text prompt (or image) and
 * samples it
 * uses an upscale model to double the size
