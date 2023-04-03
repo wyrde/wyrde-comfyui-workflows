@@ -1,2 +1,2 @@
-# comfyui-wyrde-workflows
+# wyrde-comfyui-workflows
 some wyrde workflows for comfyUI
