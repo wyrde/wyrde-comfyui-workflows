@@ -14,14 +14,11 @@ Not quite a true double-pass sharpen, but the results are decent. Lots of variat
 Unhook noodles to reduce undesired images and paths. Move noodles to switch VAE and img2img.
 
 ## example
-1st image
-<img src="wyrde branch sharp_00033_.png" width=20%>
+1st image <img src="wyrde branch sharp_00033_.png" width=20%>
 
-Images 2A and 2B
-<img src="wyrde branch sharp_00035_.png" width=20%><img src="wyrde branch sharp_00037_.png" width=20%>
+Images 2A and 2B <img src="wyrde branch sharp_00035_.png" width=20%><img src="wyrde branch sharp_00037_.png" width=20%>
 
-Images 3A - 3D
-<img src="wyrde branch sharp_00039_.png" width=20%><img src="wyrde branch sharp_00041_.png" width=20%><img src="wyrde branch sharp_00043_.png" width=20%><img src="wyrde branch sharp_00045_.png" width=20%>
+Images 3A - 3D <img src="wyrde branch sharp_00039_.png" width=20%><img src="wyrde branch sharp_00041_.png" width=20%><img src="wyrde branch sharp_00043_.png" width=20%><img src="wyrde branch sharp_00045_.png" width=20%>
 
 ## resources
 
