@@ -1,6 +1,6 @@
 # wyrde branch sharpen HR-Fix model upscaling x4 (many images)
 
-![workflow diagram](branching sharpen WF 2023-04-04 15_49_05-Mozilla Firefox.png)
+<img src="branching sharpen WF 2023-04-04 15_49_05-Mozilla Firefox.png" width="50%">
 
 Takes an image from text prompt (or image) and
 * samples it
