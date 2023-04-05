@@ -14,4 +14,4 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 * https://github.com/diontimmer/ComfyUI-Vextra-Nodes
 * https://github.com/Davemane42/ComfyUI_Dave_CustomNode
 * https://github.com/diffus3/ComfyUI-extensions
- 
+* https://github.com/ltdrdata/ComfyUI-Impact-Pack
