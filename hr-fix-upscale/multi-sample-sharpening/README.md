@@ -29,6 +29,9 @@ Moving noodles switches between model vae and vae loader.
 
 then image is model upscaled with lollypop x4 (not shown since 26mb image)
 
+Note
+* Changing Schedulers and Samplers (not to mention models) can dramatically change results
+
 ## Resources
 
 WAS nodes
