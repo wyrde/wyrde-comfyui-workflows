@@ -6,6 +6,7 @@ a configuration file that adds some SD-related tags allowing exiftool to edit th
 ### related:
 * https://exiftool.org/
 * https://github.com/hvdwolf/jExifToolGUI/releases
+* https://hvdwolf.github.io/jExifToolGUI/manual/index.html#userdefinedmetadatacombinations
 
 ## workping.py
 A CLI script for adding a workflow to a PNG file. Requres Pillow module (PIL). It updates the image file, make a backup if you want extra safety.
