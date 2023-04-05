@@ -15,11 +15,19 @@ Basically a series of hi-res fixes then an model upscale
 Moving noodles switches between model vae and vae loader.
 
 ## Example
-1st Gen: 512x512 <img src="ComfyUI_00012_.png" width="33%">
-2nd Gen: 640x640 <img src="ComfyUI_00013_.png" width="33%">
-3rd Gen: 768x768 <img src="ComfyUI_00014_.png" width="33%">
-4tth Gen 1024x1024 <img src="latent upscale wf_00003_.png" width="33%">
-then it is model upscaled with lollypop x4 (not shown since 26mb image)
+1st Gen: 512x512
+<img src="ComfyUI_00012_.png" width="33%">
+
+2nd Gen: 640x640
+<img src="ComfyUI_00013_.png" width="33%">
+
+3rd Gen: 768x768
+<img src="ComfyUI_00014_.png" width="33%">
+
+4tth Gen 1024x1024
+<img src="latent upscale wf_00003_.png" width="33%">
+
+then image is model upscaled with lollypop x4 (not shown since 26mb image)
 
 ## Resources
 
