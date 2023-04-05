@@ -45,6 +45,7 @@ Embeds
 * bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
 
 ## Credit
-Original workflow from davemane42 via https://www.reddit.com/r/StableDiffusion/comments/124xv9v/paradise_and_stone/
-<img src="davemane2 ComfyUI_01275_.png" width="20%">
+Original workflow from davemane42
+<img src="davemane2 ComfyUI_01275_.png" width="20%" align="middle">
+* https://www.reddit.com/r/StableDiffusion/comments/124xv9v/paradise_and_stone/
 
