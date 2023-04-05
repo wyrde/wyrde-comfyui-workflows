@@ -1,0 +1,30 @@
+%Image::ExifTool::UserDefined = (
+    # All EXIF tags are added to the Main table, and WriteGroup is used to
+    # specify where the tag is written (default is ExifIFD if not specified):
+    'Image::ExifTool::Exif::Main' => {
+        # Example 1.  EXIF:NewEXIFTag
+        0xd000 => {
+            Name => 'NewEXIFTag',
+            Writable => 'int16u',
+            WriteGroup => 'IFD0',
+        },
+        # add more user-defined EXIF tags here...
+    },
+    # new PNG tags are added to the PNG::TextualData table:
+    'Image::ExifTool::PNG::TextualData' => {
+### wyrde 2023-04-03
+#        # wyrde add 1.  PNG:Prompt
+       Prompt => { },
+#       # wyrde add 2,  PNG:Workflow
+       Workflow => { },
+#       # wyrde add 3.  PNG:Parameters
+       Parameters => { },
+#       # wyrde add 4,  PNG:SDpos
+       SDpos =>  { },
+#       # wyrde add 5.  PNG:SDneg
+       SDneg => { },
+#		# wyrde add 6.  PNG:SDconf
+       SDconf => { },
+    },
+	
+);
