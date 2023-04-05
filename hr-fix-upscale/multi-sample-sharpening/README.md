@@ -29,8 +29,12 @@ Moving noodles switches between model vae and vae loader.
 
 then image is model upscaled with lollypop x4 (not shown since 26mb image)
 
-Note
-* Changing Schedulers and Samplers (not to mention models) can dramatically change results
+## Notes
+Changing Schedulers and Samplers (not to mention models) can dramatically change results
+
+Changed scheduler to noromal
+and steps to 12
+<img src="latent upscale wf_00009_.png" width="33%" align="middle">
 
 ## Resources
 
