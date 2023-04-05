@@ -39,6 +39,9 @@ Changing Schedulers and Samplers (not to mention models) can dramatically change
 * Switched to regular VAE decode
 <img src="std vaedecode latent upscale wf_00011_.png" width="33%" align="middle">
 
+* Dreamshaper model
+<img src="dreamshaper latent upscale wf_00013_.png" width="33%" align="middle">
+
 ## Resources
 
 WAS nodes
