@@ -3,6 +3,7 @@ This is a workflow utilizing several WAS nodes.
 
 <img src="./wyrde was node basic.png" width="80%" align="middle">
 
+## Switching nodes
 The workflow uses noodles (the lines between nodes) to switch from img2img to txt2img and baked vae to loaded vae.
 * To switch from img2img to txt2img, drag a noodle from the LATENT dot on the "_EmptyLatentImage_" node to the _redirect_ node in the blue box. (The old noodle is replaced.)
 * Switch back by draging from the LATENT dot on the _VAEEncode_ box to the _redirect_ node.
@@ -13,9 +14,10 @@ The workflow uses noodles (the lines between nodes) to switch from img2img to tx
 
 Switching from baked VAE to loaded vae is similar. (Baked VAEs are included inside the model file.)
 *  Drag a noodle from the VAE dot in the _VAELoader_ node to the purple _redirect_ node below.
-<img src="./wyrde was basic vae switch.png" width="80%" align="middle">
 * To change back, drag a noodle from the VAE dot in the _CheckpointLoaderSimple_ node to the purple _redirect_ node below.
-<br>
+<img src="./wyrde was basic vae switch.png" width="80%" align="middle">
+
+## In stable diffusion, size does matter
 
 When using img2img, images should be resized to better fit the model. Most models are designed for 512x512 _initial_ generations. 768x512 and 512x768 are also common.
 
