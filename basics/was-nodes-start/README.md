@@ -1,4 +1,4 @@
-# wyrde'a basic workflows
+# wyrde's basic WAS node workflow
 This is a workflow utilizing several WAS nodes.
 
 <img src="./wyrde was node basic.png" width="80%" align="middle">
