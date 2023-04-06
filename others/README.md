@@ -10,4 +10,4 @@ Cleaned up the 3 subjects example and reduced the size for my GPU.
 * [ComfyUI exsmples](https://comfyanonymous.github.io/ComfyUI_examples/)
 * [WAS example workflows](https://github.com/WASasquatch/was-node-suite-comfyui/tree/main/workflows)
 
-[home](../..)
+[home](../../..)
