@@ -19,7 +19,7 @@ Moving noodles switches between model vae and vae loader.
 
 ## Variations
 
-* with latent upscaling. <link src="../multi-sample-sharpening/">
+* [with latent upscaling.](../multi-sample-sharpening/)
 
 ## Resources
 
