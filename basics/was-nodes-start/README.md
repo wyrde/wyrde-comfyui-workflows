@@ -30,7 +30,7 @@ Back to img2img.
 
 
 ## Prompts
-The workflow includes some basic propmts. Prompts are split into 2 types, positive and negative. <img src="./wyrde was basic prompts.png" width="80%" align="middle">
+The workflow includes some basic propmts. Prompts are split into 2 types, positive and negative. <img src="./wyrde was basic prompts.png" align="middle">
 * Positive prompts are what what you hope to see in the result.
   - (Positibe prompts are often referred to simply as _prompts_, but sometimes _prompts_ means both positive and negative prompts. Confusing? Welcome to Stable Diffusion!)
 * Negative prompts are items which the user hopes **don't** show up in the result.
@@ -40,7 +40,7 @@ The workflow includes some basic propmts. Prompts are split into 2 types, positi
   - conditionals are further details about the subject or the _type_ of image desired. `detailed eyes, detailed hair, pastel hair,` give further detail about the subject.
   - `absurdres, vibrant, photograph, photographic photo, photogenic, rule of thirds, anime, illustration, medium shot, Azulejo, finely detailed, realistic, masterpiece, best quality, illustration, soft focus, HDR 8K, artstation, pixv, unreal engine 5, SFW, ` is a bunch of information about the type of image desired.
     + as an aside, _Azulejo_ is a Portuguese tile which adds an interesting style to images with many models.
-
+  - Negative prompts are much shorter. Usually. Some real doozies exist out there, generally fighting specific things showing up in results. For the basics, `bad hands, NSFW, nude` does well. A couple of those can be removed for more risqué images. (:
 
 ## resources
 
