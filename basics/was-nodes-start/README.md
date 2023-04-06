@@ -85,3 +85,8 @@ Info about VAE
 Places to find models and other Stable Diffusion goodies
 * https://civitai.com/
 * https://huggingface.co/
+
+
+
+<p align="right">  <a href="../../../..">[home]</a> <a href="..">[back]</a></p>
+     
