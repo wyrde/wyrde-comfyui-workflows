@@ -5,7 +5,7 @@
 ## Workflows
 
 Click links for more information. Images have workflows embedded.
-* [Branching Sharpening](./branch-sharpen-x6/) <img src="./branch-sharpen-x6/branching sharpen WF 2023-04-04 15_49_05-Mozilla Firefox.png" width="80%" align="middle">
+* [Branching Sharpening](./branch-sharpen-x6/)<br><img src="./branch-sharpen-x6/branching sharpen WF 2023-04-04 15_49_05-Mozilla Firefox.png" width="80%" align="middle">
 * [img2img-hr-fix-sharpen-x2-x2](./img2img-hr-fix-sharpen-x2-x2/) <img src="./img2img-hr-fix-sharpen-x2-x2/2023-04-02 20_25_36-Mozilla Firefox WF.png" width="80%" align="middle">
 * [multi-sample-pixel-space-sharpening](./multi-sample-pixel-space-sharpening/) <img src="./multi-sample-pixel-space-sharpening/multi-sample-pixel-space-sharpening.png" width="80%" align="middle">
 * [multi-sample-sharpening](./multi-sample-sharpening/) <img src="./multi-sample-sharpening/wyrde multi sample sharpening w model upscale.png"  width="80%" align="middle">
