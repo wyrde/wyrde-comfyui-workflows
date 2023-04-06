@@ -41,5 +41,8 @@ Embeds
 ## Credit
 Original workflow from davemane42
 <img src="../multi-sample-sharpening/davemane2 ComfyUI_01275_.png" width="20%" align="middle">
-* https://www.reddit.com/r/StableDiffusion/comments/124xv9v/paradise_and_stone/
+* based on reddit post https://www.reddit.com/r/StableDiffusion/comments/124xv9v/paradise_and_stone/
 
+
+
+<p align="right"><a href="..">[back]</a><a href="../../../.."> [home]</a></p>
