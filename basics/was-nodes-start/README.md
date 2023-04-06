@@ -21,9 +21,38 @@ Switching from baked VAE to loaded vae is similar. (Baked VAEs are included insi
 
 When using img2img, images should be resized to better fit the model. Most models are designed for 512x512 _initial_ generations. 768x512 and 512x768 are also common.
 
-Large images will also suck of VRAM and time during sampling for the first generation. Instead of creating a big image in stable diffusion, it is better to go through a process called Hi-Res Fixing. That's a subject for another time, but for this basic workflow, stick to smaller initial images. (This can easily be changed to experiment with.)
+Large images will also suck of VRAM and time during sampling for the first generation. Instead of creating a big image in stable diffusion, it is better to go through a process called Hi-Res Fixing. That's a subject for another time, but for this basic workflow, stick to smaller initial images. (This can easily be changed for experimenting.)
 
 Back to img2img.
 * Use the _Resize Image_ node. The node is initially configured to resize images to 512x768. It is best to crop/alter your image in another program so it it fits 1:1 or 1:2 ratio for easy scaling. (Nodes can be used to alter images, but that's a more advanced topic.) Doesn't matter if the ratio isn't perfect, the image is a guide. Closer the better though.
-* The _node's_ "mode" can be changed from "resize" to "rescale" to easily reduce larger images as well.
-<img src="./wyrde was basic img resize.png" width="80%" align="middle">
+* The _node's_ "mode" can be changed from "resize" to "rescale" to easily reduce larger images as well. <img src="./wyrde was basic img resize.png" width="80%" align="middle">
+
+
+
+## Prompts
+The workflow includes some basic propmts. Prompts are split into 2 types, positive and negative. <img src="./wyrde was basic prompts.png" width="80%" align="middle">
+* Positive prompts are what what you hope to see in the result.
+  - (Positibe prompts are often referred to simply as _prompts_, but sometimes _prompts_ means both positive and negative prompts. Confusing? Welcome to Stable Diffusion!)
+* Negative prompts are items which the user hopes **don't** show up in the result.
+* There are all sorts of guides on making good prompts.
+  - Basically, a good prompt has a subject and conditionals.
+  - Subject is the main thing desired in the result, such as `adorable cat girl wearing a striped bikini`
+  - conditionals are further details about the subject or the _type_ of image desired. `detailed eyes, detailed hair, pastel hair,` give further detail about the subject.
+  - `absurdres, vibrant, photograph, photographic photo, photogenic, rule of thirds, anime, illustration, medium shot, Azulejo, finely detailed, realistic, masterpiece, best quality, illustration, soft focus, HDR 8K, artstation, pixv, unreal engine 5, SFW, ` is a bunch of information about the type of image desired.
+    + as an aside, _Azulejo_ is a Portuguese tile which adds an interesting style to images with many models.
+
+
+## resources
+
+WAS nodes
+* https://github.com/WASasquatch/was-node-suite-comfyui
+
+Model
+* https://civitai.com/models/8281/perfect-world
+
+Info about VAE
+* https://rentry.org/sdvae
+
+Places to find models and other Stable Diffusion goodies
+* https://civitai.com/
+* https://huggingface.co/
