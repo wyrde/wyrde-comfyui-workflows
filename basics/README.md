@@ -6,4 +6,4 @@ Be sure to check out the [comfy examples](https://comfyanonymous.github.io/Comfy
 * [WAS Starting Workflow](./was-nodes-start/)
 
 
-[home](../../..)
+<p align="right"><a href="../../..">[home]</a></p>
