@@ -37,3 +37,5 @@ Embeds
 * EasyNegative https://civitai.com/models/7808/easynegative
 * bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
 * bad-artist: https://huggingface.co/nick-x-hacker/bad-artist
+
+<p align="right"><a href="..">[back]</a><a href="../../../.."> [home]</a></p>
