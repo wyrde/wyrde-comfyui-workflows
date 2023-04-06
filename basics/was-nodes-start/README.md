@@ -8,13 +8,14 @@ The workflow uses noodles (the lines between nodes) to switch from img2img to tx
 * Switch back by draging from the LATENT dot on the _VAEEncode_ box to the _redirect_ node.
 
 <img src="wyrde was basic img2img switch.png" width="80%" align="middle">
-<img src="wyrde was node basic move1.png" width="80%" align="middle">
+<img src="wyrde was node basic move2.png" width="80%" align="middle">
 <img src="wyrde was node basic move3.png" width="80%" align="middle">
 
 Switching from baked VAE to loaded vae is similar. (Baked VAEs are included inside the model file.)
 *  Drag a noodle from the VAE dot in the _VAELoader_ node to the purple _redirect_ node below.
 <img src="./wyrde was basic vae switch.png" width="80%" align="middle">
 * To change back, drag a noodle from the VAE dot in the _CheckpointLoaderSimple_ node to the purple _redirect_ node below.
+
 
 When using img2img, images should be resized to better fit the model. Most models are designed for 512x512 _initial_ generations. 768x512 and 512x768 are also common.
 Large images will also suck of VRAM and time during sampling for the first generation. Instead of creating a big image in stable diffusion, it is better to go through a process called Hi-Res Fixing. That's a subject for another time, but for this basic workflow, stick to smaller initial images. (This can easily be changed to experiment with.)
