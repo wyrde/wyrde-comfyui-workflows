@@ -49,7 +49,7 @@ If it does, various nodes will glow green as it goes through the process. Eventu
 ## Extras
 What's with the _Latent Upscale by Factor (WAS)_ and second _Image Resize_ at the end? They're there to make it easy to hook in HiRez fixes. Also, I felt like it. At the moment they're not doing much. Changing the _factors_ can easily increase the final image size, but it won't look great.
 
-The basic of Hi-Rez Fixing:
+### The basic of Hi-Rez Fixing:
 * Move the image saving nodes further to the right. _Shift click_ or _ctrl+drag_ to select multiple nodes.
 * Move them a bit further. Maybe a litle more.
 * Space bar can be used to pan, even when nodes are "grabbed".
