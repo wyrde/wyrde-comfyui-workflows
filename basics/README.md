@@ -23,6 +23,11 @@ Notes:
 * _SaveImage_ can do sub folders. The format is `folder/imageprefix`.
 * The _LoadImage_ node is (at this writing) too small. Drag the bottom down to show the image preview. Glory at the terrible sketch comfy made for an example!
 
+## Tips and Philosophy
+
+* ComfyUI has a philosophy of keep it simple. Don't try to create a "do it all" workflow, instead focus on a specific objective.
+* use the _CheckpointLoaderSimple_ node to load checkpoints. It will auto pick the right settings depending on your GPU.
+
 ##
 This directory conatains some basic workflows showing beginning principles. Think of them as badly organized tutorials.
 
