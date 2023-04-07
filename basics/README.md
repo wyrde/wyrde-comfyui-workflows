@@ -17,7 +17,7 @@ Notes:
 * muted nodes don't process and block everythintg behind them 
 
 ## Organization
-* [Templates can be added from this repo](https://github.com/pythongosssss/ComfyUI-Custom-Scripts). Download the node-templates file and put it in ComfyUI/web/extensions/. (Don't copy paste the editor display, save the raw file.) This repo has some other super helpful extensions as well.
+* Add pythongosssss _Node Templates_ [from this repo](https://github.com/pythongosssss/ComfyUI-Custom-Scripts). Download the node-templates file and put it in `ComfyUI/web/extensions/`. (Don't copy paste the editor display, save the raw file.) This repo has some other super helpful extensions as well.
   * Also recommended is _image-feed_ and workflow-svg
 * noodles (the wires) can be organized with _reroute_ nodes. It takes extra time, but it makes figuring out a workflow a few days later much easier. Much less someone else.
 * _SaveImage_ can do sub folders. The format is `folder/imageprefix`.
