@@ -5,11 +5,11 @@
 ```
     Ctrl + A   = select all nodes
     Ctrl + M   = mute/unmute selected nodes
-	Ctrl + C   = copy selected nodes
-	Ctrl + V   = paste node buffer
+    Ctrl + C   = copy selected nodes
+    Ctrl + V   = paste node buffer
     Delete     = delete selected nodes
-	Backspace  = delete selected nodes
-	Space Bar  = drag viewing area (hold space bar and move mouse pointer)
+    Backspace  = delete selected nodes
+    Space Bar  = drag viewing area (hold space bar and move mouse pointer)
 
 ```
 Notes:
