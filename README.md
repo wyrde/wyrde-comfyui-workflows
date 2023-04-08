@@ -3,6 +3,10 @@ some wyrde workflows for comfyUI
 
 ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 
+## Folders
+
+* [basics:](./basics) some low-scale workflows. Good ways to start out.
+* [hr-fix-upscale:] 
 
 ## Some places for ComfyUI stuff much cooler than mine:
 * https://github.com/WASasquatch/was-node-suite-comfyui
