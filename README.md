@@ -8,7 +8,7 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 * [basics:](./basics) some low-scale workflows. Good ways to start out.
 * [hr-fix-upscale:](./hr-fix-upscale) workflows utilizing Hi-Res Fixes and Upscales.
 * [misc:](./misc) various odds and ends.
-* [others:}(./others) workflows made by other people I particularly like. Or had the urge to fiddle with.
+* [others:](./others) workflows made by other people I particularly like. Or had the urge to fiddle with.
 
 ## Some places for ComfyUI stuff much cooler than mine:
 * https://github.com/WASasquatch/was-node-suite-comfyui
