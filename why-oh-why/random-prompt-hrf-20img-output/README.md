@@ -3,7 +3,7 @@
 Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui)
 * Make sure WAS suit is installed to avoid a mess of red boxes.
 
-<img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 A.png" width="80%" align="middle"><img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 B.png"  width="20%" align="middle">
+<img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 A.png" width="78%" align="middle"><img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 B.png"  width="22%" align="middle">
 
 ## The goal of this workflow was three-fold
 * generate a bunch of series of images which SD repeatedly samples.
