@@ -8,7 +8,6 @@ Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suit
 ## The goal of this workflow was three-fold
 * generate a bunch of series of images which SD repeatedly samples.
   * they tend to improve slowly, but sometimes have wild changes
-  * it is interesting how the forground will be nearly identical but dramatic changes in the background
 * Use a prompt with a high degree of randomness
   * figure, hair, ears, & clothing. More elements can be randomized with these as examples.
 * have the complete prompt be sharable with a resulting image
