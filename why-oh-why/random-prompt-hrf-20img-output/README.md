@@ -1,9 +1,9 @@
 # wyrde's terribly complicated multi latent fixing and fiddling
 
 Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui)
-* Make sure WAS suit is installed to avoid a mess of black boxes.
+* Make sure WAS suit is installed to avoid a mess of red boxes.
 
-<img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 A.png" width="50%" align="middle"><img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 B.png"  width="40%" align="middle">
+<img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 A.png" width="75%" align="middle"><img src="wyrde multi random WAS lora x3 HRF x10 landscape x10 portrait x10 B.png"  width="25%" align="middle">
 
 ## The goal of this workflow was three-fold
 * generate a bunch of series of images which SD repeatedly samples.
