@@ -25,6 +25,7 @@ Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suit
 * and does all that again.
 * total output is 20 images
 
+The big box at the end has spare nodes for easy copy pasting
 
 Includes some lora. There's also a places where moving noodles changes the generation.
 
