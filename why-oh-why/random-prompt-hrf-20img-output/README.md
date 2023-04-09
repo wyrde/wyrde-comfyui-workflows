@@ -31,10 +31,13 @@ Includes some lora. There's also a places where moving noodles changes the gener
 
 ## Example Results
 * Portrait Row
-<img src="img/multi latent chain_00084_.png" width="10%"><img src="img/multi latent chain_00086_.png" width="10%"><img src="img/multi latent chain_00087_.png"width="10%"><img src="img/multi latent chain_00088_.png" width="10%"><img src="img/multi latent chain_00089_.png" width="10%"><img src="img/multilatent chain_00090_.png" width="10%"><img src="img/multi latent chain_00091_.png" width="10%"><img src="img/multi latent chain_00092_.png" width="10%"><img src="img/multi latent chain_00093_.png" width="10%"><img src="img/multi latent chain_00094_.png" width="10%">
+
+<img src="img/multi latent chain_00084_.png" width="10%"><img src="img/multi latent chain_00086_.png" width="10%"><img src="img/multi latent chain_00087_.png" width="10%"><img src="img/multi latent chain_00088_.png" width="10%"><img src="img/multi latent chain_00089_.png" width="10%"><img src="img/multi latent chain_00090_.png" width="10%"><img src="img/multi latent chain_00091_.png" width="10%"><img src="img/multi latent chain_00092_.png"  width="10%"><img src="img/multi latent chain_00093_.png" width="10%"><img src="img/multi latent chain_00094_.png" width="10%">
 
 * Landscape Row
-<img src="img/multi latent chain_00085_.png" width="10%"><img src="img/multi latent chain_00095_.png" width="10%"><img src="img/multi latent chain_00096_.png"width="10%"><img src="img/multi latent chain_00097_.png" width="10%"><img src="img/multi latent chain_00098_.png" width="10%"><img src="img/multilatent chain_00099_.png" width="10%"><img src="img/multi latent chain_00100_.png" width="10%"><img src="img/multi latent chain_00101_.png" width="10%"><img src="img/multi latent chain_00102_.png" width="10%"><img src="img/multi latent chain_00103_.png" width="10%">
+
+<img src="img/multi latent chain_00085_.png" width="10%"><img src="img/multi latent chain_00095_.png" width="10%"><img src="img/multi latent chain_00096_.png" width="10%"><img src="img/multi latent chain_00097_.png" width="10%"><img src="img/multi latent chain_00098_.png" width="10%">
+<img src="img/multi latent chain_00099_.png" width="10%"><img src="img/multi latent chain_00100_.png" width="10%"><img src="img/multi latent chain_00101_.png"  width="10%"><img src="img/multi latent chain_00102_.png" width="10%"><img src="img/multi latent chain_00103_.png" width="10%">
 
 <!-- <img src="" width="10%"> -->
 
