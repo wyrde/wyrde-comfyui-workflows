@@ -36,8 +36,8 @@ Includes some lora. There's also a places where moving noodles changes the gener
 
 * Landscape Row
 
-<img src="img/multi latent chain_00085_.png" width="10%"><img src="img/multi latent chain_00095_.png" width="10%"><img src="img/multi latent chain_00096_.png" width="10%"><img src="img/multi latent chain_00097_.png" width="10%"><img src="img/multi latent chain_00098_.png" width="10%">
-<img src="img/multi latent chain_00099_.png" width="10%"><img src="img/multi latent chain_00100_.png" width="10%"><img src="img/multi latent chain_00101_.png"  width="10%"><img src="img/multi latent chain_00102_.png" width="10%"><img src="img/multi latent chain_00103_.png" width="10%">
+<img src="img/multi latent chain_00085_.png" width="9%"><img src="img/multi latent chain_00095_.png" width="9%"><img src="img/multi latent chain_00096_.png" width="9%"><img src="img/multi latent chain_00097_.png" width="9%"><img src="img/multi latent chain_00098_.png" width="9%">
+<img src="img/multi latent chain_00099_.png" width="9%"><img src="img/multi latent chain_00100_.png" width="9%"><img src="img/multi latent chain_00101_.png"  width="9%"><img src="img/multi latent chain_00102_.png" width="9%"><img src="img/multi latent chain_00103_.png" width="9%">
 
 <!-- <img src="" width="10%"> -->
 
