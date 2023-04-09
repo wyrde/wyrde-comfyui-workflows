@@ -1,14 +1,16 @@
 # wyrde's terribly complicated multi latent fixing and fiddling
 
 Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui)
-* Make sure WAS suit is installed to avoid a mess of red boxes.
+* Install WAS suit and avoid a mess of red boxes.
 
 <img src="workflow smaller.png" align="middle">
 
 ## The goal of this workflow was three-fold
 * generate a bunch of series of images which SD repeatedly samples.
   * they tend to improve slowly, but sometimes have wild changes
+  * it is interesting how the forground will be nearly identical but dramatic changes in the background
 * Use a prompt with a high degree of randomness
+  * figure, hair, ears, & clothing. More elements can be randomized with these as examples.
 * have the complete prompt be sharable with a resulting image
   * In comfyui, words in {curly braces | separated by | pipes are | used to | generate} random results. Due to the way comfyui functions, an image's workflow will contain only the items in the prompt which were evaluated for the image. Other random elements will be dropped.
 
@@ -24,8 +26,7 @@ Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suit
 * total output is 20 images
 
 
-
-Includes a couple lora. There's also a places where moving noodles changes the generation.
+Includes some lora. There's also a places where moving noodles changes the generation.
 
 ## resources
 
