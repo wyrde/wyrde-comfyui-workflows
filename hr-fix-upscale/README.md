@@ -10,5 +10,6 @@ Click links for more information. Images have workflows embedded.
 * [multi-sample-pixel-space-sharpening](./multi-sample-pixel-space-sharpening/) <br><img src="./multi-sample-pixel-space-sharpening/multi-sample-pixel-space-sharpening.png" width="80%" align="middle">
 * [multi-sample-sharpening](./multi-sample-sharpening/) <br><img src="./multi-sample-sharpening/wyrde multi sample sharpening w model upscale.png"  width="80%" align="middle">
 * [x2-sharpen-x2-final-x4](./x2-sharpen-x2-final-x4/) <br><img src="./x2-sharpen-x2-final-x4/WF 2023-04-03 15_31_55-Mozilla Firefox.png"  width="80%" align="middle">
+* [checkpoint testing](./checkpoint-testing)<br><img src="./checkpoint-testing/checkpoint-testintg-v0.5.png"  width="80%" align="middle">
 
 <p align="right"><a href="../../..">[home]</a></p>
