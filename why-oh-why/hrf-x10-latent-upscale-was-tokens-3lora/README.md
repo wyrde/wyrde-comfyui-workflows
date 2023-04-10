@@ -36,6 +36,10 @@ The entire process takes around 30 mins on my 1060gtx
 
 Includes some lora. There's also a places where moving noodles changes the generation.
 
+## Versions
+* v1.0 - it's a mess, yo
+* v1.1 - added img2img nodes, cleaned up lines, better grouping
+
 ## Example Results
 
 Eventually, I'm tired.
