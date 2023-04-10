@@ -3,7 +3,7 @@
 Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui)
 * Install WAS suit and avoid a mess of red boxes.
 
-<img src="workflow smaller.png" align="middle">
+<img src="wyrde-hrf-x10-latent-upscale-was-random-3lora-v1.0.png" align="middle">
 
 ## The Principle of the Thing
 
