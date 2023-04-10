@@ -1,51 +1,12 @@
 {
   "last_node_id": 1304,
-  "last_link_id": 2116,
+  "last_link_id": 2117,
   "nodes": [
-    {
-      "id": 29,
-      "type": "Reroute",
-      "pos": [
-        3250,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 96,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 99
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            100,
-            121
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
     {
       "id": 46,
       "type": "Reroute",
       "pos": [
-        4040,
+        4280,
         -360
       ],
       "size": [
@@ -82,7 +43,7 @@
       "id": 38,
       "type": "Reroute",
       "pos": [
-        3140,
+        3330,
         -350
       ],
       "size": [
@@ -153,167 +114,11 @@
       }
     },
     {
-      "id": 43,
-      "type": "Reroute",
-      "pos": [
-        4520,
-        660
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 87,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 117
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            118,
-            295
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 95,
-      "type": "Reroute",
-      "pos": [
-        5380,
-        660
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 107,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 295
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            296,
-            541
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 236,
-      "type": "Reroute",
-      "pos": [
-        6345.023044977438,
-        656.861571623279
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 131,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 541
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            502,
-            542
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 264,
-      "type": "Reroute",
-      "pos": [
-        8300,
-        660
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 190,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 543
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            525,
-            544
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
       "id": 244,
       "type": "Reroute",
       "pos": [
-        6940,
-        -370
+        7340,
+        -360
       ],
       "size": [
         75,
@@ -349,8 +154,8 @@
       "id": 234,
       "type": "Reroute",
       "pos": [
-        6010,
-        -360
+        6370,
+        -350
       ],
       "size": [
         75,
@@ -386,8 +191,8 @@
       "id": 93,
       "type": "Reroute",
       "pos": [
-        5040,
-        -360
+        5370,
+        -350
       ],
       "size": [
         75,
@@ -418,45 +223,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 246,
-      "type": "Reroute",
-      "pos": [
-        7290,
-        660
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 159,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 542
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            510,
-            543
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
     },
     {
       "id": 352,
@@ -502,7 +268,7 @@
       "id": 25,
       "type": "Reroute",
       "pos": [
-        1160,
+        1040,
         -350
       ],
       "size": [
@@ -539,7 +305,7 @@
       "id": 262,
       "type": "Reroute",
       "pos": [
-        7930,
+        8320,
         -370
       ],
       "size": [
@@ -576,7 +342,7 @@
       "id": 270,
       "type": "Reroute",
       "pos": [
-        8950,
+        9350,
         -370
       ],
       "size": [
@@ -613,7 +379,7 @@
       "id": 278,
       "type": "Reroute",
       "pos": [
-        9920,
+        10250,
         -370
       ],
       "size": [
@@ -684,8 +450,8 @@
       "id": 373,
       "type": "Reroute",
       "pos": [
-        11430,
-        -370
+        11841.13411735036,
+        -373.138428376721
       ],
       "size": [
         75,
@@ -754,7 +520,7 @@
       "id": 277,
       "type": "Reroute",
       "pos": [
-        9960,
+        10290,
         -430
       ],
       "size": [
@@ -793,8 +559,8 @@
       "id": 243,
       "type": "Reroute",
       "pos": [
-        6980,
-        -430
+        7380,
+        -420
       ],
       "size": [
         75,
@@ -832,8 +598,8 @@
       "id": 233,
       "type": "Reroute",
       "pos": [
-        6050,
-        -420
+        6410,
+        -410
       ],
       "size": [
         75,
@@ -871,8 +637,8 @@
       "id": 92,
       "type": "Reroute",
       "pos": [
-        5080,
-        -420
+        5410,
+        -410
       ],
       "size": [
         75,
@@ -907,49 +673,10 @@
       "bgcolor": "#653"
     },
     {
-      "id": 45,
-      "type": "Reroute",
-      "pos": [
-        4110,
-        -420
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 120,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 120
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            123,
-            290
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 37,
       "type": "Reroute",
       "pos": [
-        3180,
+        3370,
         -420
       ],
       "size": [
@@ -1027,7 +754,7 @@
       "id": 24,
       "type": "Reroute",
       "pos": [
-        1210,
+        1090,
         -420
       ],
       "size": [
@@ -1099,121 +826,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 272,
-      "type": "Reroute",
-      "pos": [
-        9360,
-        650
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 222,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 544
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            532,
-            545
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 280,
-      "type": "Reroute",
-      "pos": [
-        10300,
-        650
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 254,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 545
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            539
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 232,
-      "type": "Reroute",
-      "pos": [
-        6120,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 168,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 559
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            497,
-            556
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 117,
@@ -1309,8 +921,8 @@
       "id": 174,
       "type": "Text Multiline",
       "pos": [
-        -2600,
-        -590
+        -2608.1184321495803,
+        -327.0246155769446
       ],
       "size": {
         "0": 210,
@@ -1341,8 +953,8 @@
       "id": 169,
       "type": "Text Multiline",
       "pos": [
-        -2610,
-        -1010
+        -2618.1184321495803,
+        -747.024615576945
       ],
       "size": {
         "0": 210,
@@ -1449,8 +1061,8 @@
       "id": 197,
       "type": "Text Multiline",
       "pos": [
-        -2620,
-        -170
+        -2628.1184321495803,
+        92.97538442305725
       ],
       "size": {
         "0": 210,
@@ -1481,8 +1093,8 @@
       "id": 218,
       "type": "Text Multiline",
       "pos": [
-        -2620,
-        240
+        -2628.1184321495803,
+        502.97538442305563
       ],
       "size": {
         "0": 210,
@@ -1513,8 +1125,8 @@
       "id": 214,
       "type": "Text Random Line",
       "pos": [
-        -2390,
-        240
+        -2398.1184321495803,
+        502.97538442305563
       ],
       "size": {
         "0": 315,
@@ -1553,8 +1165,8 @@
       "id": 170,
       "type": "Text Random Line",
       "pos": [
-        -2390,
-        -590
+        -2398.1184321495803,
+        -327.0246155769446
       ],
       "size": {
         "0": 315,
@@ -1593,8 +1205,8 @@
       "id": 164,
       "type": "Text Random Line",
       "pos": [
-        -2390,
-        -1010
+        -2398.1184321495803,
+        -747.024615576945
       ],
       "size": {
         "0": 315,
@@ -1633,8 +1245,8 @@
       "id": 193,
       "type": "Text Random Line",
       "pos": [
-        -2380,
-        -170
+        -2388.1184321495803,
+        92.97538442305725
       ],
       "size": {
         "0": 315,
@@ -1673,8 +1285,8 @@
       "id": 622,
       "type": "Text Add Token by Input",
       "pos": [
-        -1960,
-        -1100
+        -1968.1184321495803,
+        -837.0246155769423
       ],
       "size": {
         "0": 210,
@@ -1703,8 +1315,8 @@
       "id": 625,
       "type": "Text Add Token by Input",
       "pos": [
-        -1940,
-        -680
+        -1948.1184321495803,
+        -417.0246155769448
       ],
       "size": {
         "0": 210,
@@ -1733,8 +1345,8 @@
       "id": 632,
       "type": "Text Add Token by Input",
       "pos": [
-        -1920,
-        -290
+        -1928.1184321495803,
+        -27.02461557694287
       ],
       "size": {
         "0": 210,
@@ -1763,8 +1375,8 @@
       "id": 623,
       "type": "Text String",
       "pos": [
-        -2290,
-        -1230
+        -2298.1184321495803,
+        -967.0246155769387
       ],
       "size": {
         "0": 210,
@@ -1812,8 +1424,8 @@
       "id": 626,
       "type": "Text String",
       "pos": [
-        -2290,
-        -810
+        -2298.1184321495803,
+        -547.024615576945
       ],
       "size": {
         "0": 210,
@@ -1861,8 +1473,8 @@
       "id": 627,
       "type": "Text String",
       "pos": [
-        -2280,
-        -390
+        -2288.1184321495803,
+        -127.02461557694352
       ],
       "size": {
         "0": 210,
@@ -1912,7 +1524,7 @@
       "id": 3,
       "type": "KSampler",
       "pos": [
-        1520,
+        1400,
         -240
       ],
       "size": {
@@ -2182,91 +1794,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 653,
-      "type": "Reroute",
-      "pos": [
-        1950,
-        2500
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 146,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1126,
-          "pos": [
-            37.5,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1129,
-            1136
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 654,
-      "type": "Reroute",
-      "pos": [
-        1890,
-        2530
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 155,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1127,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1130,
-            1137
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
       "id": 655,
       "type": "Reroute",
       "pos": [
@@ -2307,89 +1834,6 @@
       },
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 656,
-      "type": "Reroute",
-      "pos": [
-        1950,
-        2930
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 175,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1136,
-          "pos": [
-            37.5,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1139
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 657,
-      "type": "Reroute",
-      "pos": [
-        1890,
-        2960
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 185,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1137,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1140
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 131,
@@ -3707,7 +3151,7 @@
       "id": 936,
       "type": "Reroute",
       "pos": [
-        3020,
+        3010,
         2500
       ],
       "size": [
@@ -3744,47 +3188,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 937,
-      "type": "Reroute",
-      "pos": [
-        2960,
-        2530
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 186,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1610,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1598,
-            1613
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 938,
@@ -3831,7 +3234,7 @@
       "id": 939,
       "type": "Reroute",
       "pos": [
-        3020,
+        3010,
         2930
       ],
       "size": [
@@ -3872,7 +3275,7 @@
       "id": 940,
       "type": "Reroute",
       "pos": [
-        2960,
+        2950,
         2960
       ],
       "size": [
@@ -5013,7 +4416,7 @@
       "id": 973,
       "type": "Reroute",
       "pos": [
-        4090,
+        4080,
         2500
       ],
       "size": [
@@ -5050,47 +4453,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 974,
-      "type": "Reroute",
-      "pos": [
-        4030,
-        2530
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 218,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1655,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1643,
-            1658
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 975,
@@ -5137,7 +4499,7 @@
       "id": 976,
       "type": "Reroute",
       "pos": [
-        4090,
+        4080,
         2930
       ],
       "size": [
@@ -5178,7 +4540,7 @@
       "id": 977,
       "type": "Reroute",
       "pos": [
-        4030,
+        4020,
         2960
       ],
       "size": [
@@ -6319,7 +5681,7 @@
       "id": 1010,
       "type": "Reroute",
       "pos": [
-        5120,
+        5110,
         2490
       ],
       "size": [
@@ -6356,47 +5718,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 1011,
-      "type": "Reroute",
-      "pos": [
-        5060,
-        2520
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 250,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1700,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1688,
-            1703
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1012,
@@ -6443,7 +5764,7 @@
       "id": 1013,
       "type": "Reroute",
       "pos": [
-        5120,
+        5110,
         2920
       ],
       "size": [
@@ -6484,7 +5805,7 @@
       "id": 1014,
       "type": "Reroute",
       "pos": [
-        5060,
+        5050,
         2950
       ],
       "size": [
@@ -7663,89 +6984,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 1047,
-      "type": "Reroute",
-      "pos": [
-        6190,
-        2480
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 269,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1744,
-          "pos": [
-            37.5,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1732,
-            1747
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 1048,
-      "type": "Reroute",
-      "pos": [
-        6130,
-        2510
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 281,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1745,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1733,
-            1748
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
       "id": 1049,
       "type": "Reroute",
       "pos": [
@@ -7785,87 +7023,6 @@
       },
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 1050,
-      "type": "Reroute",
-      "pos": [
-        6190,
-        2910
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 296,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1747,
-          "pos": [
-            37.5,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1737
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 1051,
-      "type": "Reroute",
-      "pos": [
-        6130,
-        2940
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 308,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1748,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1738
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1052,
@@ -9013,7 +8170,7 @@
       "id": 1084,
       "type": "Reroute",
       "pos": [
-        7200,
+        7196.456878000001,
         2480
       ],
       "size": [
@@ -9055,7 +8212,7 @@
       "id": 1085,
       "type": "Reroute",
       "pos": [
-        7140,
+        7136.456878000001,
         2510
       ],
       "size": [
@@ -9137,7 +8294,7 @@
       "id": 1087,
       "type": "Reroute",
       "pos": [
-        7200,
+        7196.456878000001,
         2910
       ],
       "size": [
@@ -9173,46 +8330,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 1088,
-      "type": "Reroute",
-      "pos": [
-        7140,
-        2940
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 335,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1793,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1783
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1089,
@@ -10398,7 +9515,7 @@
       "id": 1121,
       "type": "Reroute",
       "pos": [
-        8250,
+        8240,
         2470
       ],
       "size": [
@@ -10440,7 +9557,7 @@
       "id": 1122,
       "type": "Reroute",
       "pos": [
-        8190,
+        8180,
         2500
       ],
       "size": [
@@ -10522,7 +9639,7 @@
       "id": 1124,
       "type": "Reroute",
       "pos": [
-        8250,
+        8240,
         2900
       ],
       "size": [
@@ -10558,46 +9675,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 1125,
-      "type": "Reroute",
-      "pos": [
-        8190,
-        2930
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 355,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1838,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1828
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1126,
@@ -11781,7 +10858,7 @@
       "id": 1158,
       "type": "Reroute",
       "pos": [
-        9260,
+        9250,
         2490
       ],
       "size": [
@@ -11823,7 +10900,7 @@
       "id": 1159,
       "type": "Reroute",
       "pos": [
-        9200,
+        9190,
         2520
       ],
       "size": [
@@ -11905,7 +10982,7 @@
       "id": 1161,
       "type": "Reroute",
       "pos": [
-        9260,
+        9250,
         2920
       ],
       "size": [
@@ -11941,46 +11018,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 1162,
-      "type": "Reroute",
-      "pos": [
-        9200,
-        2950
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 373,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1883,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1873
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1163,
@@ -13204,7 +12241,7 @@
       "id": 1195,
       "type": "Reroute",
       "pos": [
-        10260,
+        10250,
         2500
       ],
       "size": [
@@ -13246,7 +12283,7 @@
       "id": 1196,
       "type": "Reroute",
       "pos": [
-        10200,
+        10190,
         2530
       ],
       "size": [
@@ -13328,7 +12365,7 @@
       "id": 1198,
       "type": "Reroute",
       "pos": [
-        10260,
+        10250,
         2930
       ],
       "size": [
@@ -13364,46 +12401,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 1199,
-      "type": "Reroute",
-      "pos": [
-        10200,
-        2960
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 388,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1928,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1918
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1200,
@@ -14551,7 +13548,7 @@
       "id": 1232,
       "type": "Reroute",
       "pos": [
-        11260,
+        11250,
         2500
       ],
       "size": [
@@ -14593,7 +13590,7 @@
       "id": 1233,
       "type": "Reroute",
       "pos": [
-        11200,
+        11190,
         2530
       ],
       "size": [
@@ -14675,7 +13672,7 @@
       "id": 1235,
       "type": "Reroute",
       "pos": [
-        11260,
+        11250,
         2930
       ],
       "size": [
@@ -14711,46 +13708,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 1236,
-      "type": "Reroute",
-      "pos": [
-        11200,
-        2960
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 401,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 1973,
-          "pos": [
-            37.5,
-            0
-          ],
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            1963
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
     },
     {
       "id": 1237,
@@ -16820,8 +15777,8 @@
       "id": 641,
       "type": "Reroute",
       "pos": [
-        1670,
-        29
+        1550,
+        30
       ],
       "size": [
         90.4,
@@ -16861,7 +15818,7 @@
       "id": 103,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        1890,
+        1770,
         -240
       ],
       "size": {
@@ -16902,7 +15859,7 @@
       "id": 8,
       "type": "VAEDecode",
       "pos": [
-        1960,
+        1840,
         30
       ],
       "size": {
@@ -16944,7 +15901,7 @@
       "id": 1248,
       "type": "Reroute",
       "pos": [
-        1730,
+        1610,
         100
       ],
       "size": [
@@ -16972,89 +15929,6 @@
           "type": "LATENT",
           "links": [
             2030
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 16,
-      "type": "Reroute",
-      "pos": [
-        1820,
-        660
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 49,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2093
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            54,
-            56
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 909,
-      "type": "Reroute",
-      "pos": [
-        1730,
-        1000
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 152,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2030,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2027
           ],
           "slot_index": 0
         }
@@ -17194,140 +16068,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1254,
-      "type": "Reroute",
-      "pos": [
-        3659.4505959908893,
-        978.4519039871097
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 275,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2036,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2037
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 1256,
-      "type": "Reroute",
-      "pos": [
-        3659.4505959908893,
-        78.45190398710974
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 244,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2038,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2036
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 1258,
-      "type": "Reroute",
-      "pos": [
-        4564.787504268445,
-        1002.3912319876873
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 329,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2039,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2040
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1260,
       "type": "Reroute",
       "pos": [
-        4564.787504268445,
-        102.39123198768732
+        4800,
+        100
       ],
       "size": [
         90.4,
@@ -17366,54 +16111,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1262,
-      "type": "Reroute",
-      "pos": [
-        5526.708084990449,
-        989.3334927298748
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 367,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2042,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2043
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1264,
       "type": "Reroute",
       "pos": [
-        5526.708084990449,
-        89.33349272987482
+        5880,
+        80
       ],
       "size": [
         90.4,
@@ -17452,54 +16154,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1266,
-      "type": "Reroute",
-      "pos": [
-        6492.982103715121,
-        989.3335153512053
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 394,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2045,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2046
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1268,
       "type": "Reroute",
       "pos": [
-        6492.982103715121,
-        89.33351535120528
+        6850,
+        80
       ],
       "size": [
         90.4,
@@ -17538,54 +16197,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1270,
-      "type": "Reroute",
-      "pos": [
-        7415.729237049474,
-        978.4520803883494
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 413,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2048,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2049
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1272,
       "type": "Reroute",
       "pos": [
-        7415.729237049474,
-        78.45208038834937
+        7810,
+        80
       ],
       "size": [
         90.4,
@@ -17624,53 +16240,10 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1274,
-      "type": "Reroute",
-      "pos": [
-        8425.529120948664,
-        991.5098366306756
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 433,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2051,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2052
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1276,
       "type": "Reroute",
       "pos": [
-        8425.529120948664,
+        8835.340429644426,
         91.50983663067564
       ],
       "size": [
@@ -17710,54 +16283,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1278,
-      "type": "Reroute",
-      "pos": [
-        9409.21339378296,
-        989.3334967773335
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 454,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2054,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2055
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1280,
       "type": "Reroute",
       "pos": [
-        9409.21339378296,
-        89.3334967773335
+        9810,
+        70
       ],
       "size": [
         90.4,
@@ -17796,54 +16326,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 1282,
-      "type": "Reroute",
-      "pos": [
-        10368.957670284071,
-        976.2758185546772
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 473,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2057,
-          "slot_index": 0,
-          "pos": [
-            45.2,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2058
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": true
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
       "id": 1284,
       "type": "Reroute",
       "pos": [
-        10368.957670284071,
-        76.27581855467724
+        10780.091787634432,
+        73.13739017795625
       ],
       "size": [
         90.4,
@@ -18002,49 +16489,10 @@
       "bgcolor": "#535"
     },
     {
-      "id": 36,
-      "type": "Reroute",
-      "pos": [
-        3810,
-        660
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 71,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 106
-        }
-      ],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            107,
-            117
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
       "id": 101,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        3840,
+        3970,
         -260
       ],
       "size": {
@@ -18081,113 +16529,11 @@
       ]
     },
     {
-      "id": 1253,
-      "type": "Reroute",
-      "pos": [
-        3599.4505959908893,
-        7.451903987109745
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 212,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2090,
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2038,
-            2062
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 40,
-      "type": "KSampler",
-      "pos": [
-        4350,
-        -250
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 243,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 124
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 123
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 122
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 330
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            285,
-            2063
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler D01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        477833825830885,
-        true,
-        12,
-        6,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.8
-      ]
-    },
-    {
       "id": 1257,
       "type": "Reroute",
       "pos": [
-        4504.787504268445,
-        31.39123198768732
+        4740,
+        30
       ],
       "size": [
         90.4,
@@ -18227,7 +16573,7 @@
       "id": 41,
       "type": "VAEDecode",
       "pos": [
-        4760,
+        4990,
         30
       ],
       "size": {
@@ -18307,7 +16653,7 @@
       "id": 35,
       "type": "VAEDecode",
       "pos": [
-        3820,
+        3950,
         10
       ],
       "size": {
@@ -18315,7 +16661,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 245,
+      "order": 244,
       "mode": 0,
       "inputs": [
         {
@@ -18347,7 +16693,7 @@
       "id": 89,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        4760,
+        4990,
         -250
       ],
       "size": {
@@ -18384,72 +16730,11 @@
       ]
     },
     {
-      "id": 90,
-      "type": "KSampler",
-      "pos": [
-        5310,
-        -260
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 301,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 289
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 291
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 293
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 331
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            651,
-            2065
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler E01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        144944122335792,
-        true,
-        12,
-        5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.8
-      ]
-    },
-    {
       "id": 1261,
       "type": "Reroute",
       "pos": [
-        5466.708084990449,
-        18.33349272987482
+        5820,
+        10
       ],
       "size": [
         90.4,
@@ -18489,8 +16774,8 @@
       "id": 94,
       "type": "VAEDecode",
       "pos": [
-        5710,
-        20
+        6070,
+        10
       ],
       "size": {
         "0": 210,
@@ -18529,8 +16814,8 @@
       "id": 230,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        5720,
-        -260
+        6080,
+        -270
       ],
       "size": {
         "0": 315,
@@ -18569,8 +16854,8 @@
       "id": 240,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        6690,
-        -260
+        7090,
+        -270
       ],
       "size": {
         "0": 315,
@@ -18606,113 +16891,11 @@
       ]
     },
     {
-      "id": 1265,
-      "type": "Reroute",
-      "pos": [
-        6432.982103715121,
-        18.33351535120528
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 366,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 2068,
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2047,
-            2067
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 231,
-      "type": "KSampler",
-      "pos": [
-        6275,
-        -263
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 348,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 497
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 498
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 499
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 500
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            650,
-            2068
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler F01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        29125897431634,
-        true,
-        12,
-        5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.7
-      ]
-    },
-    {
       "id": 235,
       "type": "VAEDecode",
       "pos": [
-        6670,
-        20
+        7070,
+        10
       ],
       "size": {
         "0": 210,
@@ -18751,7 +16934,7 @@
       "id": 258,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        7670,
+        8070,
         -270
       ],
       "size": {
@@ -18791,8 +16974,8 @@
       "id": 1269,
       "type": "Reroute",
       "pos": [
-        7355.729237049474,
-        7.452080388349373
+        7750,
+        0
       ],
       "size": [
         90.4,
@@ -18829,111 +17012,10 @@
       "bgcolor": "#355"
     },
     {
-      "id": 245,
-      "type": "VAEDecode",
-      "pos": [
-        7630,
-        10
-      ],
-      "size": {
-        "0": 210,
-        "1": 46
-      },
-      "flags": {},
-      "order": 404,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 2070
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 510
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            763
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAEDecode"
-      }
-    },
-    {
-      "id": 259,
-      "type": "KSampler",
-      "pos": [
-        8230,
-        -260
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 402,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 520
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 521
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 522
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 523
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            648,
-            2071
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler H01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        3390001095835,
-        true,
-        12,
-        5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.6
-      ]
-    },
-    {
       "id": 1273,
       "type": "Reroute",
       "pos": [
-        8365.529120948664,
+        8775.340429644426,
         20.509836630675636
       ],
       "size": [
@@ -18974,7 +17056,7 @@
       "id": 263,
       "type": "VAEDecode",
       "pos": [
-        8630,
+        9039.811308695762,
         20
       ],
       "size": {
@@ -19014,7 +17096,7 @@
       "id": 266,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        8670,
+        9079.811308695762,
         -260
       ],
       "size": {
@@ -19054,8 +17136,8 @@
       "id": 274,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
-        9680,
-        -260
+        10080,
+        -280
       ],
       "size": {
         "0": 315,
@@ -19094,8 +17176,8 @@
       "id": 1277,
       "type": "Reroute",
       "pos": [
-        9349.21339378296,
-        18.333496777333494
+        9750,
+        0
       ],
       "size": [
         90.4,
@@ -19135,8 +17217,8 @@
       "id": 271,
       "type": "VAEDecode",
       "pos": [
-        9620,
-        20
+        10020,
+        0
       ],
       "size": {
         "0": 210,
@@ -19170,127 +17252,6 @@
       "properties": {
         "Node name for S&R": "VAEDecode"
       }
-    },
-    {
-      "id": 267,
-      "type": "KSampler",
-      "pos": [
-        9230,
-        -260
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 421,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 527
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 528
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 529
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 530
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            546,
-            2074
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler I01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        145712098721255,
-        true,
-        12,
-        5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.5
-      ]
-    },
-    {
-      "id": 275,
-      "type": "KSampler",
-      "pos": [
-        10180,
-        -270
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 442,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 534
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 535
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 536
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 537
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            2075
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler J01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        691195565021421,
-        true,
-        12,
-        5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.4
-      ]
     },
     {
       "id": 156,
@@ -19816,7 +17777,7 @@
       "id": 138,
       "type": "Reroute",
       "pos": [
-        1230,
+        1110,
         130
       ],
       "size": [
@@ -19853,72 +17814,11 @@
       "bgcolor": "#355"
     },
     {
-      "id": 31,
-      "type": "KSampler",
-      "pos": [
-        3420,
-        -260
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 180,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 100
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 111
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 113
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 329
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            312,
-            2090
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler C01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        841885292093774,
-        true,
-        12,
-        7,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.8
-      ]
-    },
-    {
       "id": 1281,
       "type": "Reroute",
       "pos": [
-        10310,
-        0
+        10721.13411735036,
+        -3.138428376720998
       ],
       "size": [
         90.4,
@@ -19958,8 +17858,8 @@
       "id": 279,
       "type": "VAEDecode",
       "pos": [
-        10570,
-        0
+        10981.13411735036,
+        -3.138428376720998
       ],
       "size": {
         "0": 210,
@@ -19995,115 +17895,11 @@
       }
     },
     {
-      "id": 9,
-      "type": "SaveImage",
-      "pos": [
-        2120,
-        140
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 153,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 9
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 407,
-      "type": "SaveImage",
-      "pos": [
-        3030,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 214,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 758
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 408,
-      "type": "SaveImage",
-      "pos": [
-        4000,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 276,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 759
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 409,
-      "type": "SaveImage",
-      "pos": [
-        4950,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 330,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 760
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
       "id": 410,
       "type": "SaveImage",
       "pos": [
-        5870,
-        200
+        6230,
+        190
       ],
       "size": {
         "0": 370,
@@ -20128,8 +17924,8 @@
       "id": 411,
       "type": "SaveImage",
       "pos": [
-        6810,
-        190
+        7210,
+        180
       ],
       "size": {
         "0": 370,
@@ -20143,110 +17939,6 @@
           "name": "images",
           "type": "IMAGE",
           "link": 762
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 412,
-      "type": "SaveImage",
-      "pos": [
-        7750,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 414,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 763
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 413,
-      "type": "SaveImage",
-      "pos": [
-        8780,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 434,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 764
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 414,
-      "type": "SaveImage",
-      "pos": [
-        9730,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 455,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 765
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "wyrde-hrf-x10-latent-upscale"
-      ]
-    },
-    {
-      "id": 415,
-      "type": "SaveImage",
-      "pos": [
-        10660,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 474,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 766
         }
       ],
       "properties": {},
@@ -20310,67 +18002,6 @@
         true,
         12,
         7.5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.8
-      ]
-    },
-    {
-      "id": 241,
-      "type": "KSampler",
-      "pos": [
-        7220,
-        -270
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 380,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 505
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 506
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 507
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 508
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            649,
-            2069
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler G01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        469640740043470,
-        true,
-        12,
-        5,
         "uni_pc_bh2",
         "ddim_uniform",
         0.8
@@ -21569,7 +19200,7 @@
       "id": 28,
       "type": "Reroute",
       "pos": [
-        1260,
+        1140,
         -480
       ],
       "size": [
@@ -21644,205 +19275,10 @@
       "bgcolor": "#335"
     },
     {
-      "id": 44,
-      "type": "Reroute",
-      "pos": [
-        4190,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 116,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 121
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            124,
-            288
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 242,
-      "type": "Reroute",
-      "pos": [
-        7050,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 199,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 556
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            505,
-            555
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 260,
-      "type": "Reroute",
-      "pos": [
-        8050,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 231,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 555
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            520,
-            550
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 268,
-      "type": "Reroute",
-      "pos": [
-        9060,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 261,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 550
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            527,
-            549
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 276,
-      "type": "Reroute",
-      "pos": [
-        10031,
-        -483
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 289,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 549
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            534,
-            677
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 261,
       "type": "Reroute",
       "pos": [
-        7970,
+        8360,
         -430
       ],
       "size": [
@@ -21881,7 +19317,7 @@
       "id": 269,
       "type": "Reroute",
       "pos": [
-        8990,
+        9390,
         -430
       ],
       "size": [
@@ -21915,45 +19351,6 @@
       },
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 91,
-      "type": "Reroute",
-      "pos": [
-        5150,
-        -480
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 140,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 288
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            289,
-            559
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 115,
@@ -22118,8 +19515,8 @@
       "id": 630,
       "type": "Text String",
       "pos": [
-        -2290,
-        20
+        -2298.1184321495803,
+        282.97538442305716
       ],
       "size": {
         "0": 210,
@@ -22167,8 +19564,8 @@
       "id": 629,
       "type": "Text Add Token by Input",
       "pos": [
-        -1920,
-        130
+        -1928.1184321495803,
+        392.9753844230565
       ],
       "size": {
         "0": 210,
@@ -22716,6 +20113,2609 @@
         768,
         1
       ]
+    },
+    {
+      "id": 43,
+      "type": "Reroute",
+      "pos": [
+        4880,
+        660
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 87,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 117
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            118,
+            295
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 95,
+      "type": "Reroute",
+      "pos": [
+        5970,
+        650
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 107,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 295
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            296,
+            541
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 236,
+      "type": "Reroute",
+      "pos": [
+        6960,
+        650
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 131,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 541
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            502,
+            542
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 246,
+      "type": "Reroute",
+      "pos": [
+        7900,
+        650
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 159,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 542
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            510,
+            543
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 412,
+      "type": "SaveImage",
+      "pos": [
+        8250,
+        200
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 414,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 763
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 245,
+      "type": "VAEDecode",
+      "pos": [
+        8030,
+        10
+      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
+      "flags": {},
+      "order": 404,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 2070
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 510
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            763
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 413,
+      "type": "SaveImage",
+      "pos": [
+        9259.811308695762,
+        200
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 434,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 764
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 264,
+      "type": "Reroute",
+      "pos": [
+        8919.811308695762,
+        650
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 190,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 543
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            525,
+            544
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 415,
+      "type": "SaveImage",
+      "pos": [
+        11261.13411735036,
+        176.861571623279
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 474,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 766
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 280,
+      "type": "Reroute",
+      "pos": [
+        10881.13411735036,
+        646.861571623279
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 254,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 545
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            539
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 414,
+      "type": "SaveImage",
+      "pos": [
+        10220,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 455,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 765
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "SaveImage",
+      "pos": [
+        2000,
+        140
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 153,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 9
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 1253,
+      "type": "Reroute",
+      "pos": [
+        3670,
+        10
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 212,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2090,
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2062,
+            2117
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 1256,
+      "type": "Reroute",
+      "pos": [
+        3730,
+        80
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 245,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2117,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2036
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 36,
+      "type": "Reroute",
+      "pos": [
+        3850,
+        660
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 71,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 106
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            107,
+            117
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 275,
+      "type": "KSampler",
+      "pos": [
+        10591,
+        -273
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 442,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 534
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 535
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 536
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 537
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2075
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler J01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        691195565021421,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.4
+      ]
+    },
+    {
+      "id": 276,
+      "type": "Reroute",
+      "pos": [
+        10360,
+        -480
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 289,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 549
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            534,
+            677
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 1282,
+      "type": "Reroute",
+      "pos": [
+        10800,
+        970
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 473,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2057,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2058
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 267,
+      "type": "KSampler",
+      "pos": [
+        9640,
+        -280
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 421,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 527
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 528
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 529
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 530
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            546,
+            2074
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler I01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        145712098721255,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.5
+      ]
+    },
+    {
+      "id": 272,
+      "type": "Reroute",
+      "pos": [
+        9990,
+        640
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 222,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 544
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            532,
+            545
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 1278,
+      "type": "Reroute",
+      "pos": [
+        9810,
+        990
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 454,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2054,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2055
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 268,
+      "type": "Reroute",
+      "pos": [
+        9460,
+        -480
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 261,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 550
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            527,
+            549
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 259,
+      "type": "KSampler",
+      "pos": [
+        8640,
+        -260
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 402,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 520
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 521
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 522
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 523
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            648,
+            2071
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler H01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        3390001095835,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.6
+      ]
+    },
+    {
+      "id": 1274,
+      "type": "Reroute",
+      "pos": [
+        8840,
+        990
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 433,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2051,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2052
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 260,
+      "type": "Reroute",
+      "pos": [
+        8440,
+        -480
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 231,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 555
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            520,
+            550
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 241,
+      "type": "KSampler",
+      "pos": [
+        7620,
+        -270
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 380,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 505
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 506
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 507
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 508
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            649,
+            2069
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler G01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        469640740043470,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.8
+      ]
+    },
+    {
+      "id": 242,
+      "type": "Reroute",
+      "pos": [
+        7450,
+        -470
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 199,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 556
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            505,
+            555
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 1270,
+      "type": "Reroute",
+      "pos": [
+        7820,
+        1010
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 413,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2048,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2049
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 231,
+      "type": "KSampler",
+      "pos": [
+        6670,
+        -270
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 348,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 497
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 498
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 499
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 500
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            650,
+            2068
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler F01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        29125897431634,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.7
+      ]
+    },
+    {
+      "id": 1265,
+      "type": "Reroute",
+      "pos": [
+        6790,
+        10
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 366,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2068,
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2047,
+            2067
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 1266,
+      "type": "Reroute",
+      "pos": [
+        6860,
+        990
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 394,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2045,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2046
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 232,
+      "type": "Reroute",
+      "pos": [
+        6480,
+        -470
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 168,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 559
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            497,
+            556
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 90,
+      "type": "KSampler",
+      "pos": [
+        5670,
+        -270
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 301,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 289
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 291
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 293
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 331
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            651,
+            2065
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler E01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        144944122335792,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.8
+      ]
+    },
+    {
+      "id": 1262,
+      "type": "Reroute",
+      "pos": [
+        5880,
+        1010
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 367,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2042,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2043
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 91,
+      "type": "Reroute",
+      "pos": [
+        5480,
+        -470
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 140,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 288
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            289,
+            559
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 409,
+      "type": "SaveImage",
+      "pos": [
+        5180,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 330,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 760
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 40,
+      "type": "KSampler",
+      "pos": [
+        4580,
+        -250
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 243,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 124
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 123
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 122
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 330
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            285,
+            2063
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler D01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        477833825830885,
+        true,
+        12,
+        6,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.8
+      ]
+    },
+    {
+      "id": 1258,
+      "type": "Reroute",
+      "pos": [
+        4790,
+        1000
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 329,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2039,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2040
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 45,
+      "type": "Reroute",
+      "pos": [
+        4350,
+        -420
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 120,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 120
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            123,
+            290
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 408,
+      "type": "SaveImage",
+      "pos": [
+        4140,
+        190
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 275,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 759
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "KSampler",
+      "pos": [
+        3550,
+        -260
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 180,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 100
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 111
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 113
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 329
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            312,
+            2090
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler C01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        841885292093774,
+        true,
+        12,
+        7,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.8
+      ]
+    },
+    {
+      "id": 1254,
+      "type": "Reroute",
+      "pos": [
+        3740,
+        990
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 276,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2036,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2037
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 29,
+      "type": "Reroute",
+      "pos": [
+        3450,
+        -480
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 96,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 99
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            100,
+            121
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 44,
+      "type": "Reroute",
+      "pos": [
+        4400,
+        -480
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 116,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 121
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            124,
+            288
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 407,
+      "type": "SaveImage",
+      "pos": [
+        3080,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 214,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 758
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "Reroute",
+      "pos": [
+        1800,
+        660
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 49,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2093
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            54,
+            56
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 909,
+      "type": "Reroute",
+      "pos": [
+        1630,
+        990
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 152,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 2030,
+          "slot_index": 0,
+          "pos": [
+            45.2,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            2027
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": true
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 654,
+      "type": "Reroute",
+      "pos": [
+        1880,
+        2530
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 155,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1127,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1130,
+            1137
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 657,
+      "type": "Reroute",
+      "pos": [
+        1880,
+        2960
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 185,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1137,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1140
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 653,
+      "type": "Reroute",
+      "pos": [
+        1940,
+        2500
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 146,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1126,
+          "pos": [
+            37.5,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1129,
+            1136
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 656,
+      "type": "Reroute",
+      "pos": [
+        1940,
+        2930
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 175,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1136,
+          "pos": [
+            37.5,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1139
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 937,
+      "type": "Reroute",
+      "pos": [
+        2950,
+        2530
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 186,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1610,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1598,
+            1613
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 974,
+      "type": "Reroute",
+      "pos": [
+        4020,
+        2530
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 218,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1655,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1643,
+            1658
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1011,
+      "type": "Reroute",
+      "pos": [
+        5050,
+        2520
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 250,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1700,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1688,
+            1703
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1048,
+      "type": "Reroute",
+      "pos": [
+        6120,
+        2510
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 281,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1745,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1733,
+            1748
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1047,
+      "type": "Reroute",
+      "pos": [
+        6180,
+        2480
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 269,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1744,
+          "pos": [
+            37.5,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1732,
+            1747
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 1051,
+      "type": "Reroute",
+      "pos": [
+        6120,
+        2940
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 308,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1748,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1738
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1050,
+      "type": "Reroute",
+      "pos": [
+        6180,
+        2910
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 296,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1747,
+          "pos": [
+            37.5,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1737
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 1088,
+      "type": "Reroute",
+      "pos": [
+        7136,
+        2940
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 335,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1793,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1783
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1125,
+      "type": "Reroute",
+      "pos": [
+        8180,
+        2930
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 355,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1838,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1828
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1162,
+      "type": "Reroute",
+      "pos": [
+        9190,
+        2950
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 373,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1883,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1873
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1199,
+      "type": "Reroute",
+      "pos": [
+        10190,
+        2960
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 388,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1928,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1918
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 1236,
+      "type": "Reroute",
+      "pos": [
+        11190,
+        2960
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 401,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1973,
+          "pos": [
+            37.5,
+            0
+          ],
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            1963
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
     }
   ],
   "links": [
@@ -27968,14 +27968,6 @@
       "*"
     ],
     [
-      2038,
-      1253,
-      0,
-      1256,
-      0,
-      "*"
-    ],
-    [
       2039,
       1260,
       0,
@@ -28478,6 +28470,14 @@
       226,
       0,
       "*"
+    ],
+    [
+      2117,
+      1253,
+      0,
+      1256,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -28504,10 +28504,10 @@
     {
       "title": "Prompt Random Lists",
       "bounding": [
-        -2666,
-        -1317,
-        1142,
-        2068
+        -2674,
+        -1054,
+        1139,
+        1763
       ],
       "color": "#3f789e"
     }
