@@ -3153,7 +3153,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler A",
+      "title": "KSampler A01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -4085,33 +4085,6 @@
       ]
     },
     {
-      "id": 405,
-      "type": "SaveImage",
-      "pos": [
-        2110,
-        3850
-      ],
-      "size": [
-        320,
-        490
-      ],
-      "flags": {},
-      "order": 449,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1021,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
-    },
-    {
       "id": 130,
       "type": "KSampler",
       "pos": [
@@ -4889,33 +4862,6 @@
       "properties": {
         "Node name for S&R": "ImageUpscaleWithModel"
       }
-    },
-    {
-      "id": 923,
-      "type": "SaveImage",
-      "pos": [
-        3180,
-        3850
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 469,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1587,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
     },
     {
       "id": 924,
@@ -6224,33 +6170,6 @@
       }
     },
     {
-      "id": 960,
-      "type": "SaveImage",
-      "pos": [
-        4250,
-        3850
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 486,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1632,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
-    },
-    {
       "id": 961,
       "type": "ImageScaleFactor _O",
       "pos": [
@@ -7555,33 +7474,6 @@
       "properties": {
         "Node name for S&R": "ImageUpscaleWithModel"
       }
-    },
-    {
-      "id": 997,
-      "type": "SaveImage",
-      "pos": [
-        5280,
-        3840
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 500,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1677,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
     },
     {
       "id": 998,
@@ -8931,33 +8823,6 @@
       }
     },
     {
-      "id": 1034,
-      "type": "SaveImage",
-      "pos": [
-        6350,
-        3830
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 512,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1722,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
-    },
-    {
       "id": 1035,
       "type": "ImageScaleFactor _O",
       "pos": [
@@ -10303,33 +10168,6 @@
       "properties": {
         "Node name for S&R": "ImageUpscaleWithModel"
       }
-    },
-    {
-      "id": 1071,
-      "type": "SaveImage",
-      "pos": [
-        7360,
-        3830
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 522,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1767,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
     },
     {
       "id": 1072,
@@ -11717,33 +11555,6 @@
       }
     },
     {
-      "id": 1108,
-      "type": "SaveImage",
-      "pos": [
-        8410,
-        3820
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 530,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1812,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
-    },
-    {
       "id": 1109,
       "type": "ImageScaleFactor _O",
       "pos": [
@@ -13125,33 +12936,6 @@
       "properties": {
         "Node name for S&R": "ImageUpscaleWithModel"
       }
-    },
-    {
-      "id": 1145,
-      "type": "SaveImage",
-      "pos": [
-        9420,
-        3840
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 536,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1857,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
     },
     {
       "id": 1146,
@@ -14577,33 +14361,6 @@
       }
     },
     {
-      "id": 1182,
-      "type": "SaveImage",
-      "pos": [
-        10420,
-        3850
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 540,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1902,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
-    },
-    {
       "id": 1183,
       "type": "ImageScaleFactor _O",
       "pos": [
@@ -15949,33 +15706,6 @@
       "properties": {
         "Node name for S&R": "ImageUpscaleWithModel"
       }
-    },
-    {
-      "id": 1219,
-      "type": "SaveImage",
-      "pos": [
-        11420,
-        3850
-      ],
-      "size": {
-        "0": 320,
-        "1": 490
-      },
-      "flags": {},
-      "order": 542,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 1947,
-          "slot_index": 0
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
     },
     {
       "id": 1220,
@@ -18860,32 +18590,6 @@
       ]
     },
     {
-      "id": 9,
-      "type": "SaveImage",
-      "pos": [
-        2120,
-        140
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 161,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 9
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain A"
-      ]
-    },
-    {
       "id": 8,
       "type": "VAEDecode",
       "pos": [
@@ -19950,67 +19654,6 @@
       ]
     },
     {
-      "id": 14,
-      "type": "KSampler",
-      "pos": [
-        2510,
-        -260
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 132,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 82
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 104
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 102
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 328
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            314,
-            2061
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler B",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        404669687365302,
-        true,
-        12,
-        7.5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.8
-      ]
-    },
-    {
       "id": 23,
       "type": "Reroute",
       "pos": [
@@ -20170,32 +19813,6 @@
       "bgcolor": "#355"
     },
     {
-      "id": 408,
-      "type": "SaveImage",
-      "pos": [
-        4000,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 277,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 759
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain C"
-      ]
-    },
-    {
       "id": 40,
       "type": "KSampler",
       "pos": [
@@ -20242,7 +19859,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler D",
+      "title": "KSampler D01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -20378,32 +19995,6 @@
       }
     },
     {
-      "id": 407,
-      "type": "SaveImage",
-      "pos": [
-        3030,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 221,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 758
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain B"
-      ]
-    },
-    {
       "id": 35,
       "type": "VAEDecode",
       "pos": [
@@ -20484,32 +20075,6 @@
       ]
     },
     {
-      "id": 409,
-      "type": "SaveImage",
-      "pos": [
-        4950,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 327,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 760
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain D"
-      ]
-    },
-    {
       "id": 90,
       "type": "KSampler",
       "pos": [
@@ -20556,7 +20121,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler E",
+      "title": "KSampler E01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -20692,32 +20257,6 @@
       ]
     },
     {
-      "id": 410,
-      "type": "SaveImage",
-      "pos": [
-        5870,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 365,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 761
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain E"
-      ]
-    },
-    {
       "id": 240,
       "type": "Latent Upscale by Factor (WAS)",
       "pos": [
@@ -20845,7 +20384,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler L06",
+      "title": "KSampler F01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -20940,67 +20479,6 @@
       ]
     },
     {
-      "id": 241,
-      "type": "KSampler",
-      "pos": [
-        7220,
-        -270
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 377,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 505
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 506
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 507
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 508
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            649,
-            2069
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler L07",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        10282393545855,
-        true,
-        12,
-        5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.8
-      ]
-    },
-    {
       "id": 1269,
       "type": "Reroute",
       "pos": [
@@ -21082,58 +20560,6 @@
       }
     },
     {
-      "id": 411,
-      "type": "SaveImage",
-      "pos": [
-        6810,
-        190
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 392,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 762
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain"
-      ]
-    },
-    {
-      "id": 412,
-      "type": "SaveImage",
-      "pos": [
-        7750,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 411,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 763
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain"
-      ]
-    },
-    {
       "id": 259,
       "type": "KSampler",
       "pos": [
@@ -21180,7 +20606,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler L08",
+      "title": "KSampler H01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -21313,32 +20739,6 @@
         "bilinear",
         1,
         "true"
-      ]
-    },
-    {
-      "id": 413,
-      "type": "SaveImage",
-      "pos": [
-        8780,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 431,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 764
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain"
       ]
     },
     {
@@ -21509,7 +20909,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler L09",
+      "title": "KSampler I01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -21521,32 +20921,6 @@
         "uni_pc_bh2",
         "ddim_uniform",
         0.5
-      ]
-    },
-    {
-      "id": 414,
-      "type": "SaveImage",
-      "pos": [
-        9730,
-        200
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 452,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 765
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain"
       ]
     },
     {
@@ -21595,7 +20969,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler L10",
+      "title": "KSampler J01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -21607,32 +20981,6 @@
         "uni_pc_bh2",
         "ddim_uniform",
         0.4
-      ]
-    },
-    {
-      "id": 415,
-      "type": "SaveImage",
-      "pos": [
-        10660,
-        180
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 471,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 766
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "multi latent chain"
       ]
     },
     {
@@ -22439,7 +21787,7 @@
           "slot_index": 0
         }
       ],
-      "title": "KSampler C",
+      "title": "KSampler C01",
       "properties": {
         "Node name for S&R": "KSampler"
       },
@@ -22533,6 +21881,658 @@
       "properties": {
         "Node name for S&R": "VAEDecode"
       }
+    },
+    {
+      "id": 9,
+      "type": "SaveImage",
+      "pos": [
+        2120,
+        140
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 161,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 9
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 407,
+      "type": "SaveImage",
+      "pos": [
+        3030,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 221,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 758
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 408,
+      "type": "SaveImage",
+      "pos": [
+        4000,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 277,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 759
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 409,
+      "type": "SaveImage",
+      "pos": [
+        4950,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 327,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 760
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 410,
+      "type": "SaveImage",
+      "pos": [
+        5870,
+        200
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 365,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 761
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 411,
+      "type": "SaveImage",
+      "pos": [
+        6810,
+        190
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 392,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 762
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 412,
+      "type": "SaveImage",
+      "pos": [
+        7750,
+        200
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 411,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 763
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 413,
+      "type": "SaveImage",
+      "pos": [
+        8780,
+        200
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 431,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 764
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 414,
+      "type": "SaveImage",
+      "pos": [
+        9730,
+        200
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 452,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 765
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 415,
+      "type": "SaveImage",
+      "pos": [
+        10660,
+        180
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 471,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 766
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "KSampler",
+      "pos": [
+        2510,
+        -260
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 132,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 82
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 104
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 102
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 328
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            314,
+            2061
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler B01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        404669687365302,
+        true,
+        12,
+        7.5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.8
+      ]
+    },
+    {
+      "id": 241,
+      "type": "KSampler",
+      "pos": [
+        7220,
+        -270
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 377,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 505
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 506
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 507
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 508
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            649,
+            2069
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler G01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        10282393545855,
+        true,
+        12,
+        5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.8
+      ]
+    },
+    {
+      "id": 1219,
+      "type": "SaveImage",
+      "pos": [
+        11420,
+        3850
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 542,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1947,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 1182,
+      "type": "SaveImage",
+      "pos": [
+        10420,
+        3850
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 540,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1902,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 1145,
+      "type": "SaveImage",
+      "pos": [
+        9420,
+        3840
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 536,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1857,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 1108,
+      "type": "SaveImage",
+      "pos": [
+        8410,
+        3820
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 530,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1812,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 1071,
+      "type": "SaveImage",
+      "pos": [
+        7360,
+        3830
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 522,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1767,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 1034,
+      "type": "SaveImage",
+      "pos": [
+        6350,
+        3830
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 512,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1722,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 997,
+      "type": "SaveImage",
+      "pos": [
+        5280,
+        3840
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 500,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1677,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 960,
+      "type": "SaveImage",
+      "pos": [
+        4250,
+        3850
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 486,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1632,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 923,
+      "type": "SaveImage",
+      "pos": [
+        3180,
+        3850
+      ],
+      "size": {
+        "0": 320,
+        "1": 490
+      },
+      "flags": {},
+      "order": 469,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1587,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
+    },
+    {
+      "id": 405,
+      "type": "SaveImage",
+      "pos": [
+        2110,
+        3850
+      ],
+      "size": [
+        320,
+        490
+      ],
+      "flags": {},
+      "order": 449,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 1021,
+          "slot_index": 0
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "wyrde-hrf-x10-latent-upscale"
+      ]
     }
   ],
   "links": [
