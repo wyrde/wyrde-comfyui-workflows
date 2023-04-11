@@ -7,7 +7,7 @@ Uses [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui) and [lu
 
 ## About
 
-This workflow quickly generates a few images along with some (extremely basic) hi-rez fixes to check how well a model work swith some favoite lora and prompts. Nothing fancy. It's not about making great images--just checking it out.
+This workflow quickly generates a few images along with some (extremely basic) hi-rez fixes to check how well a model works with favoite lora and prompts. Nothing fancy. It's not about making great images--just checking it out.
 
 Previews can be enabled by switching the "preview_image" setting on the _KSampler (Efficient)_ nodes.
 

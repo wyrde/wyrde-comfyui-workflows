@@ -22,6 +22,7 @@ Moving noodles switches between model vae and vae loader.
 * [with latent upscaling.](../multi-sample-sharpening/)
 * [Using the standard image upscale nodes](./multi-sample-pixel-space-sharpening-b.json)
 * [a fast one with smaller images sizes](./multi-sample-pixel-space-sharpening-c.json) to "check it out" sort of thing.
+* [adjusted image sizes, added img2img nodes, cleaned up some lines and nodes](./multi-sample-pixel-space-sharpening-d.json)
 
 ## Resources
 
