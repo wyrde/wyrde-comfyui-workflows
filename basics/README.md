@@ -51,7 +51,7 @@ all the date variables:
   * wrap the whole thing with `%` at the ends: `%CheckpointLoaderSimple.ckpt_name%`
   * and put that in the *filename_prefix* of the _Save Image_ node
 	<img src="filename02.png" width="20%" align="middle"  style="vertical-align:middle;">
-* each substitution gets its own %marks. Example: `%date:yyyy-M-d%/%node.data%`_%node2.data2%
+* each substitution gets its own %marks. Example: `%date:yyyy-M-d%/%node.data%_%node2.data2%`
 
 **Suffix**
 * ComfyUI adds the suffix of an underscore and 5-digit number at the end of the file name automatically (`_NNNNN.png`).
