@@ -44,13 +44,11 @@ all the variable available:
 * `%width%` and `%height%` are also supported.
 * Various items from nodes can also be included. Right click on a node, click on `properties` and use the contents of the _Node name for S&R_ property and the name of the _data_field_.
   * Example of putting the checkpoint in the file name:
-	<img src=filename01.png" width="50%" align="bottom">
-	<img src=filename03.png" width="50%" align="bottom">
-  * The _node names for S&R_ is `CheckpointLoaderSimple`
-  * The _data_field_ is `ckptt_name`
+  * The _node names for S&R_ is `CheckpointLoaderSimple` <img src="filename01.png" width="20%" align="middle" style="vertical-align:middle;">
+  * The _data_field_ is `ckptt_name`<img src="filename03.png" width="20%"  align="middle" style="vertical-align:middle;">
   * combine with a `.` between: `%CheckpointLoaderSimple.ckptt_name`
   * and put that in the *filename_prefix* of the _Save Image_ node
-	<img src=filename02.png" width="50%" align="bottom">
+	<img src="filename02.png" width="20%" align="middle"  style="vertical-align:middle;">
 
 <sub>Thanks to _Davemane42_ for pointing this out!</sub>
 
