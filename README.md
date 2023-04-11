@@ -39,6 +39,9 @@ If you install these, keep an eye on comfyui PRs. Many end up in the UI.
 * https://rentry.org/safetensorsguide
 * https://rentry.org/sdvae
 
-## Useful places
+## More SD resources
 * https://civitai.com/ (when they're not breaking it)
 * https://huggingface.co/
+
+## Useful Things
+* [XNView](https://www.xnview.com/en/) a great, light-weight and impressively capable file viewer. It shows the workflow stored in the exif data (View→Panels→Information). Also has favorite folders to make moving and sortintg images from `./output` easier. There may be something better out there for this, but I've not found it.
