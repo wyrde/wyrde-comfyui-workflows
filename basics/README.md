@@ -49,6 +49,7 @@ all the variable available:
   * combine with a `.` between: `%CheckpointLoaderSimple.ckpt_name`
   * and put that in the *filename_prefix* of the _Save Image_ node
 	<img src="filename02.png" width="20%" align="middle"  style="vertical-align:middle;">
+  * Note: ComfyUI adds the suffix of an underscore and 5-digit number at the end of the file name automatically (`_NNNNN.png`).
 
 <sub>Thanks to _Davemane42_ for pointing this out!</sub>
 
