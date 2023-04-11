@@ -48,7 +48,7 @@ all the date variables:
   * The _node names for S&R_ is `CheckpointLoaderSimple` <img src="filename01.png" width="20%" align="middle" style="vertical-align:middle;">
   * The _data_field_ is `ckpt_name`<img src="filename03.png" width="20%"  align="middle" style="vertical-align:middle;">
   * combine with a `.` between: `CheckpointLoaderSimple.ckpt_name`
-  * wrap the whole thing with `%` at the ends: `%CheckpointLoaderSimple.ckpt_name%
+  * wrap the whole thing with `%` at the ends: `%CheckpointLoaderSimple.ckpt_name%`
   * and put that in the *filename_prefix* of the _Save Image_ node
 	<img src="filename02.png" width="20%" align="middle"  style="vertical-align:middle;">
 * each substitution gets its own %marks. Example: `%date:yyyy-M-d%/%node.data%`_%node2.data2%
