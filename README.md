@@ -10,7 +10,8 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 * [misc:](./misc) various odds and ends.
 * [others:](./others) workflows made by other people I particularly like. Or had the urge to fiddle with.
 
-## Some places for ComfyUI stuff much cooler than mine:
+## Custom Nodes and Extensions
+Some places for ComfyUI stuff much cooler than mine:
 * https://github.com/WASasquatch/was-node-suite-comfyui
 * https://github.com/lilly1987/ComfyUI_node_Lilly
 * https://github.com/lilly1987/ComfyUI-workflow
@@ -23,10 +24,16 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 * https://github.com/ltdrdata/ComfyUI-Impact-Pack
 * https://github.com/m957ymj75urz/ComfyUI-Custom-Nodes
 * https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92
+* https://github.com/hnmr293/ComfyUI-nodes-hnmr
+
+If you install these, keep an eye on comfyui PRs. Many end up in the UI.
 
 ## Useful things
-* https://upscale.wiki/wiki/Model_Database
-
+* Upscale Database: https://upscale.wiki/wiki/Model_Database
+  * note: stick to the universals unless there's one that fits specific needs
+  * I often use 2xPNSR for quick upscales (first line, in source section).
+  * lollypop x4 is my favorite for illustration style images.
+  
 ## inject SD into the brain
 * https://www.youtube.com/@OlivioSarikas
 * https://rentry.org/safetensorsguide
