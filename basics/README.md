@@ -46,7 +46,7 @@ all the date variables:
 * `%width%` and `%height%` are also supported.
 * Various items from nodes can also be included. Right click on a node, click on `properties` and use the contents of the _Node name for S&R_ property and the name of the _data_field_.
   * Example of putting the checkpoint in the file name:
-  * The _node names for S&R_ is `CheckpointLoaderSimple` <img src="filename01.png" width="20%" align="middle" style="vertical-align:middle;">
+  * _Load Checkpoint_'s API name shown in _properties_ is `CheckpointLoaderSimple` <img src="filename01.png" width="20%" align="middle" style="vertical-align:middle;">
   * The _data_field_ is `ckpt_name`<img src="filename03.png" width="20%"  align="middle" style="vertical-align:middle;">
   * combine with a `.` between: `CheckpointLoaderSimple.ckpt_name`
   * wrap the whole thing with `%` at the ends: `%CheckpointLoaderSimple.ckpt_name%`
@@ -58,6 +58,17 @@ all the date variables:
 * ComfyUI adds the suffix of an underscore, 5-digit number, underscore, and extension at the end of the file name automatically (`_NNNNN_.png`).
 
 <sub>Thanks to _Davemane42_ for pointing this out!</sub>
+
+## Custom Nodes & Extensions
+If comfyUI doesn't have something you expect, there's probably a custom node for it.
+
+* Custom Nodes are placed in the custom_node directory
+* It's generally a good idea to put the author's name/handle as a directory/folder, then the node(s) inside it.
+* some nodes come as "suites" which will include their own directory, drop the whole thing inside custom_nodes
+
+Extensions are bits of javascript that extend the UI or some functions of comfyUI beyond the scope of nodes.
+* Extensions are placed in the `web\extensions` folder/directory.
+* Make sure to follow the author's instructions. These can break things. Easy to fix by removing the files.
 
 ## Tips and Philosophy
 
