@@ -26,11 +26,12 @@ Notes:
 * The _LoadImage_ node is (at this writing) too small. Drag the bottom down to show the image preview. Glory at the terrible sketch comfy made for an example!
 
 ## Filenames
+**Prefix**
 Output files can be customized with substitutions
 ```
 %date:d-M-yy%
 ```
-all the variable available:
+all the date variables:
 ```
     yy -> last 2 digit of year (23)
     yyyy -> full year format (2023)
@@ -46,10 +47,14 @@ all the variable available:
   * Example of putting the checkpoint in the file name:
   * The _node names for S&R_ is `CheckpointLoaderSimple` <img src="filename01.png" width="20%" align="middle" style="vertical-align:middle;">
   * The _data_field_ is `ckpt_name`<img src="filename03.png" width="20%"  align="middle" style="vertical-align:middle;">
-  * combine with a `.` between: `%CheckpointLoaderSimple.ckpt_name`
+  * combine with a `.` between: `CheckpointLoaderSimple.ckpt_name`
+  * wrap the whole thing with `%` at the ends: `%CheckpointLoaderSimple.ckpt_name%
   * and put that in the *filename_prefix* of the _Save Image_ node
 	<img src="filename02.png" width="20%" align="middle"  style="vertical-align:middle;">
-  * Note: ComfyUI adds the suffix of an underscore and 5-digit number at the end of the file name automatically (`_NNNNN.png`).
+* each substitution gets its own %marks. Example: `%date:yyyy-M-d%/%node.data%`_%node2.data2%
+
+**Suffix**
+* ComfyUI adds the suffix of an underscore and 5-digit number at the end of the file name automatically (`_NNNNN.png`).
 
 <sub>Thanks to _Davemane42_ for pointing this out!</sub>
 
