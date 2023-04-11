@@ -55,7 +55,7 @@ all the date variables:
 * each substitution gets its own %marks. Example: `%date:yyyy-M-d%/%node.data%_%node2.data2%`
 
 **Suffix**
-* ComfyUI adds the suffix of an underscore and 5-digit number at the end of the file name automatically (`_NNNNN.png`).
+* ComfyUI adds the suffix of an underscore, 5-digit number, underscore, and extension at the end of the file name automatically (`_NNNNN_.png`).
 
 <sub>Thanks to _Davemane42_ for pointing this out!</sub>
 
