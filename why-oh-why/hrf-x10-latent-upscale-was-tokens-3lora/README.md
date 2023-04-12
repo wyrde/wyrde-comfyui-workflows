@@ -1,4 +1,4 @@
-# wyrde's terribly complicated multi latent fixing and fiddling
+# wyrde's horribly complicated multi latent hirez fixing and scaling
 
 Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui)
 * Install WAS suit and avoid a mess of red boxes.
