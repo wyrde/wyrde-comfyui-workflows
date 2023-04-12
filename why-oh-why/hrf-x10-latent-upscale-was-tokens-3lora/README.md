@@ -46,6 +46,13 @@ Eventually, I'm tired.
 
 <!-- <img src="" width="10%"> -->
 
+## Special Note
+Because of how the backend evaluates the text boxes, it doesn't know the contents of the tokens have changed when parsing the prompts. There's two ways to fix this:
+* put `{ | | }` in the prompt. It will evaluate the space each time and run the prompt, thus also evaluating tokens.
+* make a new multiline node→random line node→text concatenate (the random result and the prompt) → text parse tokens → text to conditioning
+  * this is more complex, but preserves the text prompt in the image workflow.
+<img src="text concatenate image.png" align="middle">
+
 ## resources
 
 I need to change these to match. Will do it tomorrow.
