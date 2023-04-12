@@ -28,6 +28,8 @@ This workflow
 * sampled again
 * and again -- 10 times in all.
   * The resulting samples are then sampled again.
+* the above is done again with a second image
+* does 80 samples and drops 40 images
 
 The entire process takes around 19 mins on my 1060gtx
 
