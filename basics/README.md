@@ -78,8 +78,9 @@ Extensions are bits of javascript that extend the UI or some functions of comfyU
 ##
 This directory conatains some basic workflows showing beginning principles. Think of them as badly organized tutorials.
 
-Be sure to check out the [comfy examples](https://comfyanonymous.github.io/ComfyUI_examples/) as well!
+Be sure to check out the [comfy examples](https://comfyanonymous.github.io/ComfyUI_examples/) and [FAQ](https://comfyanonymous.github.io/ComfyUI_examples/faq/)
 
+* [Cleaner Noodles Starting Workflow](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/others/wyrde%20cleaner%20comfy%20default.json) (save the file then load/drag into comfyUI)
 * [WAS Starting Workflow](./was-nodes-start/)
 
 
