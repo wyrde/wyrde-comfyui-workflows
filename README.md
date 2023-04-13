@@ -12,18 +12,24 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 
 ## Custom Nodes and Extensions
 Some places for ComfyUI stuff much cooler than mine:
-* https://github.com/WASasquatch/was-node-suite-comfyui
+* [WAS node suite](https://github.com/WASasquatch/was-node-suite-comfyui)
+  * development is ended, but nodes are still useful
 * https://github.com/lilly1987/ComfyUI_node_Lilly
+  * Lots of amazing things which are beyond me
 * https://github.com/lilly1987/ComfyUI-workflow
+  * more workflows!
 * https://github.com/guoyk93/yk-node-suite-comfyui
 * https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+  * useful and helpful UI additions. Many are added to comfyUI so keep an eye on them
 * https://github.com/Fannovel16/comfy_controlnet_preprocessors
 * https://github.com/diontimmer/ComfyUI-Vextra-Nodes
 * https://github.com/Davemane42/ComfyUI_Dave_CustomNode
 * https://github.com/diffus3/ComfyUI-extensions
+  * I think most of these are in comfyui now
 * https://github.com/ltdrdata/ComfyUI-Impact-Pack
 * https://github.com/m957ymj75urz/ComfyUI-Custom-Nodes
 * https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92
+  * much of the same ideas as WAS suit but in a different direction
 * https://github.com/hnmr293/ComfyUI-nodes-hnmr
 
 If you install these, keep an eye on comfyui PRs. Many end up in the UI.
@@ -33,7 +39,10 @@ If you install these, keep an eye on comfyui PRs. Many end up in the UI.
   * note: stick to the universals unless there's one that fits specific needs
   * I often use 2xPNSR for quick upscales (first line, in source section).
   * lollypop x4 is my favorite for illustration style images.
-  
+* [A handy chart of aspect ratios](https://user-images.githubusercontent.com/9657443/231819299-77de2080-7b04-4512-9922-56faec2596b8.png) from a [reddit post](https://www.reddit.com/r/StableDiffusion/comments/10wqv7r/when_it_comes_to_printing_converting_resolutions/)
+* [MisterRuffian's Latent Artist & Modifier Encyclopedia](https://docs.google.com/spreadsheets/d/1_jgQ9SyvUaBNP1mHHEzZ6HhL_Es1KwBKQtnpnmWW82I/edit#gid=1807667703)
+
+
 ## inject SD into the brain
 * https://www.youtube.com/@OlivioSarikas
 * https://rentry.org/safetensorsguide
@@ -45,3 +54,4 @@ If you install these, keep an eye on comfyui PRs. Many end up in the UI.
 
 ## Useful Things
 * [XNView](https://www.xnview.com/en/) a great, light-weight and impressively capable file viewer. It shows the workflow stored in the exif data (View→Panels→Information). Also has favorite folders to make moving and sortintg images from `./output` easier. There may be something better out there for this, but I've not found it.
+
