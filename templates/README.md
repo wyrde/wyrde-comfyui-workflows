@@ -14,26 +14,13 @@ How to add templates
   * Give it a name
 * it should now be in the template list!
 
+<!-- <img src="some image" align="middle"> -->
 
-
-<img src="some image" align="middle">
-
-## some heading
+## Templates
 
 * A node to [set custom savefile](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.1.json) (uses a was node). <img src="tem.savefile.prefix.1.png" width="50%" align="middle">
 * the above, but with a [matching save image node](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.2.json) <img src="tem.savefile.prefix.2.png" width="50%" align="middle">
-
-
-This workflow
-* more
-* stuff
-  * here
-
-## another heading
-
-## Versions
-
-## Example Results
+* Pairs of [reroute nodes](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.reroute.nodes.1.json) color sorted <img src="tem.reroute.nodes.1.png" width="50%" align="middle">
 
 * images
 <!-- <img src="" width="10%" align="middle"> -->
@@ -41,18 +28,6 @@ This workflow
 ## resources
 
 <!-- things people might want to duplicate results -->
-
-Model
-* https://civitai.com/models/4384/dreamshaper
-
-Lora
-* https://civitai.com/models/8858/maplestory2game-chibi-style-hn
-* https://civitai.com/models/21670/astrobabes
-* https://civitai.com/models/25803/battle-angels
-
-Embeds
-* EasyNegative https://civitai.com/models/7808/easynegative
-* bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
 
 Custom Nodes
 * [WAS Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
