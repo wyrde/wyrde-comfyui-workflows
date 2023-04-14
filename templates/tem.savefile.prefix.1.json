@@ -1,0 +1,73 @@
+{
+  "last_node_id": 2,
+  "last_link_id": 0,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "SaveImage",
+      "pos": [
+        4380,
+        -80
+      ],
+      "size": [
+        380,
+        380
+      ],
+      "flags": {},
+      "order": 102,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "%WorkflowName.file_path%"
+      ],
+      "locked": true
+    },
+    {
+      "id": 2,
+      "type": "Load Text File",
+      "pos": [
+        -704.5779830310003,
+        286.372071016821
+      ],
+      "size": {
+        "0": 315,
+        "1": 102
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "ASCII",
+          "type": "ASCII",
+          "links": null
+        },
+        {
+          "name": "DICT",
+          "type": "DICT",
+          "links": null
+        }
+      ],
+      "title": "Save File Prefix",
+      "properties": {
+        "Node name for S&R": "WorkflowName"
+      },
+      "widgets_values": [
+        "compare-hrf-types",
+        "[filename]"
+      ]
+    }
+  ],
+  "links": [],
+  "groups": [],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}

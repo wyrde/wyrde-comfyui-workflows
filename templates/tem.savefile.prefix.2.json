@@ -1,0 +1,72 @@
+{
+  "last_node_id": 13,
+  "last_link_id": 9,
+  "nodes": [
+    {
+      "id": 11,
+      "type": "Load Text File",
+      "pos": [
+        82.3857119060616,
+        169.84884002618628
+      ],
+      "size": {
+        "0": 315,
+        "1": 102
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "ASCII",
+          "type": "ASCII",
+          "links": null
+        },
+        {
+          "name": "DICT",
+          "type": "DICT",
+          "links": null
+        }
+      ],
+      "title": "Set File Prefix in \"file path\"",
+      "properties": {
+        "Node name for S&R": "WorkflowName"
+      },
+      "widgets_values": [
+        "example-prefix",
+        "[filename]"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "SaveImage",
+      "pos": [
+        423.3857119060616,
+        171.84884002618628
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "%WorkflowName.file_path%"
+      ]
+    }
+  ],
+  "links": [],
+  "groups": [],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}
