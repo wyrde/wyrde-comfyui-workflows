@@ -1,7 +1,7 @@
 # wyrde's template sharing
 Rather than complete workflows, _templates_ are collections of nodes used to mtake building workflows quicker. There isn't (yet) a way to share templates directly between users, but importing them is fairly easy.
 
-How to add templates
+## How to add templates
 * Download one of these json files.
   * Click the file in the list above.
   * Click the RAW button in the upper right.
@@ -18,12 +18,13 @@ How to add templates
 
 ## Templates
 
-* A node to [set custom savefile](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.1.json) (uses a was node). <img src="tem.savefile.prefix.1.png" width="50%" align="middle">
-* the above, but with a [matching save image node](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.2.json) <img src="tem.savefile.prefix.2.png" width="50%" align="middle">
-* Pairs of [reroute nodes](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.reroute.nodes.1.json) color sorted <img src="tem.reroute.nodes.1.png" width="50%" align="middle">
+* A node to [set custom savefile](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.1.json) (uses a was node). <img src="tem.savefile.prefix.1.png" width="30%" align="middle">
+* the above, but with a [matching save image node](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.2.json) <img src="tem.savefile.prefix.2.png" width="30%" align="middle">
+* Pairs of [reroute nodes](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.reroute.nodes.1.json) color sorted <img src="tem.reroute.nodes.1.png" width="30%" align="middle">
 
+<!--
 * images
-<!-- <img src="" width="10%" align="middle"> -->
+ <img src="" width="10%" align="middle"> -->
 
 ## resources
 
