@@ -70,7 +70,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        378745141451026,
+        621048320656248,
         "randomize",
         20,
         8,
@@ -594,7 +594,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -634,49 +634,9 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
-    },
-    {
-      "id": 28,
-      "type": "Text to Conditioning",
-      "pos": [
-        1265.918050118632,
-        665.5852394730239
-      ],
-      "size": {
-        "0": 216.59999084472656,
-        "1": 46
-      },
-      "flags": {},
-      "order": 64,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 33
-        },
-        {
-          "name": "text",
-          "type": "ASCII",
-          "link": 34
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            25
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text to Conditioning"
-      }
     },
     {
       "id": 29,
@@ -690,7 +650,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -730,7 +690,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -746,7 +706,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 3,
+      "order": 2,
       "mode": 0,
       "outputs": [
         {
@@ -996,7 +956,7 @@
         "1": 120
       },
       "flags": {},
-      "order": 4,
+      "order": 3,
       "mode": 0,
       "outputs": [
         {
@@ -1142,7 +1102,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "outputs": [
         {
@@ -1157,39 +1117,6 @@
       },
       "widgets_values": [
         "4x-lollypop.pth"
-      ]
-    },
-    {
-      "id": 46,
-      "type": "Text Multiline",
-      "pos": [
-        275.918050118632,
-        535.5852394730239
-      ],
-      "size": {
-        "0": 420,
-        "1": 190
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 6,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "ASCII",
-          "type": "ASCII",
-          "links": [
-            63
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Multiline"
-      },
-      "widgets_values": [
-        "adorable ([type] girls) with ([eyes] colored eyes) and ([ears] ears) and ([hair] colored hair) and ([body] body shape, wearing [fashion],  detailed eyes, adorable face, ([activity]),\n\nsfw, absurdres, fine detail, masterpiece, best quality, illustration, soft focus, HDR 8K, artstation, pixv, unreal engine 5,"
       ]
     },
     {
@@ -1239,7 +1166,7 @@
         26
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -1274,7 +1201,7 @@
         "1": 126
       },
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [
         {
@@ -1323,7 +1250,7 @@
         "1": 126
       },
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "inputs": [
         {
@@ -1426,7 +1353,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "outputs": [
         {
@@ -1444,44 +1371,6 @@
       ]
     },
     {
-      "id": 53,
-      "type": "Text Parse Tokens",
-      "pos": [
-        921,
-        647
-      ],
-      "size": {
-        "0": 210,
-        "1": 26
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 61,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "ASCII",
-          "link": 57
-        }
-      ],
-      "outputs": [
-        {
-          "name": "ASCII",
-          "type": "ASCII",
-          "links": [
-            34,
-            37
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Parse Tokens"
-      }
-    },
-    {
       "id": 67,
       "type": "Text _O",
       "pos": [
@@ -1493,7 +1382,7 @@
         180
       ],
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "outputs": [
         {
@@ -1522,7 +1411,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "outputs": [
         {
@@ -1554,7 +1443,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 32,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -1594,7 +1483,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -1610,7 +1499,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [
         {
@@ -1640,7 +1529,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -1670,7 +1559,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 43,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -1700,7 +1589,7 @@
         "1": 102
       },
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "outputs": [
         {
@@ -1735,7 +1624,7 @@
         80
       ],
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "outputs": [
         {
@@ -1763,7 +1652,7 @@
         76
       ],
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "outputs": [
         {
@@ -1791,7 +1680,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "outputs": [
         {
@@ -1823,7 +1712,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [
         {
@@ -1863,7 +1752,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -1879,7 +1768,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [
         {
@@ -1909,7 +1798,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -1949,7 +1838,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -1965,7 +1854,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -1995,7 +1884,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -2035,7 +1924,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -2051,7 +1940,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "outputs": [
         {
@@ -2083,7 +1972,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -2113,7 +2002,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "outputs": [
         {
@@ -2145,7 +2034,7 @@
         "1": 190
       },
       "flags": {},
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "outputs": [
         {
@@ -2204,7 +2093,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -2244,7 +2133,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -2260,7 +2149,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 0,
       "outputs": [
         {
@@ -2292,7 +2181,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -2322,7 +2211,7 @@
         "1": 190
       },
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "outputs": [
         {
@@ -2368,61 +2257,6 @@
       ]
     },
     {
-      "id": 62,
-      "type": "Text Concatenate",
-      "pos": [
-        757,
-        563
-      ],
-      "size": {
-        "0": 315,
-        "1": 118
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 58,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_a",
-          "type": "ASCII",
-          "link": 62
-        },
-        {
-          "name": "text_b",
-          "type": "ASCII",
-          "link": 63
-        },
-        {
-          "name": "text_c",
-          "type": "ASCII",
-          "link": null
-        },
-        {
-          "name": "text_d",
-          "type": "ASCII",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "ASCII",
-          "type": "ASCII",
-          "links": [
-            57
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Concatenate"
-      },
-      "widgets_values": [
-        "false"
-      ]
-    },
-    {
       "id": 2,
       "type": "CheckpointLoaderSimple",
       "pos": [
@@ -2434,7 +2268,7 @@
         "1": 108.51560974121094
       },
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "outputs": [
         {
@@ -2479,7 +2313,7 @@
         "1": 69.18635559082031
       },
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "outputs": [
         {
@@ -2737,7 +2571,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 0,
       "outputs": [
         {
@@ -2769,7 +2603,7 @@
         50
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -2810,7 +2644,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        869064460703588,
+        224713950115468,
         true
       ]
     },
@@ -2865,7 +2699,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        840513612409830,
+        839252079612674,
         "randomize",
         16,
         7.5,
@@ -2886,7 +2720,7 @@
         75.99997520446777
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "outputs": [
         {
@@ -2914,7 +2748,7 @@
         "1": 75.99998474121094
       },
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "outputs": [
         {
@@ -2942,7 +2776,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "outputs": [
         {
@@ -2975,7 +2809,7 @@
       ],
       "properties": {},
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         "randomize"
       ]
     },
@@ -3054,7 +2888,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 2,
+      "order": 26,
       "mode": 0,
       "outputs": [
         {
@@ -3072,6 +2906,173 @@
       },
       "widgets_values": [
         "small\naverage\ntall\nskinny\nathletic\nlazy"
+      ]
+    },
+    {
+      "id": 53,
+      "type": "Text Parse Tokens",
+      "pos": [
+        921,
+        647
+      ],
+      "size": {
+        "0": 210,
+        "1": 26
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 61,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "ASCII",
+          "link": 57
+        }
+      ],
+      "outputs": [
+        {
+          "name": "ASCII",
+          "type": "ASCII",
+          "links": [
+            34,
+            37
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text Parse Tokens"
+      }
+    },
+    {
+      "id": 62,
+      "type": "Text Concatenate",
+      "pos": [
+        757,
+        563
+      ],
+      "size": {
+        "0": 315,
+        "1": 118
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 58,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_a",
+          "type": "ASCII",
+          "link": 62
+        },
+        {
+          "name": "text_b",
+          "type": "ASCII",
+          "link": 63
+        },
+        {
+          "name": "text_c",
+          "type": "ASCII",
+          "link": null
+        },
+        {
+          "name": "text_d",
+          "type": "ASCII",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "ASCII",
+          "type": "ASCII",
+          "links": [
+            57
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text Concatenate"
+      },
+      "widgets_values": [
+        "false"
+      ]
+    },
+    {
+      "id": 28,
+      "type": "Text to Conditioning",
+      "pos": [
+        1266,
+        666
+      ],
+      "size": {
+        "0": 216.59999084472656,
+        "1": 46
+      },
+      "flags": {},
+      "order": 64,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 33
+        },
+        {
+          "name": "text",
+          "type": "ASCII",
+          "link": 34
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            25
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text to Conditioning"
+      }
+    },
+    {
+      "id": 46,
+      "type": "Text Multiline",
+      "pos": [
+        276,
+        536
+      ],
+      "size": {
+        "0": 420,
+        "1": 190
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 5,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "ASCII",
+          "type": "ASCII",
+          "links": [
+            63
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Positive",
+      "properties": {
+        "Node name for S&R": "Text Multiline"
+      },
+      "widgets_values": [
+        "adorable ([type] girls) with ([eyes] colored eyes) and ([ears] ears) and ([hair] colored hair) and ([body] body shape, wearing [fashion],  detailed eyes, adorable face, ([activity]),\n\nsfw, absurdres, fine detail, masterpiece, best quality, illustration, soft focus, HDR 8K, artstation, pixv, unreal engine 5,"
       ]
     }
   ],
