@@ -583,38 +583,6 @@
       "bgcolor": "#355"
     },
     {
-      "id": 25,
-      "type": "Text Multiline",
-      "pos": [
-        -1410,
-        820
-      ],
-      "size": {
-        "0": 210,
-        "1": 145.88577270507812
-      },
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "ASCII",
-          "type": "ASCII",
-          "links": [
-            29
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Chest",
-      "properties": {
-        "Node name for S&R": "Text Multiline"
-      },
-      "widgets_values": [
-        "small\naverage\ntall\nskinny\nathletic\nlazy"
-      ]
-    },
-    {
       "id": 26,
       "type": "Text Random Line",
       "pos": [
@@ -2718,32 +2686,6 @@
       ]
     },
     {
-      "id": 84,
-      "type": "SaveImage",
-      "pos": [
-        4360,
-        1270
-      ],
-      "size": {
-        "0": 370,
-        "1": 440
-      },
-      "flags": {},
-      "order": 78,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 81
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "%WorkflowName.file_path%"
-      ]
-    },
-    {
       "id": 64,
       "type": "LatentUpscaleFactorSimple _O",
       "pos": [
@@ -3073,6 +3015,64 @@
       },
       "color": "#323",
       "bgcolor": "#535"
+    },
+    {
+      "id": 84,
+      "type": "SaveImage",
+      "pos": [
+        4360,
+        1270
+      ],
+      "size": {
+        "0": 370,
+        "1": 440
+      },
+      "flags": {},
+      "order": 78,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 81
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "%WorkflowName.file_path%"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "Text Multiline",
+      "pos": [
+        -1410,
+        820
+      ],
+      "size": {
+        "0": 210,
+        "1": 145.88577270507812
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "ASCII",
+          "type": "ASCII",
+          "links": [
+            29
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Body",
+      "properties": {
+        "Node name for S&R": "Text Multiline"
+      },
+      "widgets_values": [
+        "small\naverage\ntall\nskinny\nathletic\nlazy"
+      ]
     }
   ],
   "links": [
