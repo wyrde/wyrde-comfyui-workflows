@@ -3,83 +3,6 @@
   "last_link_id": 88,
   "nodes": [
     {
-      "id": 1,
-      "type": "KSampler",
-      "pos": [
-        2695.918050118632,
-        835.5852394730239
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 71,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 1
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 2
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 3
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 4
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 5,
-          "widget": {
-            "name": "seed",
-            "config": [
-              "INT",
-              {
-                "default": 0,
-                "min": 0,
-                "max": 18446744073709552000
-              }
-            ]
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            6,
-            65
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler A01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        621048320656248,
-        "randomize",
-        20,
-        8,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        1
-      ]
-    },
-    {
       "id": 3,
       "type": "EmptyLatentImage",
       "pos": [
@@ -109,186 +32,6 @@
         512,
         1
       ]
-    },
-    {
-      "id": 7,
-      "type": "Reroute",
-      "pos": [
-        1385.918050118632,
-        595.5852394730239
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 51,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 14
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            43
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 9,
-      "type": "Reroute",
-      "pos": [
-        2385.918050118632,
-        655.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 70,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 16
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            2,
-            20
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 10,
-      "type": "Reroute",
-      "pos": [
-        2335.918050118632,
-        725.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 17
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            3,
-            21
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 11,
-      "type": "Reroute",
-      "pos": [
-        3465.918050118632,
-        595.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 66,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 18
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "MODEL",
-          "links": [
-            9
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 13,
-      "type": "Reroute",
-      "pos": [
-        2435.918050118632,
-        595.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 62,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 19
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "MODEL",
-          "links": [
-            1,
-            18
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
     },
     {
       "id": 14,
@@ -474,43 +217,6 @@
       "bgcolor": "#535"
     },
     {
-      "id": 20,
-      "type": "Reroute",
-      "pos": [
-        1575.918050118632,
-        665.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 68,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 25
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            40
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 22,
       "type": "EmptyLatentImage",
       "pos": [
@@ -542,45 +248,6 @@
         768,
         1
       ]
-    },
-    {
-      "id": 23,
-      "type": "Reroute",
-      "pos": [
-        2405.918050118632,
-        1205.5852394730239
-      ],
-      "size": [
-        90.4,
-        26
-      ],
-      "flags": {},
-      "order": 40,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 28,
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            4
-          ]
-        }
-      ],
-      "title": "BEEEES",
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      },
-      "color": "#233",
-      "bgcolor": "#355"
     },
     {
       "id": 26,
@@ -634,7 +301,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -690,7 +357,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -763,148 +430,6 @@
       "widgets_values": [
         "pos prompt: "
       ]
-    },
-    {
-      "id": 34,
-      "type": "Reroute",
-      "pos": [
-        1885.918050118632,
-        665.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 69,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 40
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            16
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 35,
-      "type": "Reroute",
-      "pos": [
-        1815.918050118632,
-        725.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 60,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 41
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            17
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 36,
-      "type": "Reroute",
-      "pos": [
-        1905.918050118632,
-        595.5852394730239
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 59,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 42
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            19
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 37,
-      "type": "Reroute",
-      "pos": [
-        1615.918050118632,
-        595.5852394730239
-      ],
-      "size": [
-        82,
-        26
-      ],
-      "flags": {},
-      "order": 55,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 43
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            42
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      }
     },
     {
       "id": 38,
@@ -1056,41 +581,6 @@
       }
     },
     {
-      "id": 42,
-      "type": "Reroute",
-      "pos": [
-        1575.918050118632,
-        725.5852394730239
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 56,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 48
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            41
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 43,
       "type": "UpscaleModelLoader",
       "pos": [
@@ -1201,7 +691,7 @@
         "1": 126
       },
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 0,
       "inputs": [
         {
@@ -1250,7 +740,7 @@
         "1": 126
       },
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [
         {
@@ -1353,7 +843,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "outputs": [
         {
@@ -1382,7 +872,7 @@
         180
       ],
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "outputs": [
         {
@@ -1411,7 +901,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "outputs": [
         {
@@ -1483,7 +973,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -1589,7 +1079,7 @@
         "1": 102
       },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "outputs": [
         {
@@ -1624,7 +1114,7 @@
         80
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "outputs": [
         {
@@ -1652,7 +1142,7 @@
         76
       ],
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "outputs": [
         {
@@ -1680,7 +1170,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "outputs": [
         {
@@ -1752,7 +1242,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -1838,7 +1328,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -1924,7 +1414,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -1940,7 +1430,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "outputs": [
         {
@@ -2002,7 +1492,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "outputs": [
         {
@@ -2034,7 +1524,7 @@
         "1": 190
       },
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "outputs": [
         {
@@ -2133,7 +1623,7 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
       ]
     },
@@ -2149,7 +1639,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "outputs": [
         {
@@ -2211,7 +1701,7 @@
         "1": 190
       },
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 0,
       "outputs": [
         {
@@ -2268,7 +1758,7 @@
         "1": 108.51560974121094
       },
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "outputs": [
         {
@@ -2313,7 +1803,7 @@
         "1": 69.18635559082031
       },
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "outputs": [
         {
@@ -2571,7 +2061,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "outputs": [
         {
@@ -2644,68 +2134,8 @@
         "Node name for S&R": "Select Random Wildcard Line"
       },
       "widgets_values": [
-        224713950115468,
+        715862357743811,
         true
-      ]
-    },
-    {
-      "id": 6,
-      "type": "KSampler",
-      "pos": [
-        3685.918050118632,
-        815.5852394730239
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 76,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 9
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 10
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 11
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 12
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            82
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "KSampler B01",
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        839252079612674,
-        "randomize",
-        16,
-        7.5,
-        "uni_pc_bh2",
-        "ddim_uniform",
-        0.7
       ]
     },
     {
@@ -2720,7 +2150,7 @@
         75.99997520446777
       ],
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 0,
       "outputs": [
         {
@@ -2748,7 +2178,7 @@
         "1": 75.99998474121094
       },
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "outputs": [
         {
@@ -2776,7 +2206,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "outputs": [
         {
@@ -2809,7 +2239,7 @@
       ],
       "properties": {},
       "widgets_values": [
-        715862357743811,
+        632594966468793,
         "randomize"
       ]
     },
@@ -2888,7 +2318,7 @@
         "1": 145.88577270507812
       },
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "outputs": [
         {
@@ -3045,8 +2475,8 @@
       "id": 46,
       "type": "Text Multiline",
       "pos": [
-        276,
-        536
+        280,
+        550
       ],
       "size": {
         "0": 420,
@@ -3055,7 +2485,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 5,
+      "order": 26,
       "mode": 0,
       "outputs": [
         {
@@ -3074,6 +2504,576 @@
       "widgets_values": [
         "adorable ([type] girls) with ([eyes] colored eyes) and ([ears] ears) and ([hair] colored hair) and ([body] body shape, wearing [fashion],  detailed eyes, adorable face, ([activity]),\n\nsfw, absurdres, fine detail, masterpiece, best quality, illustration, soft focus, HDR 8K, artstation, pixv, unreal engine 5,"
       ]
+    },
+    {
+      "id": 23,
+      "type": "Reroute",
+      "pos": [
+        2410,
+        1220
+      ],
+      "size": [
+        90.4,
+        26
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 28,
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            4
+          ]
+        }
+      ],
+      "title": "BEEEES",
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 6,
+      "type": "KSampler",
+      "pos": [
+        3670,
+        830
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 9
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 10
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 11
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 12
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            82
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler B01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        932579297243790,
+        "randomize",
+        16,
+        7.5,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        0.7
+      ]
+    },
+    {
+      "id": 1,
+      "type": "KSampler",
+      "pos": [
+        2700,
+        830
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 71,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 2
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 3
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 4
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 5,
+          "widget": {
+            "name": "seed",
+            "config": [
+              "INT",
+              {
+                "default": 0,
+                "min": 0,
+                "max": 18446744073709552000
+              }
+            ]
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            6,
+            65
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "KSampler A01",
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        736769846273795,
+        "randomize",
+        20,
+        8,
+        "uni_pc_bh2",
+        "ddim_uniform",
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "type": "Reroute",
+      "pos": [
+        2390,
+        660
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 70,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 16
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            2,
+            20
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 20,
+      "type": "Reroute",
+      "pos": [
+        1590,
+        660
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 68,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 25
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            40
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 34,
+      "type": "Reroute",
+      "pos": [
+        1900,
+        660
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 69,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 40
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            16
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 35,
+      "type": "Reroute",
+      "pos": [
+        1900,
+        730
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 60,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 41
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            17
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 10,
+      "type": "Reroute",
+      "pos": [
+        2340,
+        730
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 17
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            3,
+            21
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 42,
+      "type": "Reroute",
+      "pos": [
+        1590,
+        730
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 56,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 48
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            41
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 37,
+      "type": "Reroute",
+      "pos": [
+        1590,
+        590
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 43
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            42
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 36,
+      "type": "Reroute",
+      "pos": [
+        1900,
+        590
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 59,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 42
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            19
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 7,
+      "type": "Reroute",
+      "pos": [
+        1380,
+        590
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 14
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            43
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 13,
+      "type": "Reroute",
+      "pos": [
+        2440,
+        590
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 62,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 19
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "MODEL",
+          "links": [
+            1,
+            18
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 11,
+      "type": "Reroute",
+      "pos": [
+        3460,
+        590
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 66,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 18
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "MODEL",
+          "links": [
+            9
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
     }
   ],
   "links": [
