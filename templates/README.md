@@ -20,8 +20,8 @@ How to add templates
 
 ## some heading
 
-* A node to set custom savefile (uses a was node). <img src="tem.savefile.prefix.1.png" align="middle">
-* the above, but with a matching save image node <img src="tem.savefile.prefix.2.png" align="middle">
+* A node to [set custom savefile](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.1.json) (uses a was node). <img src="tem.savefile.prefix.1.png" width="50%" align="middle">
+* the above, but with a [matching save image node](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/templates/tem.savefile.prefix.2.json) <img src="tem.savefile.prefix.2.png" width="50%" align="middle">
 
 
 This workflow
