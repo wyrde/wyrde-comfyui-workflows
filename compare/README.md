@@ -30,6 +30,12 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00041_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00044_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00045_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00048_.png" width="22%" align="middle">
 * [falkons](https://civitai.com/models/38795/falkons)  
 <img src="./img/model-compare-hrf-pixel_00049_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00052_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00053_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00056_.png" width="22%" align="middle">
+* [lofi v2pre](https://civitai.com/models/9052?modelVersionId=14840)  
+<img src="./img/model-compare-hrf-pixel_00057_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00060_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00061_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00064_.png" width="22%" align="middle">
+* [primemix_coloranime](https://civitai.com/models/28779?modelVersionId=44802)  
+<img src="./img/model-compare-hrf-pixel_00065_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00068_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00069_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00072_.png" width="22%" align="middle">
+* [ofi v2.1](https://civitai.com/models/9052?modelVersionId=44882)  
+<img src="./img/model-compare-hrf-pixel_00073_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00076_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00077_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00080_.png" width="22%" align="middle">
 
 ## resources
 
