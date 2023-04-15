@@ -10,14 +10,24 @@ This is a (very) basic comparison of different models.
 
 ## The Pretty Pictures
 <!-- 
-* [Model Name](link)<img src="./img/" width="22%" align="middle"><img src="./img/" width="22%" align="middle"><img src="./img/" width="22%" align="middle"><img src="./img/" width="22%" align="middle">
+* [Model Name](link)  
+<img src="./img/" width="22%" align="middle">
+<img src="./img/" width="22%" align="middle">
+<img src="./img/" width="22%" align="middle">
+<img src="./img/" width="22%" align="middle">
 -->
+
 * [colorful v2.6](https://civitai.com/models/7279/colorful)  
 <img src="./img/model-compare-hrf-pixel_00001_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00005_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00002_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00008_.png" width="22%" align="middle">
 * [anylora baked](https://civitai.com/models/23900/anylora-checkpoint)  
 <img src="./img/model-compare-hrf-pixel_00017_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00020_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00021_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00024_.png" width="22%" align="middle">
 * [animatrix](https://civitai.com/models/21916/animatrix)  
 <img src="./img/model-compare-hrf-pixel_00025_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00028_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00029_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00032_.png" width="22%" align="middle">
+* [Dorayakimix](https://civitai.com/models/32355/dorayakimix)  
+<img src="./img/model-compare-hrf-pixel_00033_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_00036_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_00037_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_00040_.png" width="22%" align="middle">
 
 ## resources
 
