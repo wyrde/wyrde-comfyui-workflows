@@ -28,6 +28,8 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00033_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00036_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00037_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00040_.png" width="22%" align="middle">
 * [dosmix](https://civitai.com/models/6250/dosmix)  
 <img src="./img/model-compare-hrf-pixel_00041_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00044_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00045_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00048_.png" width="22%" align="middle">
+* [falkons](https://civitai.com/models/38795/falkons)  
+<img src="./img/model-compare-hrf-pixel_00049_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00052_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00053_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00056_.png" width="22%" align="middle">
 
 ## resources
 
