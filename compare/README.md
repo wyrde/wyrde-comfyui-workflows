@@ -44,7 +44,8 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00097_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00100_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00101_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00104_.png" width="22%" align="middle">
 * [The Agenda Mix](https://civitai.com/models/30377/the-agenda-mix-nsfw-support)  
 <img src="./img/model-compare-hrf-pixel_00105_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00108_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00109_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00112_.png" width="22%" align="middle">
-
+* [theallysMixIV_v10](https://civitai.com/models/40369)  
+<img src="./img/model-compare-hrf-pixel_00113_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00116_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00117_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00120_.png" width="22%" align="middle">
 
 
 
