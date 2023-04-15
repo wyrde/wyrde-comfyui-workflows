@@ -11,10 +11,10 @@ This is a (very) basic comparison of different models.
 ## The Pretty Pictures
 <!-- 
 * [Model Name](link)  
-<img src="./img/" width="22%" align="middle">
-<img src="./img/" width="22%" align="middle">
-<img src="./img/" width="22%" align="middle">
-<img src="./img/" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
 -->
 In no particular order because I'm lazy.
 
@@ -38,6 +38,10 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00073_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00076_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00077_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00080_.png" width="22%" align="middle">
 * [primemix v2]( https://civitai.com/models/28779?modelVersionId=39027)  
 <img src="./img/model-compare-hrf-pixel_00081_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00084_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00085_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00088_.png" width="22%" align="middle">
+* [realdos](https://civitai.com/models/6250/dosmix)  
+<img src="./img/model-compare-hrf-pixel_00089_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00092_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00093_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00096_.png" width="22%" align="middle">
+* [siinceysmixV1V2](https://civitai.com/models/2457?modelVersionId=2698)  
+<img src="./img/model-compare-hrf-pixel_00097_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00100_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00101_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00104_.png" width="22%" align="middle">
 
 ## resources
 
