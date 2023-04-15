@@ -24,10 +24,7 @@ This is a (very) basic comparison of different models.
 * [animatrix](https://civitai.com/models/21916/animatrix)  
 <img src="./img/model-compare-hrf-pixel_00025_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00028_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00029_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00032_.png" width="22%" align="middle">
 * [Dorayakimix](https://civitai.com/models/32355/dorayakimix)  
-<img src="./img/model-compare-hrf-pixel_00033_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00036_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00037_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00040_.png" width="22%" align="middle">
+<img src="./img/model-compare-hrf-pixel_00033_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00036_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00037_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00040_.png" width="22%" align="middle">
 
 ## resources
 
