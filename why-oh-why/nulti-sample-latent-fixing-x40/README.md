@@ -38,6 +38,10 @@ Includes some lora. There's also a places where moving noodles changes the gener
 ## Versions
 * multi-sample-latent-fixing-x40-v1.2
 
+## Important Note
+* in order to run properly, the workflow needs a fix as talked about [here](https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics/token-random-example)
+* or put `{ | | }` in the prompt.
+
 ## Example Results
 
 Nah, that's a lot of images.
