@@ -9,6 +9,7 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 * [hr-fix-upscale:](./hr-fix-upscale) workflows utilizing Hi-Res Fixes and Upscales.
 * [misc:](./misc) various odds and ends.
 * [others:](./others) workflows made by other people I particularly like. Or had the urge to fiddle with.
+* [templates](./templates) some handy templates for comfyui
 
 ## Custom Nodes and Extensions
 Some places for ComfyUI stuff much cooler than mine:
@@ -32,9 +33,10 @@ Some places for ComfyUI stuff much cooler than mine:
   * much of the same ideas as WAS suit but in a different direction
 * https://github.com/hnmr293/ComfyUI-nodes-hnmr
 
-Many custom nodes are provided as packages on [civitai](https://civitai.com/). Use the "other" type in filters or search with the [comfyui](https://civitai.com/?query=comfyui) tag. ![civitai-other-type](https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png)
+* Many custom nodes are provided as packages on [civitai](https://civitai.com/). Use the "other" type in filters or search with the [comfyui](https://civitai.com/?query=comfyui) tag. <img src="https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png" width="25%" align="middle">
+* A litle more information on custom nodes and extensions in [basics](./basics)
 
-If you install these, keep an eye on comfyui PRs. Many end up in the UI.
+If you install custom nodes, keep an eye on comfyui PRs. Many end up in the UI.
 
 ## Useful things
 * Upscale Database: https://upscale.wiki/wiki/Model_Database
@@ -56,5 +58,3 @@ If you install these, keep an eye on comfyui PRs. Many end up in the UI.
 
 ## Useful Things
 * [XNView](https://www.xnview.com/en/) a great, light-weight and impressively capable file viewer. It shows the workflow stored in the exif data (View→Panels→Information). Also has favorite folders to make moving and sortintg images from `./output` easier. There may be something better out there for this, but I've not found it.
-
-![civitai-other-type](https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png)
