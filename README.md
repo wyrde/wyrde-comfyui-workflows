@@ -32,6 +32,8 @@ Some places for ComfyUI stuff much cooler than mine:
   * much of the same ideas as WAS suit but in a different direction
 * https://github.com/hnmr293/ComfyUI-nodes-hnmr
 
+Many custom nodes are provided as packages on [civitai](https://civitai.com/). Use the "other" type in filters or search with the [comfyui](https://civitai.com/?query=comfyui) tag. ![civitai-other-type](https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png)
+
 If you install these, keep an eye on comfyui PRs. Many end up in the UI.
 
 ## Useful things
@@ -55,3 +57,4 @@ If you install these, keep an eye on comfyui PRs. Many end up in the UI.
 ## Useful Things
 * [XNView](https://www.xnview.com/en/) a great, light-weight and impressively capable file viewer. It shows the workflow stored in the exif data (View→Panels→Information). Also has favorite folders to make moving and sortintg images from `./output` easier. There may be something better out there for this, but I've not found it.
 
+![civitai-other-type](https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png)
