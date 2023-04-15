@@ -36,6 +36,8 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00065_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00068_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00069_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00072_.png" width="22%" align="middle">
 * [ofi v2.1](https://civitai.com/models/9052?modelVersionId=44882)  
 <img src="./img/model-compare-hrf-pixel_00073_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00076_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00077_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00080_.png" width="22%" align="middle">
+* [primemix v2]( https://civitai.com/models/28779?modelVersionId=39027)  
+<img src="./img/model-compare-hrf-pixel_00081_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00084_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00085_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00088_.png" width="22%" align="middle">
 
 ## resources
 
