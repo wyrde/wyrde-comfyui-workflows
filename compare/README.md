@@ -16,6 +16,7 @@ This is a (very) basic comparison of different models.
 <img src="./img/" width="22%" align="middle">
 <img src="./img/" width="22%" align="middle">
 -->
+In no particular order because I'm lazy.
 
 * [colorful v2.6](https://civitai.com/models/7279/colorful)  
 <img src="./img/model-compare-hrf-pixel_00001_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00005_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00002_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00008_.png" width="22%" align="middle">
@@ -25,6 +26,8 @@ This is a (very) basic comparison of different models.
 <img src="./img/model-compare-hrf-pixel_00025_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00028_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00029_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00032_.png" width="22%" align="middle">
 * [Dorayakimix](https://civitai.com/models/32355/dorayakimix)  
 <img src="./img/model-compare-hrf-pixel_00033_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00036_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00037_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00040_.png" width="22%" align="middle">
+* [dosmix](https://civitai.com/models/6250/dosmix)  
+<img src="./img/model-compare-hrf-pixel_00041_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00044_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00045_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00048_.png" width="22%" align="middle">
 
 ## resources
 
