@@ -81,6 +81,8 @@ images
 <img src="./img/model-compare-hrf-pixel_00181_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00182_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00183_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00184_.png" width="22%" align="middle">
 * [DivineEleganceMix](https://civitai.com/models/6174/divineelegancemix)  
 <img src="./img/model-compare-hrf-pixel_00185_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00186_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00187_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00188_.png" width="22%" align="middle">
+* [fantasticmix](https://civitai.com/models/20632/fantasticmix)  
+<img src="./img/model-compare-hrf-pixel_00189_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00190_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00191_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00192_.png" width="22%" align="middle">
 
 
 
