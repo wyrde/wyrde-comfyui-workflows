@@ -77,6 +77,8 @@ images
 <img src="./img/model-compare-hrf-pixel_00173_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00174_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00175_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00176_.png" width="22%" align="middle">
 * [real-max-v3.4](https://civitai.com/models/35669)  
 <img src="./img/model-compare-hrf-pixel_00177_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00178_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00179_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00180_.png" width="22%" align="middle">
+* [AOM3A3](https://civitai.com/models/9942/abyssorangemix3-aom3)  
+<img src="./img/model-compare-hrf-pixel_00181_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00182_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00183_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00184_.png" width="22%" align="middle">
 
 
 
