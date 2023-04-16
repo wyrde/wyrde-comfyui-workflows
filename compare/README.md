@@ -72,8 +72,8 @@ images
 * [envymix_v11](https://civitai.com/models/39217/) (blessed2)  
 <img src="./img/model-compare-hrf-pixel_00165_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00166_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00167_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00168_.png" width="22%" align="middle">
 * [falkonsAnimeAndHentai_v11](https://civitai.com/models/38795/falkons)  
-<img src="./img/model-compare-hrf-pixel_00169_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00170_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00171_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00172_.png" width="22%" align="middle">
-[rev 1.2.2](https://civitai.com/models/7371/rev-animated)  
+<img src="./img/model-compare-hrf-pixel_00169_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00170_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00171_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00172_.png" width="22%" align="middle">  
+* [rev 1.2.2](https://civitai.com/models/7371/rev-animated)  
 <img src="./img/model-compare-hrf-pixel_00173_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00174_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00175_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00176_.png" width="22%" align="middle">
 
 
