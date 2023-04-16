@@ -87,6 +87,10 @@ images
 <img src="./img/model-compare-hrf-pixel_00193_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00194_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00195_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00196_.png" width="22%" align="middle">
 * [realmax 3.4](https://civitai.com/models/35669) (clip -2)  
 <img src="./img/model-compare-hrf-pixel_00197_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00198_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00199_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00200_.png" width="22%" align="middle">
+* [NijiV5style](https://civitai.com/models/42402/nijiv5style)  
+<img src="./img/model-compare-hrf-pixel_00203_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00204_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00205_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00206_.png" width="22%" align="middle">
+* [Digital Fantasy](https://civitai.com/models/42330/digital-fantasy)  
+<img src="./img/model-compare-hrf-pixel_00207_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00208_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00209_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00210_.png" width="22%" align="middle">
 
 
 
