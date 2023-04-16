@@ -61,6 +61,9 @@ images
 <img src="./img/model-compare-hrf-pixel_00141_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00142_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00143_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00144_.png" width="22%" align="middle">
 * [cetusMix v3](https://civitai.com/models/6755/)  
 <img src="./img/model-compare-hrf-pixel_00145_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00146_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00147_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00148_.png" width="22%" align="middle">
+* [cetusMix v3 (clip sikp 2)](https://civitai.com/models/6755/)  
+<img src="./img/model-compare-hrf-pixel_00149_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00150_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00151_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00152_.png" width="22%" align="middle">
+
 
 ## resources
 
