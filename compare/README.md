@@ -75,6 +75,9 @@ images
 <img src="./img/model-compare-hrf-pixel_00169_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00170_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00171_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00172_.png" width="22%" align="middle">  
 * [rev 1.2.2](https://civitai.com/models/7371/rev-animated)  
 <img src="./img/model-compare-hrf-pixel_00173_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00174_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00175_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00176_.png" width="22%" align="middle">
+* [real-max-v3.4](https://civitai.com/models/35669)  
+<img src="./img/model-compare-hrf-pixel_00177_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00178_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00179_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00180_.png" width="22%" align="middle">
+
 
 
 ## resources
