@@ -91,6 +91,8 @@ images
 <img src="./img/model-compare-hrf-pixel_00203_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00204_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00205_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00206_.png" width="22%" align="middle">
 * [Digital Fantasy](https://civitai.com/models/42330/digital-fantasy)  
 <img src="./img/model-compare-hrf-pixel_00207_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00208_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00209_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00210_.png" width="22%" align="middle">
+* [majicMIX fantasy](https://civitai.com/models/41865/)  
+<img src="./img/model-compare-hrf-pixel_00211_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00212_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00213_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00214_.png" width="22%" align="middle">
 
 
 
