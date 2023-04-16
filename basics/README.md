@@ -64,7 +64,11 @@ If comfyUI doesn't have something you expect, there's probably a custom node for
 
 * Custom Nodes are placed in the custom_node directory
 * It's generally a good idea to put the author's name/handle as a directory/folder, then the node(s) inside it.
+  * This can cause an warning when comfy loads the folder but it is harmless.
+  * an alternative is to keep the folders outside of comfy, and copy over the particular files.
 * some nodes come as "suites" which will include their own directory, drop the whole thing inside custom_nodes
+  * if nodes come in a folder with an `__init__.py` file, the whole thing can be put in `custom_nodes` with no errors
+    * well, there might still be errors (:
 
 Extensions are bits of javascript that extend the UI or some functions of comfyUI beyond the scope of nodes.
 * Extensions are placed in the `web\extensions` folder/directory.
