@@ -50,8 +50,12 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00121_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00124_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00125_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00128_.png" width="22%" align="middle">
 * [Yuqikun](https://civitai.com/models/23491/yuqikun-style)  
 <img src="./img/model-compare-hrf-pixel_00129_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00132_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00133_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00136_.png" width="22%" align="middle">
-
-
+* [anythingAndEverything](https://civitai.com/models/7118/anything-and-everything-ver-4)  
+<img src="./img/model-compare-hrf-pixel_00137_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00138_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00139_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00140_.png" width="22%" align="middle">
+* [anything-v4.5](https://huggingface.co/andite/anything-v4.0/resolve/main)  
+<img src="./img/model-compare-hrf-pixel_00141_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00142_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00143_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00144_.png" width="22%" align="middle">
+* [cetusMix v3](https://civitai.com/models/6755/)  
+<img src="./img/model-compare-hrf-pixel_00145_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00146_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00147_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00148_.png" width="22%" align="middle">
 
 ## resources
 
