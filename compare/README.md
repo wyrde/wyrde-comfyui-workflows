@@ -10,7 +10,7 @@ This is a (very) basic comparison of different models.
 
 ## The Pretty Pictures
 <!-- 
-* [Model Name](link)  
+* [ModelName](link)  
 <img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
 <img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
 <img src="./img/model-compare-hrf-pixel_001xx_.png" width="22%" align="middle">
@@ -46,6 +46,10 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00105_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00108_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00109_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00112_.png" width="22%" align="middle">
 * [theallysMixIV_v10](https://civitai.com/models/40369)  
 <img src="./img/model-compare-hrf-pixel_00113_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00116_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00117_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00120_.png" width="22%" align="middle">
+* [thingmix](https://civitai.com/models/38300/thingmix)  
+<img src="./img/model-compare-hrf-pixel_00121_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00124_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00125_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00128_.png" width="22%" align="middle">
+* [Yuqikun](https://civitai.com/models/23491/yuqikun-style)  
+<img src="./img/model-compare-hrf-pixel_00129_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00132_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00133_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00136_.png" width="22%" align="middle">
 
 
 
