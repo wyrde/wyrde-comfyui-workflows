@@ -59,10 +59,18 @@ images
 <img src="./img/model-compare-hrf-pixel_00137_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00138_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00139_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00140_.png" width="22%" align="middle">
 * [anything-v4.5](https://huggingface.co/andite/anything-v4.0/resolve/main)  
 <img src="./img/model-compare-hrf-pixel_00141_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00142_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00143_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00144_.png" width="22%" align="middle">
-* [cetusMix v3](https://civitai.com/models/6755/)  
+* [cetusMix v3](https://civitai.com/models/6755/) (clip skip 1)  
 <img src="./img/model-compare-hrf-pixel_00145_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00146_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00147_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00148_.png" width="22%" align="middle">
-* [cetusMix v3 (clip sikp 2)](https://civitai.com/models/6755/)  
+* [cetusMix v3](https://civitai.com/models/6755/) (clip sikp 2)  
 <img src="./img/model-compare-hrf-pixel_00149_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00150_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00151_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00152_.png" width="22%" align="middle">
+* [cetusMix v3](https://civitai.com/models/39217/) (clearvae)  
+<img src="./img/model-compare-hrf-pixel_00153_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00154_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00155_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00156_.png" width="22%" align="middle">
+* [envymix_v11](https://civitai.com/models/39217/) (clearvae)  
+<img src="./img/model-compare-hrf-pixel_00157_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00158_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00159_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00160_.png" width="22%" align="middle">
+* [envymix_v11](https://civitai.com/models/39217/) (vae-ft-mse-840000-ema-pruned)  
+<img src="./img/model-compare-hrf-pixel_00161_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00162_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00163_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00164_.png" width="22%" align="middle">
+* [envymix_v11](https://civitai.com/models/39217/) (blessed2)  
+<img src="./img/model-compare-hrf-pixel_00165_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00166_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00167_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00168_.png" width="22%" align="middle">
 
 
 ## resources
