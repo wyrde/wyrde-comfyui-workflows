@@ -1,5 +1,7 @@
 # Installing Controlnet Preprocessors on ComfyUI Portable
 
+This is a not-so-brief expansion on fannovel's [instructions](https://github.com/Fannovel16/comfy_controlnet_preprocessors#install).
+
 When installing [controlnet_preprocesors](https://github.com/Fannovel16/comfy_controlnet_preprocessors), make sure to run the `install.py` included in the distribution. It requires a number of files to run properly. If the install.py isn't run, the dreaded *ModuleNotFoundError* error appears!
 
 ```
