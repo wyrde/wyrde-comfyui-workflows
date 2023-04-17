@@ -20,6 +20,9 @@ Images 2A and 2B <img src="wyrde branch sharp_00035_.png" width=20%><img src="wy
 
 Images 3A - 3D <img src="wyrde branch sharp_00039_.png" width=20%><img src="wyrde branch sharp_00041_.png" width=20%><img src="wyrde branch sharp_00043_.png" width=20%><img src="wyrde branch sharp_00045_.png" width=20%>
 
+## updates
+* [1.1](./wyrde branching shapren x6-v1.1.json) Cleaned some noodles. Altered some denoise settings. Using the configuralbe save file prefix.
+
 ## resources
 
 WAS nodes. https://github.com/WASasquatch/was-node-suite-comfyui
