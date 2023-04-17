@@ -23,6 +23,7 @@ Some places for ComfyUI stuff much cooler than mine:
 * https://github.com/pythongosssss/ComfyUI-Custom-Scripts
   * useful and helpful UI additions. Many are added to comfyUI so keep an eye on them
 * https://github.com/Fannovel16/comfy_controlnet_preprocessors
+  * Have a ModuleNotFoundError? [check this out](https://github.com/wyrde/wyrde-comfyui-workflows/edit/main/basics/controlnet_install.md)
 * https://github.com/diontimmer/ComfyUI-Vextra-Nodes
 * https://github.com/Davemane42/ComfyUI_Dave_CustomNode
 * https://github.com/diffus3/ComfyUI-extensions
