@@ -24,6 +24,7 @@ Moving noodles switches between model vae and vae loader.
 * [a fast one with smaller images sizes](./multi-sample-pixel-space-sharpening-c.json) to "check it out" sort of thing.
 * [adjusted image sizes, added img2img nodes, cleaned up some lines and nodes](./multi-sample-pixel-space-sharpening-d.json)<br>
 <img src="multi-sample-pixel-space-sharpening-d.png" width="90%" align="middle">
+* [save filename prefix nodes](./multi-sample-pixel-space-sharpening-e.json)
 
 ## Resources
 
