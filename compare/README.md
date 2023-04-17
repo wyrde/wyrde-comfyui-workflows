@@ -95,6 +95,12 @@ images
 <img src="./img/model-compare-hrf-pixel_00211_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00212_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00213_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00214_.png" width="22%" align="middle">
 * [HQT](https://civitai.com/models/42665/)  
 <img src="./img/model-compare-hrf-pixel_00215_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00216_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00217_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00218_.png" width="22%" align="middle">
+* [facebomb](https://huggingface.co/mocker/KaBoom/tree/main) (clip -1)  
+<img src="./img/model-compare-hrf-pixel_00223_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00224_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00225_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00226_.png" width="22%" align="middle">
+* [facebomb](https://huggingface.co/mocker/KaBoom/tree/main) (clip -2)  
+<img src="./img/model-compare-hrf-pixel_00219_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00220_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00221_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00222_.png" width="22%" align="middle">
+* [facebomb](https://huggingface.co/mocker/KaBoom/tree/main) (clip -1)  
+<img src="./img/model-compare-hrf-pixel_00223_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00224_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00225_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00226_.png" width="22%" align="middle">
 
 
 
