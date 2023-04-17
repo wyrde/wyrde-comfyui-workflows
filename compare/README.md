@@ -101,6 +101,10 @@ images
 <img src="./img/model-compare-hrf-pixel_00219_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00220_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00221_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00222_.png" width="22%" align="middle">
 * [facebomb](https://huggingface.co/mocker/KaBoom/tree/main) (clip -1)  
 <img src="./img/model-compare-hrf-pixel_00223_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00224_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00225_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00226_.png" width="22%" align="middle">
+* [hyperbomb](https://huggingface.co/mocker/KaBoom/tree/main) (clip -1)  
+<img src="./img/model-compare-hrf-pixel_00227_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00228_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00229_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00230_.png" width="22%" align="middle">
+* [hyperbomb](https://huggingface.co/mocker/KaBoom/tree/main) (clip -2)  
+<img src="./img/model-compare-hrf-pixel_00231_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00232_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00233_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00234_.png" width="22%" align="middle">
 
 
 
