@@ -1,4 +1,6 @@
-When installing controlnet_preprocesors, make sure to run the install.py included in the distribution. It requires a number of files to run properly. If the install.py isn't run, the dreaded `ModuleNotFoundError` error appears!
+# Installing Controlnet Preprocessors on ComfyUI Portable
+
+When installing [controlnet_preprocesors](https://github.com/Fannovel16/comfy_controlnet_preprocessors), make sure to run the `install.py` included in the distribution. It requires a number of files to run properly. If the install.py isn't run, the dreaded *ModuleNotFoundError* error appears!
 
 ```
 (base) PS D:\sd\comfyui\portable> cd .\ComfyUI\custom_nodes\
@@ -41,14 +43,23 @@ Starting server
 To see the GUI go to: http://127.0.0.1:9199
 ```
 
+* Users with the portable install of comfyUI need to do some extra typing since the portable install uses its own python environment.
+
 * cd into the controlnet folder
-cd .\ComfyUI\custom_nodes\comfy_controlnet_preprocessors\
-* run install py
-(base) PS D:\sd\comfyui\portable\ComfyUI\custom_nodes\comfy_controlnet_preprocessors> ..\..\..\python_embeded\python.exe .\install.py
-* wait a while
+
+`cd .\ComfyUI\custom_nodes\comfy_controlnet_preprocessors\`
+
+* run install.py
+`(base) PS D:\sd\comfyui\portable\ComfyUI\custom_nodes\comfy_controlnet_preprocessors> ..\..\..\python_embeded\python.exe .\install.py`
+
+* wait a while, it does a lot of things!
 * leave to make some tea
 * drink tea
 
+<details>
+  <summary>$\color{pink}{Expand\ to\ see\ Output}$</summary>
+<!--   <summary>$\Large\color{orange}{Expand\ Node\ List}$</summary> -->
+  
 ```
 (base) PS D:\sd\comfyui\portable\ComfyUI\custom_nodes\comfy_controlnet_preprocessors> ..\..\..\python_embeded\python.exe .\install.py
 Installing requirements...
@@ -174,8 +185,11 @@ Downloading: "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/third-p
 100%|█████████████████████████████████████████████████████████████████████████████| 2.74M/2.74M [00:00<00:00, 7.36MB/s]
 Done!
 ```
+</details>
+  
+When it is done, move up a few dirs and run comfyui
 
-now move up a few dirs and run comfy
+It should now run without `ModuleNotFoundError` errors!
 
 ```
 (base) PS D:\sd\comfyui\portable\ComfyUI\custom_nodes\comfy_controlnet_preprocessors> cd ..\..\..\..
@@ -197,3 +211,4 @@ Starting server
 
 To see the GUI go to: http://127.0.0.1:9199
 ```
+
