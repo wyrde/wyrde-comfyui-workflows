@@ -6,7 +6,7 @@ This is a (very) basic comparison of different models.
   * this is noticable with those missing baked VAE
 
 
-<img src="model-compare-hrf-pixel-v0.3.png" width="80%" align="middle">
+<img src="model-compare-hrf-pixel-v0.7.png" width="80%" align="middle">
 
 ## The Pretty Pictures
 <!-- 
