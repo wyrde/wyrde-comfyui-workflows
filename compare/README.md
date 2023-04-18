@@ -23,12 +23,20 @@ images
   2. hirez fix, blessed vae
   3. first result, ckpt vae
   4. hirez fix, ckpt vae
-* [colorful v2.6](https://civitai.com/models/7279/colorful)  
-<img src="./img/model-compare-hrf-pixel_00001_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00005_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00002_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00008_.png" width="22%" align="middle">
-* [anylora baked](https://civitai.com/models/23900/anylora-checkpoint)  
-<img src="./img/model-compare-hrf-pixel_00017_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00020_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00021_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00024_.png" width="22%" align="middle">
-* [animatrix](https://civitai.com/models/21916/animatrix)  
-<img src="./img/model-compare-hrf-pixel_00025_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00028_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00029_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00032_.png" width="22%" align="middle">
+
+
+ | 1 | 2 | 3 | 4 |
+ |:-------------------------:|:------------------------:|:----------------------:|:---------------------:|
+ |  before HRF  | after HRF    |   before HRF | after HRF |
+ | blessed2 vae | blessed2 vae  |    ckpt vae   |   ckpt vae  |
+ <img width=180x> | <img width=180x> | <img width=180x> | <img width=180x>
+ |[colorful v2.6](https://civitai.com/models/7279/colorful)  | | |
+ <img src="./img/model-compare-hrf-pixel_00001_.png" width=160px >|<img src="./img/model-compare-hrf-pixel_00005_.png" width=160px >|<img src="./img/model-compare-hrf-pixel_00002_.png"  width=160px>|<img src="./img/model-compare-hrf-pixel_00008_.png" width=160px >
+[anylora baked](https://civitai.com/models/23900/anylora-checkpoint)| | |
+<img src="./img/model-compare-hrf-pixel_00017_.png" width=160px>|<img src="./img/model-compare-hrf-pixel_00020_.png" width=160px>|<img src="./img/model-compare-hrf-pixel_00021_.png" width=160px>|<img src="./img/model-compare-hrf-pixel_00024_.png" width=160px>
+[animatrix](https://civitai.com/models/21916/animatrix) | | |
+<img src="./img/model-compare-hrf-pixel_00025_.png"  width=160px >|<img src="./img/model-compare-hrf-pixel_00028_.png"  width=160px >|<img src="./img/model-compare-hrf-pixel_00029_.png"  width=160px>|<img src="./img/model-compare-hrf-pixel_00032_.png"  width=160px>
+
 * [Dorayakimix](https://civitai.com/models/32355/dorayakimix)  
 <img src="./img/model-compare-hrf-pixel_00033_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00036_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00037_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00040_.png" width="22%" align="middle">
 * [dosmix](https://civitai.com/models/6250/dosmix)  
