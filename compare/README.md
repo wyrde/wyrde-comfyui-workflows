@@ -119,6 +119,10 @@ images
 <img src="./img/model-compare-hrf-pixel_00255_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00256_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00257_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00258_.png" width="22%" align="middle">
 * [cetusmix_whalefall](https://civitai.com/models/6755/) (clip -2)  
 <img src="./img/model-compare-hrf-pixel_00259_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00260_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00261_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00262_.png" width="22%" align="middle">
+* [cetusmix_v35](https://civitai.com/models/6755/) (clip -2)  
+<img src="./img/model-compare-hrf-pixel_00263_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00264_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00265_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00266_.png" width="22%" align="middle">
+* [cetusmix_v35](https://civitai.com/models/6755/) (clip -2)  
+<img src="./img/model-compare-hrf-pixel_00267_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00268_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00269_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00270_.png" width="22%" align="middle">
 
 
 
