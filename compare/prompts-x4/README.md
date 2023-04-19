@@ -53,4 +53,4 @@ Custom Nodes
 * [omar QoL suit](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92)
 
 <!-- will likely forget to doublecheck this -->
-<p align="right"><a href="..">[back]</a><a href="../../../../.."> [home]</a></p>
+<p align="right"><a href="..">[back]</a><a href="../../../.."> [home]</a></p>
