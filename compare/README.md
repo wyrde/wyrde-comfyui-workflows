@@ -133,92 +133,44 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00263_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00264_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00265_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00266_.png" width="22%" align="middle">
 * [cetusmix_v35](https://civitai.com/models/6755/) (clip -2)  
 <img src="./img/model-compare-hrf-pixel_00267_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00268_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00269_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00270_.png" width="22%" align="middle">
-* [clam v1.0](link)  
-<img src="./img/model-compare-hrf-pixel_00271_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00272_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00273_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00274_.png" width="22%" align="middle">
-* [clam v1.1](link)  
+* [clam v1.0](https://civitai.com/models/43054/)  
+<img src="./img/model-compare-hrf-pixel_00271_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00272_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00273_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00274_.png" width="22%" align="middle">
+* [clam v1.1](https://civitai.com/models/43054/)  
+<img src="./img/model-compare-hrf-pixel_00331_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00332_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00333_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00334_.png" width="22%" align="middle">
+* [contaby anime hentai v2](https://civitai.com/models/29838/)  
+<img src="./img/model-compare-hrf-pixel_00275_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00276_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00277_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00278_.png" width="22%" align="middle">
+* [futaall v7](https://civitai.com/models/4452/futaallv7)  
+<img src="./img/model-compare-hrf-pixel_00279_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00280_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00281_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00282_.png" width="22%" align="middle">
+* [futagen 2](https://civitai.com/models/4109/)  
+<img src="./img/model-compare-hrf-pixel_00283_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00284_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00285_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00286_.png" width="22%" align="middle">
+* [majicmix realistic v2](https://civitai.com/models/43331/majicmix-realistic)  
+<img src="./img/model-compare-hrf-pixel_00287_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00288_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00289_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00290_.png" width="22%" align="middle">
+* [pasteltrainer v2.5](https://civitai.com/models/7547)  
+<img src="./img/model-compare-hrf-pixel_00291_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00292_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00293_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00294_.png" width="22%" align="middle">
+* [tentacles x](https://civitai.com/models/2219/)  
+<img src="./img/model-compare-hrf-pixel_00295_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00296_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00297_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00298_.png" width="22%" align="middle">
+* [peefusion 15000](https://civitai.com/models/1466/)  
+<img src="./img/model-compare-hrf-pixel_00299_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00300_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00301_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00302_.png" width="22%" align="middle">
+* [peefusion v2](https://civitai.com/models/1466/)  
+<img src="./img/model-compare-hrf-pixel_00303_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00304_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00305_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00306_.png" width="22%" align="middle">
+* [coffee mix](https://civitai.com/models/40630/coffeemix)  
+<img src="./img/model-compare-hrf-pixel_00307_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00308_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00309_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00310_.png" width="22%" align="middle">
+* [drizzle mix](https://civitai.com/models/44707)  
+<img src="./img/model-compare-hrf-pixel_00311_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00312_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00313_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00314_.png" width="22%" align="middle">
+* [hentai17](https://civitai.com/models/44703)  
+<img src="./img/model-compare-hrf-pixel_00315_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00316_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00317_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00318_.png" width="22%" align="middle">
+* [tangbohu 2dmix v1.0](https://civitai.com/models/43747) (clip -1)  
+<img src="./img/model-compare-hrf-pixel_00319_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00320_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00321_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00322_.png" width="22%" align="middle"
+* [tangbohu 2dmix v1.0](https://civitai.com/models/43747) (clip -2)  
+<img src="./img/model-compare-hrf-pixel_00323_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00324_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00325_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00326_.png" width="22%" align="middle">
+* [anylactation](https://civitai.com/models/3449/)  
+<img src="./img/model-compare-hrf-pixel_00327_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00328_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00329_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00330_.png" width="22%" align="middle">
+<!-- * [name](link)  
 <img src="./img/model-compare-hrf-pixel_00331_.png" width="22%" align="middle">
 <img src="./img/model-compare-hrf-pixel_00332_.png" width="22%" align="middle">
 <img src="./img/model-compare-hrf-pixel_00333_.png" width="22%" align="middle">
 <img src="./img/model-compare-hrf-pixel_00334_.png" width="22%" align="middle">
-* [contaby anime hentai v2](link)  
-<img src="./img/model-compare-hrf-pixel_00275_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00276_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00277_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00278_.png" width="22%" align="middle">
-* [futaall v7](link)  
-<img src="./img/model-compare-hrf-pixel_00279_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00280_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00281_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00282_.png" width="22%" align="middle">
-* [futagen 2](link)  
-<img src="./img/model-compare-hrf-pixel_00283_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00284_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00285_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00286_.png" width="22%" align="middle">
-* [majicmix realistic v2](link)  
-<img src="./img/model-compare-hrf-pixel_00287_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00288_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00289_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00290_.png" width="22%" align="middle">
-* [pasteltrainer v2.5](link)  
-<img src="./img/model-compare-hrf-pixel_00291_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00292_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00293_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00294_.png" width="22%" align="middle">
-* [tentacles x](link)  
-<img src="./img/model-compare-hrf-pixel_00295_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00296_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00297_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00298_.png" width="22%" align="middle">
-* [peefusion 15000](link)  
-<img src="./img/model-compare-hrf-pixel_00299_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00300_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00301_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00302_.png" width="22%" align="middle">
-* [peefusion v2](link)  
-<img src="./img/model-compare-hrf-pixel_00303_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00304_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00305_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00306_.png" width="22%" align="middle">
-* [coffee mix](link)  
-<img src="./img/model-compare-hrf-pixel_00307_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00308_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00309_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00310_.png" width="22%" align="middle">
-* [drizzle mix](link)  
-<img src="./img/model-compare-hrf-pixel_00311_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00312_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00313_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00314_.png" width="22%" align="middle">
-* [hentai17](link)  
-<img src="./img/model-compare-hrf-pixel_00315_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00316_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00317_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00318_.png" width="22%" align="middle">
-* [tangbohu 2dmix v1.0](link) (clip -1)  
-<img src="./img/model-compare-hrf-pixel_00319_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00320_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00321_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00322_.png" width="22%" align="middle">
-* [tangbohu 2dmix v1.0](link) (clip -2)  
-<img src="./img/model-compare-hrf-pixel_00323_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00324_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00325_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00326_.png" width="22%" align="middle">
-* [anylactation](link)  
-<img src="./img/model-compare-hrf-pixel_00327_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00328_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00329_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00330_.png" width="22%" align="middle">
-* [peefusion v2](link)  
-<img src="./img/model-compare-hrf-pixel_00331_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00332_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00333_.png" width="22%" align="middle">
-<img src="./img/model-compare-hrf-pixel_00334_.png" width="22%" align="middle">
-
+-->
 
 
 ## resources
