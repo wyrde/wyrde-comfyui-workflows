@@ -1,4 +1,4 @@
-# wyrde's generic tile
+# wyrde's 4-prompt comparision
 
 Uses of [WAS](https://github.com/WASasquatch/was-node-suite-comfyui) and [omar](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92) nodes.
 * Install the suits to avoid a mess of red boxes.
