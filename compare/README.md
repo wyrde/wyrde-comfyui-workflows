@@ -160,7 +160,7 @@ In no particular order because I'm lazy.
 * [hentai17](https://civitai.com/models/44703)  
 <img src="./img/model-compare-hrf-pixel_00315_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00316_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00317_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00318_.png" width="22%" align="middle">
 * [tangbohu 2dmix v1.0](https://civitai.com/models/43747) (clip -1)  
-<img src="./img/model-compare-hrf-pixel_00319_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00320_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00321_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00322_.png" width="22%" align="middle"
+<img src="./img/model-compare-hrf-pixel_00319_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00320_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00321_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00322_.png" width="22%" align="middle">
 * [tangbohu 2dmix v1.0](https://civitai.com/models/43747) (clip -2)  
 <img src="./img/model-compare-hrf-pixel_00323_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00324_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00325_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00326_.png" width="22%" align="middle">
 * [anylactation](https://civitai.com/models/3449/)  
