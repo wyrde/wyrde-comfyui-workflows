@@ -18,7 +18,7 @@ This workflow
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  |Is, This, Different, Than | Is; This; Different; Than | Is: This: Different: Than | Is. This. Different. Than |
- | <img src="./img/compare-prompt-diff-x4_00009_.png" width="10%" width="22%" align="middle"> | <img src="./img/compare-prompt-diff-x4_00010_.png" width="10%" width="22%" align="middle"> | <img src="./img/compare-prompt-diff-x4_00011_.png" width="10%" width="22%" align="middle"> | <img src="./img/compare-prompt-diff-x4_00012_.png" width="10%" width="22%" align="middle">
+ | <img src="./img/compare-prompt-diff-x4_00009_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00010_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00011_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00012_.png"   align="middle">
 
 ## xformers disabled
 To disable xformers:
@@ -34,10 +34,10 @@ To disable xformers:
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  |Is, This, Different, Than | Is; This; Different; Than | Is: This: Different: Than | Is. This. Different. Than |
- | <img src="./img/compare-prompt-diff-x4_00013_.png" width="10%" width="22%" align="middle"> | <img src="./img/compare-prompt-diff-x4_00014_.png" width="10%" width="22%" align="middle"> | <img src="./img/compare-prompt-diff-x4_00015_.png" width="10%" width="22%" align="middle"> | <img src="./img/compare-prompt-diff-x4_00016_.png" width="10%" width="22%" align="middle">
+ | <img src="./img/compare-prompt-diff-x4_00013_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00014_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00015_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00016_.png"   align="middle">
 
 
-<!-- <img src="" width="10%" align="middle"> -->
+<!-- <img src=""  align="middle"> -->
 
 ## resources
 
