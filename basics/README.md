@@ -18,6 +18,7 @@ Notes:
 * muted nodes don't process and block everythintg behind them 
 * Ctrl+C, Ctrl+V, Ctrl+X, work normally inside a text box/field
 * The text areas are like a separate layer. Space and copy/paste functions act normal inside them and use comfyUI functions outside.
+* [full list of shortcuts](https://github.com/comfyanonymous/ComfyUI#shortcuts)
 
 ## Organization
 * ~~Add pythongosssss _Node Templates_ [from this repo](https://github.com/pythongosssss/ComfyUI-Custom-Scripts). Download the node-templates file and put it in `ComfyUI/web/extensions/`. (Don't copy paste the editor display, save the raw file.) This repo has some other super helpful extensions as well.~~ Templates are now in ComfyUI.
