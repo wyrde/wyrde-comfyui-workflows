@@ -7,7 +7,7 @@
 
 ## Comparing differences in prompts against same model and settings
 
-[<img serc="./prompts-x4/compare-prompt-diff-x4-v0.4.png">](./prompts-x4)
+[<img serc="./prompts-x4/compare-prompt-diff-x4-v0.4.png">](./prompts-x4/)
 
 
 <!-- will likely forget to doublecheck this -->
