@@ -14,13 +14,13 @@ Takes advantage of text boxes, concatenate, and cli output.
 ## xformers enabled
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
- |Is, This, Different, Than | Is; This; Different; Than | Is: This: Different: Than | Is. This. Different. Than |
+ |`Is, This, Different, Than` | `Is; This; Different; Than` | `Is: This: Different: Than` | `Is. This. Different. Than` |
  | <img src="./img/compare-prompt-diff-x4_00009_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00010_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00011_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00012_.png"   align="middle">
 
 ## xformers disabled
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
- |Is, This, Different, Than | Is; This; Different; Than | Is: This: Different: Than | Is. This. Different. Than |
+ |`Is, This, Different, Than` | `Is; This; Different; Than` | `Is: This: Different: Than` | `Is. This. Different. Than` |
  | <img src="./img/compare-prompt-diff-x4_00013_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00014_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00015_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00016_.png"   align="middle">
 
 <details>
