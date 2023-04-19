@@ -155,8 +155,10 @@ In no particular order because I'm lazy.
 <img src="./img/model-compare-hrf-pixel_00303_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00304_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00305_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00306_.png" width="22%" align="middle">
 * [coffee mix](https://civitai.com/models/40630/coffeemix)  
 <img src="./img/model-compare-hrf-pixel_00307_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00308_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00309_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00310_.png" width="22%" align="middle">
-* [drizzle mix](https://civitai.com/models/44707)  
+* [drizzle mix](https://civitai.com/models/44707) (clip -1)  
 <img src="./img/model-compare-hrf-pixel_00311_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00312_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00313_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00314_.png" width="22%" align="middle">
+* [drizzle mix](https://civitai.com/models/44707) (clip -2)  
+<img src="./img/model-compare-hrf-pixel_00335_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00336_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00337_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00338_.png" width="22%" align="middle">
 * [hentai17](https://civitai.com/models/44703)  
 <img src="./img/model-compare-hrf-pixel_00315_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00316_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00317_.png" width="22%" align="middle"><img src="./img/model-compare-hrf-pixel_00318_.png" width="22%" align="middle">
 * [tangbohu 2dmix v1.0](https://civitai.com/models/43747) (clip -1)  
