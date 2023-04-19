@@ -7,12 +7,9 @@ Uses of [WAS](https://github.com/WASasquatch/was-node-suite-comfyui) and [omar](
 
 ## Comparing Things
 
-stuff
+Stable Diffusion can be _weird_. Sometimes it helps to examine the weirdness with pretty pictures. This worfklow runs 4 different prompts with the same settings and outputs the image results.
 
-This workflow
-* more
-* stuff
-  * here
+Takes advantage of text boxes, concatenate, and cli output.
 
 ## xformers enabled
  | prompt A | prompt B | prompt C | prompt D
@@ -47,6 +44,7 @@ To disable xformers:
 Model
 * animatrix https://civitai.com/models/21916/animatrix
 
+Embedding
 * EasyNegative https://civitai.com/models/7808/easynegative
 * bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
 
@@ -55,4 +53,4 @@ Custom Nodes
 * [omar QoL suit](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92)
 
 <!-- will likely forget to doublecheck this -->
-<p align="right"><a href="..">[back]</a><a href="../../../.."> [home]</a></p>
+<p align="right"><a href="..">[back]</a><a href="../../../../.."> [home]</a></p>
