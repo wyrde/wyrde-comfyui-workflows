@@ -50,7 +50,7 @@ To disable xformers:
 <!-- things people might want to duplicate results -->
 
 Model
-* https://civitai.com/models/4384/dreamshaper
+* animatrix https://civitai.com/models/21916/animatrix
 
 * EasyNegative https://civitai.com/models/7808/easynegative
 * bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
