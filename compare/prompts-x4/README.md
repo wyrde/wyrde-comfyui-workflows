@@ -11,13 +11,15 @@ Stable Diffusion can be _weird_. Sometimes it helps to examine the weirdness wit
 
 Takes advantage of text boxes, concatenate, and cli output.
 
-## xformers enabled
+## Punctuation in Prompts
+
+### xformers enabled
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  |`Is, This, Different, Than` | `Is; This; Different; Than` | `Is: This: Different: Than` | `Is. This. Different. Than` |
  | <img src="./img/compare-prompt-diff-x4_00009_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00010_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00011_.png"   align="middle"> | <img src="./img/compare-prompt-diff-x4_00012_.png"   align="middle">
 
-## xformers disabled
+### xformers disabled
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  |`Is, This, Different, Than` | `Is; This; Different; Than` | `Is: This: Different: Than` | `Is. This. Different. Than` |
@@ -34,6 +36,26 @@ To disable xformers:
   * add ` --disable-xformers` to the start command.
   * `python .\main.py --disable-xformers`
 </details>
+
+## Textual Inversons (embeddings)
+
+Are the "triggers" for textual inversions required in comfyui?
+
+### Style Princess
+
+ | prompt A | prompt B | prompt C | prompt D
+ |:----:|:----:|:----:|:----:|
+ | `girl in a sunset style-princess` | `girl in a sunset embedding:style-princess style-princess` | `girl in a sunset embedding:style-princess` | `girl in a sunset`
+ |<img src="img/compare-prompt-diff-x4_00017_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00018_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00019_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00020_.png"  align="middle">|
+
+### GNTZ
+
+ | prompt A | prompt B | prompt C | prompt D
+ |:----:|:----:|:----:|:----:|
+ | `girl in a sunset gntz` | `girl in a sunset embedding:gntz gntz` | `girl in a sunset embedding:gntz`  | `girl in a sunset` |
+ |<img src="img/compare-prompt-diff-x4_00024_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00025_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00026_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00027_.png"  align="middle">|
+
+Conclusion: not needed, but they do add importance.
 
 <!-- <img src=""  align="middle"> -->
 
