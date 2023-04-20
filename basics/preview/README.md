@@ -7,9 +7,9 @@ People new to comfyui often ask if there's a way to preview images. There isn't 
 This is also a good example of using the advanced ksampler for splitting samping.
 
 ## Sample images
-| steps 0-4 | steps 5-9 | steps 10-14 | steps 15-20 |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-<img src="./img/preview-example_00012_.png" align="middle">|<img src="./img/preview-example_00013_.png" align="middle">|<img src="./img/preview-example_00014_.png" align="middle">|<img src="./img/preview-example_00015_.png" align="middle">
+ | steps 0-4 | steps 5-9 | steps 10-14 | steps 15-20 |
+ |:-----:|:-----:|:-----:|:-----:|:-----:|
+ | <img src="./img/preview-example_00012_.png" align="middle">|<img src="./img/preview-example_00013_.png" align="middle">|<img src="./img/preview-example_00014_.png" align="middle">|<img src="./img/preview-example_00015_.png" align="middle">|
 
 <!-- <img src="./img/" width="10%" align="middle"> -->
 
