@@ -43,12 +43,16 @@ Are the "triggers" for textual inversions required in comfyui?
 
 ### Style Princess
 
+[style princess](https://civitai.com/models/3485/princess-style)
+
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  | `girl in a sunset style-princess` | `girl in a sunset embedding:style-princess style-princess` | `girl in a sunset embedding:style-princess` | `girl in a sunset`
  |<img src="img/compare-prompt-diff-x4_00017_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00018_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00019_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00020_.png"  align="middle">|
 
 ### GNTZ
+
+[Style GNTZ](https://civitai.com/models/22544/gntz)
 
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
