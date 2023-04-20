@@ -8,8 +8,8 @@ This is also a good example of using the advanced ksampler for splitting samping
 
 ## Sample images
 
- | steps 0-4 | steps 5-9 | steps 10-14 | steps 15-20 |
- |:-----:|:-----:|:-----:|:-----:|:-----:|
+ | step 04 | step 09 | step 14 | step 20 |
+ |:-----:|:-----:|:-----:|:-----:|
  |<img src="./img/preview-example_00012_.png" align="middle">|<img src="./img/preview-example_00013_.png" align="middle">|<img src="./img/preview-example_00014_.png" align="middle">|<img src="./img/preview-example_00015_.png" align="middle">|
 
 
