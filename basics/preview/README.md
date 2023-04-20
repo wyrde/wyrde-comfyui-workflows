@@ -4,6 +4,8 @@
 
 People new to comfyui often ask if there's a way to preview images. There isn't a node for that yet. Using advanced Ksamplers to split up the latent sampling is the closest thing.
 
+This is also a good example of using the advanced ksampler for splitting samping.
+
 ## Sample images
 | steps 0-4 | steps 5-9 | steps 10-14 | steps 15-20 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
