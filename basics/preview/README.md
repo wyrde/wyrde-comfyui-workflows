@@ -1,4 +1,4 @@
-# Prewview Example
+# Preview Example
 
 <img src="preview-example-v0.4.png" align="middle">
 
