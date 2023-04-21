@@ -37,6 +37,8 @@ To disable xformers:
   * `python .\main.py --disable-xformers`
 </details>
 
+----
+
 ## Textual Inversons (embeddings)
 
 Are the "triggers" for textual inversions required in comfyui?
@@ -61,6 +63,8 @@ Are the "triggers" for textual inversions required in comfyui?
 
 Conclusion: not needed, but they do add importance.
 
+----
+
 ## Lora and keywords
 
  | prompt A | prompt B | prompt C | prompt D
@@ -74,6 +78,8 @@ Conclusion: not needed, but they do add importance.
 * [compare lora workflow](compare-prompt-diff-x4-v0.8-lora.json)
 
 <!-- <img src=""  align="middle"> -->
+
+----
 
 
 ## resources
