@@ -75,6 +75,22 @@ Extensions are bits of javascript that extend the UI or some functions of comfyU
 * Extensions are placed in the `web\extensions` folder/directory.
 * Make sure to follow the author's instructions. These can break things. Easy to fix by removing the files.
 
+## Embeddings
+
+Otherwise known as Textual Inversons, embeddings can help create specfiic results in an image. Place embeddings in the `embeddings` folder and use them in prompts with `embedding:<filename>`. The extension isn't required. Note the lack of space after the `:`. Embeddings don't have a GUI element or node because their placement in a prompt is important. An embedding is basically a "word" with special meaning.
+
+### Negative Embeddings
+
+While most embeddings are put in the prompt, negative ones are placed in a negative prompt to _avoid_ a result. They can be helpful in creating better compositions. Restults can vary by model and the weight of the embedding.
+
+* https://civitai.com/models/4629/deep-negative-v1x
+* https://civitai.com/models/7808/easynegative
+* https://huggingface.co/nick-x-hacker/bad-artist
+* https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
+* https://huggingface.co/datasets/Nerfgun3/bad_prompt/
+* https://civitai.com/models/23178
+* https://civitai.com/models/16993
+
 ## Tips and Philosophy
 
 * ComfyUI has a philosophy of keep it simple. Don't try to create a "do it all" workflow, instead focus on a specific objective.
