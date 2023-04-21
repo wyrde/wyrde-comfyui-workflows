@@ -90,6 +90,7 @@ While most embeddings are put in the prompt, negative ones are placed in a negat
 * https://huggingface.co/datasets/Nerfgun3/bad_prompt/
 * https://civitai.com/models/23178
 * https://civitai.com/models/16993
+* https://civitai.com/models/15287
 
 ## Tips and Philosophy
 
