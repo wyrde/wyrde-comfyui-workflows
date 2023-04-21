@@ -69,6 +69,8 @@ Conclusion: not needed, but they do add importance.
  | no lora | lora 1,1 | lora 1,1 | lora 0,0 |
  |<img src="img/compare-prompt-diff-x4_00043_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00044_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00045_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00046_.png"  align="middle">|
 
+* tested with [Anime Girls Holding Signs](https://civitai.com/models/42621/)
+  * it's a good lora for testing since it is obvious when it is working
 * [compare lora workflow](compare-prompt-diff-x4-v0.8-lora.json)
 
 <!-- <img src=""  align="middle"> -->
