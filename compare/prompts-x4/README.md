@@ -61,7 +61,16 @@ Are the "triggers" for textual inversions required in comfyui?
 
 Conclusion: not needed, but they do add importance.
 
+## Lora and keywords
+ | prompt A | prompt B | prompt C | prompt D
+ |:----:|:----:|:----:|:----:|
+ |`girl in a sunset `|`girl in a sunset `|`girl in a sunset holding_sign`|`girl in a sunset`|
+ | no lora | lora 1,1 | lora 1,1 | lora 0,0 |
+ |<img src="img/compare-prompt-diff-x4_00043_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00044_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00045_.png"  align="middle">|<img src="img/compare-prompt-diff-x4_00046_.png"  align="middle">|
+
+
 <!-- <img src=""  align="middle"> -->
+
 
 ## resources
 
