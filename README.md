@@ -38,6 +38,8 @@ Some places for ComfyUI stuff much cooler than mine:
     * advanced clip encoding (weighting changes)
   * https://github.com/BlenderNeko/ComfyUI_Cutoff
     * cut-off control
+* https://github.com/ailex000/ComfyUI-Extensions/
+  * image box/lightbox for previews of generated images
 * Many custom nodes are provided as packages on [civitai](https://civitai.com/). Use the "other" type in filters or search with the [comfyui](https://civitai.com/?query=comfyui) tag. <img src="https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png" width="20%" align="middle">
 * An occasionally updated [backup list of the comfy nodes](https://github.com/wyrde/ComfyResources) for those times civit falls down a well.
 * Some more information on installing custom nodes and extensions in [basics](./basics)
