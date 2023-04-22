@@ -97,6 +97,14 @@ While most embeddings are put in the prompt, negative ones are placed in a negat
 * ComfyUI has a philosophy of keep it simple. Don't try to create a "do it all" workflow, instead focus on a specific objective.
 * use the _CheckpointLoaderSimple_ node to load checkpoints. It will auto pick the right settings depending on your GPU.
 
+## Tabs
+
+Comfy runs as a service with a web-based front end (the user interrface). This means more than one tab to can be opened. But there's a few things to look out for.
+* F5 will refresh to the most recently queued workflow. Avoid F5 if you don't want to lose work in a different tab.
+* Use the "new tab" command and copy-paste the URL.
+  * or control+left click the url in the cmd/ps window (windows)
+* Do not use "duplicate tab". It dupilicates evrything about the original, included session information, which makes the output go wonky.
+
 ##
 This directory conatains some basic workflows showing beginning principles. Think of them as badly organized tutorials.
 
