@@ -23,7 +23,7 @@ Takes advantage of text boxes, concatenate, and cli output.
  |<img src="./img/compare-prompt-diff-x4_00004_.png">|<img src="./img/compare-prompt-diff-x4_00003_.png">|<img src="./img/compare-prompt-diff-x4_00002_.png">|<img src="./img/compare-prompt-diff-x4_00001_.png"> 
  | prompt A | prompt B | prompt C | prompt D
  | ` ` | `,,,,,,` | `......` | `;;;;;;` |
- |<img src="./img/compare-prompt-diff-x4_00097_.png">|<img src="./img/compare-prompt-diff-x4_00098_.png">|<img src="./img/compare-prompt-diff-x4_00099_.png">|<img src="./img/compare-prompt-diff-x4_00100_.png"> 
+ |<img src="./img/compare-prompt-diff-x4_00101_.png">|<img src="./img/compare-prompt-diff-x4_00102_.png">|<img src="./img/compare-prompt-diff-x4_00103_.png">|<img src="./img/compare-prompt-diff-x4_00104_.png"> 
  |<img width=288px>|<img width=288px>|<img width=288px>|<img width=288px>|
 
 ## resources
