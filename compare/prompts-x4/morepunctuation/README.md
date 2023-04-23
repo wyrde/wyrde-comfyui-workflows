@@ -17,7 +17,7 @@ Takes advantage of text boxes, concatenate, and cli output.
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  |`Is, This, Different, Than` | `Is; This; Different; Than` | `Is: This: Different: Than` | `Is. This. Different. Than` |
- | <img src="../img/compare-prompt-diff-x4_00009_.png">|<img src="../img/compare-prompt-diff-x4_00010_.png">|<img src="../img/compare-prompt-diff-x4_00011_.png">|<img src="../img/compare-prompt-diff-x4_00012_.png">
+ | <img src="./img/compare-prompt-diff-x4_00105_.png">|<img src="./img/compare-prompt-diff-x4_00106_.png">|<img src="./img/compare-prompt-diff-x4_00107_.png">|<img src="./img/compare-prompt-diff-x4_00108_.png">
  | prompt A | prompt B | prompt C | prompt D
  | `,.;` | `,.;,.;` | `,.;,.;,.;,.;,.;,.;` | `,.;,.;,.;,.;,.;,.;,.;,.;,.;,.;` |
  |<img src="./img/compare-prompt-diff-x4_00004_.png">|<img src="./img/compare-prompt-diff-x4_00003_.png">|<img src="./img/compare-prompt-diff-x4_00002_.png">|<img src="./img/compare-prompt-diff-x4_00001_.png"> 
