@@ -28,8 +28,12 @@ Takes advantage of text boxes, concatenate, and cli output.
  |<img width=288px>|<img width=288px>|<img width=288px>|<img width=288px>|
  | ` ` | `Is, This, Different, Than` | `,.;,.;,.;,.;,.;,.;,.;,.;,.;,.;` | `,,,,,,` |
  |<img src="./img/compare-prompt-diff-x4_00113_.png">|<img src="./img/compare-prompt-diff-x4_00114_.png">|<img src="./img/compare-prompt-diff-x4_00115_.png">|<img src="./img/compare-prompt-diff-x4_00116_.png"> 
- | ` ` | `<o.o>` | `;o.o;` | `|o.o|` |
+ | ` ` | `<o.o>` | `;o.o;` | `\|o.o|\` |
  |<img src="./img/compare-prompt-diff-x4_00120_.png">|<img src="./img/compare-prompt-diff-x4_00117_.png">|<img src="./img/compare-prompt-diff-x4_00118_.png">|<img src="./img/compare-prompt-diff-x4_00119_.png"> 
+ | ` ` | `<o.o;` | `;o.o>` | `-o.o-` |
+ |<img src="./img/compare-prompt-diff-x4_00121_.png">|<img src="./img/compare-prompt-diff-x4_00122_.png">|<img src="./img/compare-prompt-diff-x4_00123_.png">|<img src="./img/compare-prompt-diff-x4_00124_.png"> 
+ | `\|O.O\|` | `OTL` | `¯\(°_o)/¯`| `:-)` |
+ |<img src="./img/compare-prompt-diff-x4_00125_.png">|<img src="./img/compare-prompt-diff-x4_00126_.png">|<img src="./img/compare-prompt-diff-x4_00127_.png">|<img src="./img/compare-prompt-diff-x4_00128_.png"> 
 
 
 ## resources
