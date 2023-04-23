@@ -4,6 +4,7 @@ Uses of [WAS](https://github.com/WASasquatch/was-node-suite-comfyui) and [omar](
 * Install the suits to avoid a mess of red boxes.
 
 <img src="../compare-prompt-diff-x4-v0.4.png" align="middle">
+[compare-prompt-diff-x4-v0.10punctuation.json](./compare-prompt-diff-x4-v0.10punctuation.json)
 
 ## Comparing Things
 
