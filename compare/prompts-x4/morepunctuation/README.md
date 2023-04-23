@@ -21,10 +21,16 @@ Takes advantage of text boxes, concatenate, and cli output.
  | prompt A | prompt B | prompt C | prompt D
  | `,.;` | `,.;,.;` | `,.;,.;,.;,.;,.;,.;` | `,.;,.;,.;,.;,.;,.;,.;,.;,.;,.;` |
  |<img src="./img/compare-prompt-diff-x4_00004_.png">|<img src="./img/compare-prompt-diff-x4_00003_.png">|<img src="./img/compare-prompt-diff-x4_00002_.png">|<img src="./img/compare-prompt-diff-x4_00001_.png"> 
+ |<img src="./img/compare-prompt-diff-x4_00109_.png">|<img src="./img/compare-prompt-diff-x4_00110_.png">|<img src="./img/compare-prompt-diff-x4_00111_.png">|<img src="./img/compare-prompt-diff-x4_00112_.png"> 
  | prompt A | prompt B | prompt C | prompt D
  | ` ` | `,,,,,,` | `......` | `;;;;;;` |
  |<img src="./img/compare-prompt-diff-x4_00101_.png">|<img src="./img/compare-prompt-diff-x4_00102_.png">|<img src="./img/compare-prompt-diff-x4_00103_.png">|<img src="./img/compare-prompt-diff-x4_00104_.png"> 
  |<img width=288px>|<img width=288px>|<img width=288px>|<img width=288px>|
+ | ` ` | `Is, This, Different, Than` | `,.;,.;,.;,.;,.;,.;,.;,.;,.;,.;` | `,,,,,,` |
+ |<img src="./img/compare-prompt-diff-x4_00113_.png">|<img src="./img/compare-prompt-diff-x4_00114_.png">|<img src="./img/compare-prompt-diff-x4_00115_.png">|<img src="./img/compare-prompt-diff-x4_00116_.png"> 
+ | ` ` | `<o.o>` | `;o.o;` | `|o.o|` |
+ |<img src="./img/compare-prompt-diff-x4_00120_.png">|<img src="./img/compare-prompt-diff-x4_00117_.png">|<img src="./img/compare-prompt-diff-x4_00118_.png">|<img src="./img/compare-prompt-diff-x4_00119_.png"> 
+
 
 ## resources
 
