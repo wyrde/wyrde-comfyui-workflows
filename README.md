@@ -58,6 +58,7 @@ Some places for ComfyUI stuff much cooler than mine:
 * https://www.youtube.com/@OlivioSarikas
 * https://rentry.org/safetensorsguide
 * https://rentry.org/sdvae
+* List of nodes and examples of use https://comfyui.creamlab.net/nodes (Japanese)
 
 ## More SD resources
 * https://civitai.com/ (when they're not breaking it)
