@@ -3,7 +3,7 @@
 Uses of [WAS](https://github.com/WASasquatch/was-node-suite-comfyui) and [omar](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92) nodes.
 * Install the suits to avoid a mess of red boxes.
 
-<img src="compare-prompt-diff-x4-v0.4.png" align="middle">
+<img src="../compare-prompt-diff-x4-v0.4.png" align="middle">
 
 ## Comparing Things
 
@@ -17,19 +17,14 @@ Takes advantage of text boxes, concatenate, and cli output.
  | prompt A | prompt B | prompt C | prompt D
  |:----:|:----:|:----:|:----:|
  |`Is, This, Different, Than` | `Is; This; Different; Than` | `Is: This: Different: Than` | `Is. This. Different. Than` |
- | <img src="../img/compare-prompt-diff-x4_00009_.png"   align="middle"> | <img src="../img/compare-prompt-diff-x4_00010_.png"   align="middle"> | <img src="../img/compare-prompt-diff-x4_00011_.png"   align="middle"> | <img src="../img/compare-prompt-diff-x4_00012_.png"   align="middle">
-
-
+ | <img src="../img/compare-prompt-diff-x4_00009_.png">|<img src="../img/compare-prompt-diff-x4_00010_.png">|<img src="../img/compare-prompt-diff-x4_00011_.png">|<img src="../img/compare-prompt-diff-x4_00012_.png">
  | prompt A | prompt B | prompt C | prompt D
- |:----:|:----:|:----:|:----:|
  | `,.;` | `,.;,.;` | `,.;,.;,.;,.;,.;,.;` | `,.;,.;,.;,.;,.;,.;,.;,.;,.;,.;` |
- |<img src="./img/compare-prompt-diff-x4_00004_.png"   align="middle">|<img src="./img/compare-prompt-diff-x4_00003_.png"   align="middle">|<img src="./img/compare-prompt-diff-x4_00002_.png"   align="middle">|<img src="./img/compare-prompt-diff-x4_00001_.png"   align="middle"> 
-
+ |<img src="./img/compare-prompt-diff-x4_00004_.png">|<img src="./img/compare-prompt-diff-x4_00003_.png">|<img src="./img/compare-prompt-diff-x4_00002_.png">|<img src="./img/compare-prompt-diff-x4_00001_.png"> 
  | prompt A | prompt B | prompt C | prompt D
- |:----:|:----:|:----:|:----:|
  | ` ` | `,,,,,,` | `......` | `;;;;;;` |
- |<img src="./img/compare-prompt-diff-x4_00097_.png"   align="middle">|<img src="./img/compare-prompt-diff-x4_00098_.png"   align="middle">|<img src="./img/compare-prompt-diff-x4_00099_.png"   align="middle">|<img src="./img/compare-prompt-diff-x4_00100_.png"   align="middle"> 
-
+ |<img src="./img/compare-prompt-diff-x4_00097_.png">|<img src="./img/compare-prompt-diff-x4_00098_.png">|<img src="./img/compare-prompt-diff-x4_00099_.png">|<img src="./img/compare-prompt-diff-x4_00100_.png"> 
+ |<img width=288px>|<img width=288px>|<img width=288px>|<img width=288px>|
 
 ## resources
 
