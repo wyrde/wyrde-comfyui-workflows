@@ -1,4 +1,4 @@
-# wyrde's prompt noise comparisons
+# wyrde's punctuation noise comparisons
 
 Uses of [WAS](https://github.com/WASasquatch/was-node-suite-comfyui) and [omar](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92) nodes.
 * Install the suits to avoid a mess of red boxes.
@@ -33,7 +33,9 @@ Takes advantage of text boxes, concatenate, and cli output.
  | ` ` | `<o.o;` | `;o.o>` | `-o.o-` |
  |<img src="./img/compare-prompt-diff-x4_00121_.png">|<img src="./img/compare-prompt-diff-x4_00122_.png">|<img src="./img/compare-prompt-diff-x4_00123_.png">|<img src="./img/compare-prompt-diff-x4_00124_.png"> 
  | `\|O.O\|` | `OTL` | `¯\(°_o)/¯`| `:-)` |
- |<img src="./img/compare-prompt-diff-x4_00125_.png">|<img src="./img/compare-prompt-diff-x4_00126_.png">|<img src="./img/compare-prompt-diff-x4_00127_.png">|<img src="./img/compare-prompt-diff-x4_00128_.png"> 
+ |<img src="./img/compare-prompt-diff-x4_00125_.png">|<img src="./img/compare-prompt-diff-x4_00126_.png">|<img src="./img/compare-prompt-diff-x4_00127_.png">|<img src="./img/compare-prompt-diff-x4_00128_.png">|
+ | ` ` | `  ` | `   `| `    ` |
+ |<img src="./img/compare-prompt-diff-x4_00129_.png">|<img src="./img/compare-prompt-diff-x4_00130_.png">|<img src="./img/compare-prompt-diff-x4_00131_.png">|<img src="./img/compare-prompt-diff-x4_00132_.png">|
  |`                             `|`                              `|`                              `|`                             `|
 
 
