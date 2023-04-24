@@ -35,7 +35,7 @@ This basic workflow generates an image based on the positive and negative prompt
 * <a href="basic-workflow-vae-v03.json">workflow + vae.json file</a>  
 <img src="basic-workflow-vae-v03.png" align="middle">
 
-First download a VAE from [stabilityai](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main) and drop it in `ComfyUI\models\vae`. Get the pruned.safetensors file. Don't click the filename, click to the right. <img src="downloadvae.png" width="20%" align="middle">
+First download a VAE from [stabilityai](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main) and drop it in `ComfyUI\models\vae`. Get the pruned.safetensors file. Don't click the filename, click to the right. <img src="downloadvae.png" width="75%" align="middle">
 
 adding new nodes is done three ways
   * noodle dragging
