@@ -11,8 +11,10 @@ a configuration file that adds some SD-related tags allowing exiftool to edit th
 ## workping.py
 A CLI script for adding a workflow to a PNG file. Requres Pillow module (PIL). It updates the image file, make a backup if you want extra safety.
 ```
-python workping.py --image "/path/to/image.png" --workflow "/path/to/workflow.json"
+    /path/to/python workping.py --image "/path/to/image.png" --workflow "/path/to/workflow.json"
 ```
+* note
+  * both comfy and a111 use pillow, but it may not be installed globally. Use the path to comfy or a111's python or a venv if pillow isn't accessable by system python. Or install from below.
 
 ### related
 * source: https://colab.research.google.com/drive/1hQMjNUdhMQ3rw1Wcm3_umvmOMeS_K4s8?usp=sharing#scrollTo=llbal5zlANoH
