@@ -41,7 +41,8 @@ Takes advantage of text boxes, concatenate, and cli output.
  |<img src="./img/compare-prompt-diff-x4_00133_.png">|<img src="./img/compare-prompt-diff-x4_00134_.png">|<img src="./img/compare-prompt-diff-x4_00135_.png">|<img src="./img/compare-prompt-diff-x4_00136_.png">|
  | `\|o.o\|` | `\|o;o\|` | `\|o?o\|`| `\|o'o\|` |
  |<img src="./img/compare-prompt-diff-x4_00137_.png">|<img src="./img/compare-prompt-diff-x4_00138_.png">|<img src="./img/compare-prompt-diff-x4_00139_.png">|<img src="./img/compare-prompt-diff-x4_00140_.png">|
- |`                             `|`                              `|`                              `|`                             `|
+ | `\|o.o\|` | `:` | `::::`| `:::::::::` |
+ |`                           `|`                            `|`                            `|`                           `|
 
 
 ## resources
