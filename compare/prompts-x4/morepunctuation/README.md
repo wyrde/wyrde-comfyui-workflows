@@ -42,6 +42,7 @@ Takes advantage of text boxes, concatenate, and cli output.
  | `\|o.o\|` | `\|o;o\|` | `\|o?o\|`| `\|o'o\|` |
  |<img src="./img/compare-prompt-diff-x4_00137_.png">|<img src="./img/compare-prompt-diff-x4_00138_.png">|<img src="./img/compare-prompt-diff-x4_00139_.png">|<img src="./img/compare-prompt-diff-x4_00140_.png">|
  | `\|o.o\|` | `:` | `::::`| `:::::::::` |
+ |<img src="./img/compare-prompt-diff-x4_00144_.png">|<img src="./img/compare-prompt-diff-x4_00145_.png">|<img src="./img/compare-prompt-diff-x4_00146_.png">|<img src="./img/compare-prompt-diff-x4_00147_.png">|
  |`                           `|`                            `|`                            `|`                           `|
 
 
