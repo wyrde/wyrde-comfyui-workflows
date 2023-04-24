@@ -27,9 +27,9 @@ This workflow
 ## Experimentation
 
 * set the seed for the latent to random for new latents on each run
-* chagne latent size
-* chagne mask size
-* try out different models and vae
+* change latent size
+* change mask size
+* different models and vae
 * add lora and embeds/TIs
 
 <!-- <img src="" width="10%" align="middle"> -->
