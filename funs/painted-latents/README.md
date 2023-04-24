@@ -15,10 +15,14 @@ This workflow
 
 ## Example Results
 
-* <img src="img/wyrde-painted-latent-v12_00004_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00007_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00010_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00014_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00015_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00016_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00017_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00018_.png" width="15%" align="middle">
-* 
-* tjhayasaka <img src="img/tjhayasaka fairy_endlessreality_00033_.png" width="15%" align="middle"><img src="img/tjhayasaka coral-peacock_endlessreality_00001_.png" width="15%" align="middle">
-* M1r077 <img src="img/M1r077 coral-peacock_endlessreality_00046_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00040_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00032_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00084_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00041_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00004_.png" width="15%" align="middle">
+* wyrde  
+<img src="img/wyrde-painted-latent-v12_00004_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00007_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00010_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00014_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00015_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00016_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00017_.png" width="15%" align="middle"><img src="img/wyrde-painted-latent-v12_00018_.png" width="15%" align="middle">
+ 
+* tjhayasaka  
+<img src="img/tjhayasaka fairy_endlessreality_00033_.png" width="15%" align="middle"><img src="img/tjhayasaka coral-peacock_endlessreality_00001_.png" width="15%" align="middle">
+
+* M1r077  
+<img src="img/M1r077 coral-peacock_endlessreality_00046_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00040_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00032_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00084_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00041_.png" width="15%" align="middle"><img src="img/M1r077 coral-peacock_endlessreality_00004_.png" width="15%" align="middle">
 
 ## Experimentation
 
