@@ -35,7 +35,7 @@ This basic workflow generates an image based on the positive and negative prompt
 * <a href="basic-workflow-vae-v03.json">workflow + vae.json file</a>  
 <img src="basic-workflow-vae-v03.png" align="middle">
 
-adding new nodes is done three ways
+There is three primary ways to add nodes
   * noodle dragging
     * left click and drag from a node's output dot. A noodle appears.
 	* Drag the noodle to a nice spot and let go.
@@ -54,7 +54,13 @@ For a VAE Loader
 * Right click. Add node → loaders → Load VAE
 * double left click, type VAEL and select it
 * a noodle can be pulled from the _VAE Decode_ node's input and dropped to show a Vae Loader in the menu, but that'll be messy. Let's save messy workflows for crazy vixens like comfy and mike.
+* Go ahead and place a vae
 
+Download a VAE from [stabilityai](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main) and drop it in `ComfyUI\models\vae`. Get the pruned.safetensors file.
+  * Don't click the filename (it results in a page that is confusing until eyes finally spot the "download" link), click to the right. <img src="downloadvae.png" width="20%" align="middle">.
+  * Drop the file in `ComfyUI\models\vae\`
+  * Once it is downloaded, hit F5 and refresh the window so Comfy knows the file is there.
+  * With one vae, it is easy to pick in the VAE Loader by clicking on arrows or the list.
 
 
 ## Adding a Lora
