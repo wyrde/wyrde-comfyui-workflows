@@ -5,7 +5,7 @@ A series of workflows to teach some of ComfyUI's basics.
 ## The Beginning
 
 * <a href="basic-workflow-v03.json">basic-workflow .json file</a>  
-<img src="basic-workflow-v03.png" align="middle">
+<img src="./pix/basic-workflow-v03.png" align="middle">
 
 Once ComfyUI is installed and running, adding workflows is as easy as dragging and dropping images or workflows created by ComfyUI into the empty area of the browser window. 
 
@@ -33,11 +33,11 @@ This basic workflow generates an image based on the positive and negative prompt
 
 Before an image can be generated, a model is needed. Go ahead and select `v1-5-pruned-emaonly.safetensors`
 * What, don't have it? Well, [get it from here](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main).
-* Don't click the file name, it leads to a web page. Click on the right to download the file. <img src="dlv15.png" width="80%" align="middle">
+* Don't click the file name, it leads to a web page. Click on the right to download the file. <img src="./pix/./pix/dlv15.png" width="80%" align="middle">
 * Place the file in `ComfyUI\models\checkpoints\`
 
 Click "Queue Prompt" in the box on the side of the window to generate an image. If the same settings are used from the workflow above, it'll look remarkably like  
-<img src="ComfyUI_00335_.png" width="20%" aligh="middle">
+<img src="./pix/ComfyUI_00335_.png" width="20%" aligh="middle">
 * if it doesn't then, umm, oops?
 * if there are errors on the screen, then the model is likely not selected
   * or a noodle is disconnected
@@ -47,7 +47,7 @@ Click "Queue Prompt" in the box on the side of the window to generate an image. 
 ## Adding a Vae Loader
 
 * <a href="basic-workflow-vae-v03.json">workflow + vae.json file</a>  
-<img src="basic-workflow-vae-v03.png" align="middle">
+<img src="./pix/basic-workflow-vae-v03.png" align="middle">
 
 There are three primary ways to add nodes
   * noodle dragging
@@ -71,7 +71,7 @@ For a VAE Loader
 * Go ahead and place a vae
 
 Download a VAE from [stabilityai](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main) and drop it in `ComfyUI\models\vae`. Get the pruned.safetensors file.
-  * Don't click the filename (it results in a page that is confusing until eyes finally spot the "download" link), click to the right. <img src="downloadvae.png" width="75%" align="middle">.
+  * Don't click the filename (it results in a page that is confusing until eyes finally spot the "download" link), click to the right. <img src="./pix/downloadvae.png" width="75%" align="middle">.
   * Drop the file in `ComfyUI\models\vae\`
   * Once it is downloaded, hit F5 and refresh the window so Comfy knows the file is there.
   * With one vae, it is easy to pick in the VAE Loader by clicking on arrows or the list.
@@ -86,7 +86,7 @@ Note
 
 
 * <a href="basic-workflow-vae-lora.json">workflow + vae + lora.json file</a>  
-<img src="basic-workflow-vae-lora.png" align="middle">
+<img src="./pix/basic-workflow-vae-lora.png" align="middle">
 
 Lora (and the varients) are cool mini-models that are used to alter a bigger model. Think of them like the trojan horse, but everyone is happy with the result. Usually.
 
@@ -114,7 +114,7 @@ Now drop a _Lora Loader_ in the empty spot.
 * change strength_model and strength_clip to 0.8
 
 When Queue Prompt is clicked, the image should now be a pixel-art bottle.  
-<img src="ComfyUI_00344_.png" width="20%" align="middle">
+<img src="./pix/ComfyUI_00344_.png" width="20%" align="middle">
 
 ## HiRez Fixing
 (Still writing this)
@@ -123,7 +123,7 @@ So, an important thing about stable diffusion is the models are trained on small
 
 But what does that mean for regular users? Most people want a much larger image (1920x1080 for example). The thing is, just changing the Latent Image size to 1920x1080 tends to go horribly, horribly wrong. That's because stable diffusion doesn't really understand "size" or "composition". When it sees a huge canvase size, it tries to fill _every part_ of it with the prompt.
 * the previous prompt and configuration with a 1920x1080 size latent:  
-<img src="ComfyUI_00351_.png" width="10%" align="middle">
+<img src="./pix/ComfyUI_00351_.png" width="10%" align="middle">
 
 But fear not, there are a few techniques to increase image size from 512px to something more grandiose.
 * Latent Upscale: this takes a latent image and makes it bigger. The result is okay, but the larger image is missing much of the detail that is possible.
@@ -161,56 +161,56 @@ See the model rerout hanging out at the corner of the positive prompt?
 * lect click to activate it.
 * Ctrl-C to clone it.
 * move mouse a little to the right (above the older ksmampler is fine)  
-<img src="cloning reroutes 1.png" align=middle>
+<img src="./pix/cloning reroutes 1.png" align=middle>
 
 * ctrl-V to paste the cloned reroute  
-<img src="cloning reroutes 2.png" align=middle>
+<img src="./pix/cloning reroutes 2.png" align=middle>
 
 * now connect them
-<img src="cloning reroutes 3.png" align=middle>
+<img src="./pix/cloning reroutes 3.png" align=middle>
 
 * then drag it right so it is close to the new KSampler  
-<img src="cloning reroutes 4.png" align=middle>
+<img src="./pix/cloning reroutes 4.png" align=middle>
 
 * and connect it to the model input on the new KSampler
-<img src="cloning reroutes 5.png" align=middle>
+<img src="./pix/cloning reroutes 5.png" align=middle>
 
 * The reroute is still in the clipboard, so do another ctrl-v below that initial mode reroute.  
-<img src="cloning reroutes 6.png" align=middle>
+<img src="./pix/cloning reroutes 6.png" align=middle>
 
 * This time, connect the CONDITIONING output from the Positive prompt to the new reroute. The name will change, but not the color.  
-<img src="cloning reroutes 7.png" align=middle>
+<img src="./pix/cloning reroutes 7.png" align=middle>
 
 * Right Click on the reroute node, left click on Colors, then select Yellow
-<img src="cloning reroutes 8.png" align=middle>
+<img src="./pix/cloning reroutes 8.png" align=middle>
 
 * repeat the last few steps to make a second reroute for the negative node and change color to black.
-<img src="cloning reroutes 9.png" align=middle>
+<img src="./pix/cloning reroutes 9.png" align=middle>
 
 * now tidy them up a bit.
 * hint: shift-lelft mouse when dragging "snaps" the node to the grid. Makes them easier to place evenly.  
-<img src="cloning reroutes 10.png" align=middle>
+<img src="./pix/cloning reroutes 10.png" align=middle>
 
 * Shift-Left Click on both the new conditioning nodes to select both of them.  
-<img src="cloning reroutes 11.png" align=middle>  
+<img src="./pix/cloning reroutes 11.png" align=middle>  
 
 * Contrl-C to clone them to clip board
 * Ctrl V a little to the right to paste them on the workflow.  
-<img src="cloning reroutes 12.png" align=middle>
+<img src="./pix/cloning reroutes 12.png" align=middle>
 
 * Run noodles from the previous conditioning nodes to the new ones.  
-<img src="cloning reroutes 13.png" align=middle>
+<img src="./pix/cloning reroutes 13.png" align=middle>
 
 * and drag them to the right. They should still be selected, so shift+left mouse will move both of them.  
-<img src="cloning reroutes 14.png" align=middle>
+<img src="./pix/cloning reroutes 14.png" align=middle>
 
 * then connect them to the inputs for positive and negative.  
-<img src="cloning reroutes 15.png" align=middle>  
+<img src="./pix/cloning reroutes 15.png" align=middle>  
 
 * The upscale and ksampler should be ready. If you changed the _Empty Latent Image_ node to test out larger sizes, change it back to 512px.
 * Click on Queue Prmpt
 * Marvel at the slightly larger and more detailed pixel bottle!  
-<img src="ComfyUI_00354_.png" width="20%" align=middle>  
+<img src="./pix/ComfyUI_00354_.png" width="20%" align=middle>  
 
 But wait! Isn't this bottle somewhat different from before? It sure is! And here is why:
 * On the new KSampler, denoise is set to 1.000
@@ -219,7 +219,7 @@ But wait! Isn't this bottle somewhat different from before? It sure is! And here
 * 0.500 is _generally_ a good number for the first "HR Fix"
 * click Queue Prompt again.
 * Instead of running the whole workflow, comfyui should start at the second KSampler. This is because the there were no changes earlier in the workflow.  
-<img src="ComfyUI_00355_.png" width="20%" align=middle>
+<img src="./pix/ComfyUI_00355_.png" width="20%" align=middle>
 
 * if the first ksamnpler runs again, this means
   * the seed changed
@@ -249,7 +249,7 @@ Why do all the reroutes and color coding? Can't we connect directly from the mod
 (Still writing this too also and too)
 
 
-<!-- <img src="" width="10%" align="middle"> -->
+<!-- <img src="./pix/" width="10%" align="middle"> -->
 
 ## resources
 
