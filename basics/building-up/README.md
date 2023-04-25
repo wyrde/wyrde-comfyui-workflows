@@ -38,7 +38,7 @@ Before an image can be generated, a model is needed. Go ahead and select `v1-5-p
 
 Click "Queue Prompt" in the box on the side of the window to generate an image. If the same settings are used from the workflow above, it'll look remarkably like  
 <img src="ComfyUI_00335_.png" width="20%" aligh="middle">
-* if it doesn't then, umm, oopse?
+* if it doesn't then, umm, oops?
 * if there are errors on the screen, then the model is likely not selected
   * or a noodle is disconnected
 * if there are errors in the console window, then other things are wrong.
@@ -113,16 +113,18 @@ Now drop a _Lora Loader_ in the empty spot.
 * Select _mPixel_v10pixelArt.safetensors_ for the lora_name field.
 * change strength_model and strength_clip to 0.8
 
-
-
 ## HiRez Fixing
+(Still writing this)
 
 ## Expanding on Fixing
+(Still writing this too)
 
 ## Upscaling
+(Still writing this too also)
 
+## Embeddings/Textual Inversions
+(Still writing this too also and)
 
-* images
 <!-- <img src="" width="10%" align="middle"> -->
 
 ## resources
@@ -133,9 +135,6 @@ Model
 * https://civitai.com/models/4384/dreamshaper
 
 Lora
-* https://civitai.com/models/8858/maplestory2game-chibi-style-hn
-* https://civitai.com/models/21670/astrobabes
-* https://civitai.com/models/25803/battle-angels
 
 Embeds
 * EasyNegative https://civitai.com/models/7808/easynegative
