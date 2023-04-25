@@ -119,6 +119,20 @@ When Queue Prompt is clicked, the image should now be a pixel-art bottle.
 ## HiRez Fixing
 (Still writing this)
 
+So, an important thing about stable diffusion is the models are trained on small images. 512x512 pixels is the standard size for most SD1.5 based models (768 for a few). SD2.x models can be either 512px or 768px, depending on the one chosen.
+
+But what does that mean for regular users? Most people want a much larger image (1920x1080 for example). The thing is, just changing the Latent Image size to 1920x1080 tends to go horribly, horribly wrong. That's because stable diffusion doesn't really understand "size" or "composition". When it sees a huge canvase size, it tries to fill _every part_ of it with the prompt.
+* the previous prompt and configuration with a 1920x1080 size latent:  
+<img src="ComfyUI_00351_.png" width="10%" align="middle">
+
+But fear not, there are a few techniques to increase image size from 512px to something more grandiose.
+* Latent Upscale: this takes a latent image and makes it bigger. The result is okay, but the larger image is missing much of the detail that is possible.
+* Pixel space upscale: Tends to look beter than latent upscale, but is still missing details.
+* Pixel space upscale with model: There are special models designed for a better upscale result. Some even extrapolate details.
+* High Resolution Fixing: Uusually abbreviated to HR-Fix or even furthetr to HRF, this method is a combination of many of the above. It uses many steps, takes longer, but results in high-detail images. There's the added bonuse that stable diffusion can even "fix" broken parts of the image! Sometimes.
+
+ 
+
 ## Expanding on Fixing
 (Still writing this too)
 
