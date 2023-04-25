@@ -117,7 +117,6 @@ When Queue Prompt is clicked, the image should now be a pixel-art bottle.
 <img src="./pix/ComfyUI_00344_.png" width="20%" align="middle">
 
 ## HiRez Fixing
-(Still writing this)
 
 So, an important thing about stable diffusion is the models are trained on small images. 512x512 pixels is the standard size for most SD1.5 based models (768 for a few). SD2.x models can be either 512px or 768px, depending on the one chosen.
 
@@ -237,7 +236,33 @@ Why do all the reroutes and color coding? Can't we connect directly from the mod
 * besides, using stable diffusion is about making pretty pictures. Let's make pretty workflows, too!
 
 ## Expanding on Fixing
-(Still writing this too)
+
+Adding more nodes and increasing the HR-Fix is easy.
+* Drag the ouput nodes to the right so there's more space.  
+<img src="./pix/expand hrf 1.png" width="50%" align="middle">
+
+* Select the reroute, latent, and ksampler nodes on the end.  
+<img src="./pix/expand hrf 2.png" width="50%" align="middle">
+
+* Ctrl-C to clone  
+* Move the mouse over and ctrl-V to paste
+* a litle shift-drag magic to line things up  
+<img src="./pix/expand hrf 3.png" width="50%" align="middle">
+
+* Drag noodles to link  
+<img src="./pix/expand hrf 4.png" width="50%" align="middle">
+
+* and increment the Upscale Latent width and height values  
+<img src="./pix/expand hrf 5.png" width="50%" align="middle">
+
+* and decrease denoise a little. For this one, .450 is good.
+* each ksampler in a HRF will decrease the noise
+* though for latent space, about .2 is the lowest. Usually.
+
+[here's the current workflow](basic-wf-vae-lora-latemt-upscale-x2.json)
+
+More latent HRFs will gradually increase the output image while adding details. But let's stop here and add some pixel space HRFs. Onewards, noble steed!  
+<img src="./pix/m1B90jt.jpg" width="50%" align="middle">
 
 ## Upscaling
 (Still writing this too also)
