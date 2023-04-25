@@ -343,10 +343,10 @@ Now let's set up the upscale!
 <img src="./pix/ComfyUI_00358_.png" width="25%" align="middle">
 
 ## Embeddings/Textual Inversions
-(Still writing this too also and)
+(Still writing this)
 
 ## Clip Skip
-(Still writing this too also and too)
+(Still writing this too)
 
 
 <!-- <img src="./pix/" width="10%" align="middle"> -->
@@ -356,7 +356,7 @@ Now let's set up the upscale!
 <!-- things people might want to duplicate results -->
 
 Model
-* https://civitai.com/models/4384/dreamshaper
+* https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main
 
 VAE
 * https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main
@@ -368,9 +368,8 @@ Embeds
 * EasyNegative https://civitai.com/models/7808/easynegative
 * bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
 
-Custom Nodes
-* [WAS Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
-
+Upscalers
+* https://github.com/wyrde/wyrde-comfyui-workflows/blob/main/others/upscalemodels/apache2
 
 <!-- will likely forget to doublecheck this -->
 <p align="right"><a href="..">[back]</a><a href="../../../.."> [home]</a></p>
