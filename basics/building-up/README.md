@@ -314,8 +314,8 @@ First, we need to translate from latent space to pixel space.
 
 Improving images with HiRez Fixes is one thing, but what about simply making it bigger? That's where upscaling comes in. As mentioned before, jumping from 512px to 1080p and higher isn't advised due to the lack of detail. Each HR Fix also gives stable diffues the chance to correct mistakes. (It doesn't always, though. Stable Diffusion is a contrary baast.)
 
-Once an image has some detail, one of the best ways to upscale it further is with an _Upscale Model_. There's a whole bunch of them [here](https://upscale.wiki/wiki/Model_Database), but we'll keep it easy with PSNRx2. Follow [this link](https://github.com/wyrde/wyrde-comfyui-workflows/blob/main/others/upscalemodels/apache2/2x-PSNR.pth) and click the Downlaod button.  
-<img src="./pix/dl psnr 1.png" width="80%" align="middle">
+Once an image has some detail, one of the best ways to upscale it further is with an _Upscale Model_. There's a whole bunch of them [here](https://upscale.wiki/wiki/Model_Database), but we'll keep it easy with PSNRx2. Follow [https://huggingface.co/wyrde/upscales/tree/main/apache2](https://huggingface.co/wyrde/upscales/tree/main/apache2) and click the Downlaod button.  
+<img src="./pix/dl psnr 2.png" width="80%" align="middle">
 
 Save the file in `ComfyUI\models\upscale_models\`
 
