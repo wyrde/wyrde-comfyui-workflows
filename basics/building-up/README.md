@@ -131,7 +131,82 @@ But fear not, there are a few techniques to increase image size from 512px to so
 * Pixel space upscale with model: There are special models designed for a better upscale result. Some even extrapolate details.
 * High Resolution Fixing: Uusually abbreviated to HR-Fix or even furthetr to HRF, this method is a combination of many of the above. It uses many steps, takes longer, but results in high-detail images. There's the added bonuse that stable diffusion can even "fix" broken parts of the image! Sometimes.
 
- 
+What is this latent space vs pixel space thing?
+* Latent space is the zone of chaos and randomness stable diffusion works in. These aren't really images like human eyes see, but math-magic representations the computer works with.
+* pixel space is an actual image, rendered in pixels. The things human eyes and graphic arts programs like to work with.
+* VAE Decoding and Encoding is used to translate a latent image to pixel and back.
+* Some proccesses can only be done in latent space (like KSampling) and others only in pixel space (color correction, model upscaling)
+
+There are some caveats to HR-fixing.
+* work in as many small steps as you can stand.
+* stick to multiples of 64px. This can be challenging with images of different aspect ratios. There are some custom nodes that help with this.
+* if the aspect ratio makes multiples of 64px challenging, do the image upscales in pixel space
+  * due to the math involved, even then it is best to do multiples of 8 pixels.
+* it is better (and faster) to go through many low-resolution latent space samples and _then_ do a large pixel upscale. This gives lots of detail for the pixel upscale to work with.
+
+But first, let's make a basic HR-Fix.
+* at the right side of the workflow, move the VAE Decode and Save Image nodes to the right (try and grab the VAE reroute on the bottom too).
+  * about as far as the distance they currently occupy, maybe a touch more.
+* put a _Upscale Latent_ node next to the Ksampler
+* connect the LATENT output on the Ksampler to the Samples input on the _Upscale Latent_ node.
+* put a _KSampler_ node between the Upscale Latent and the VAE Decode.
+* connect he LATENT output from the _Upscale Latent_ node to the latent_image input on the new _KSampler_ node.
+* connect the LATEN output on the ksampler to the samples input on the _VAE Decode_ node.
+  * this will also erase the noodle from the old ksampler to the vae decode
+* On the Upscale Latent node, increase wideth and hight by 64pixels. This is easy by clicking the arrows on the right, next to the numbers.
+
+But wait! We're not done. The new KSampler still has a bunch of inputs that are empty. That's because the sampler needs to know what to do with the latent image.
+
+See the model rerout hanging out at the corner of the positive prompt?
+* lect click to activate it.
+* Ctrl-C to clone it.
+* move mouse a little to the right (above the older ksmampler is fine)  
+<img src="cloning reroutes 1.png" align=middle>
+* ctrl-V to paste the cloned reroute  
+<img src="cloning reroutes 2.png" align=middle>
+* now connect them
+<img src="cloning reroutes 3.png" align=middle>
+* then drag it right so it is close to the new KSampler  
+<img src="cloning reroutes 4.png" align=middle>
+* and connect it to the model input on the new KSampler
+<img src="cloning reroutes 5.png" align=middle>
+* The reroute is still in the clipboard, so do another ctrl-v below that initial mode reroute.  
+<img src="cloning reroutes 6.png" align=middle>
+* This time, connect the CONDITIONING output from the Positive prompt to the new reroute. The name will change, but not the color.  
+<img src="cloning reroutes 7.png" align=middle>
+* Right Click on the reroute node, left click on Colors, then select Yellow
+<img src="cloning reroutes 8.png" align=middle>
+* repeat the last few steps to make a second reroute for the negative node and change color to black.
+<img src="cloning reroutes 9.png" align=middle>
+* now tidy them up a bit.
+  * hint, shift-lelft mouse when dragging "snaps" the node to the grid. Makes them easier to place evenly.  
+<img src="cloning reroutes 10.png" align=middle>
+* Shift-Left Click on both the new conditioning nodes to select both of them.  
+<img src="cloning reroutes 11.png" align=middle>
+* Contrl-C to clone them to clip board
+* Ctrl V a little to the right to paste them on the workflow.  
+<img src="cloning reroutes 12.png" align=middle>
+* Run nuddles from the previous conditioning nodes to the new ones.  
+<img src="cloning reroutes 13.png" align=middle>
+* and drag them to the right. They should still be selected, so shift+left mouse will move both of them.  
+<img src="cloning reroutes 14.png" align=middle>
+* then connect them to the inputs for positive and negative.  
+<img src="cloning reroutes 15.png" align=middle>
+* The upscale and ksampler should be ready. If you changed the _Empty Latent Image_ node to test out larger sizes, change it back to 512px.
+* Click on Queue Prmpt
+* Marvel at the slightly larger and more detailed pixel bottle!  
+<img src="ComfyUI_00354_.png" width="20%" align=middle>
+
+But wait! Isn't this bottle someone different from before?  It sure is! And here is why:
+* On the new KSampler, denoise is set to 1.000
+* This telling the ksampler to treat the laten image input as if it were a new canvas and to extrapolate the result like a new image.
+* adjust the denoise down to more closely match the original latent while still adding detail.
+* 0.500 is _generally_ a good number for the first "HR Fix"
+* click Queue Prompt again.
+* Instead of running the whole workflow, comfyui should start at the second KSampler. This is because the there were no changes earlier in the workflow.  
+<img src="ComfyUI_00355_.png" width="20%" align=middle>
+
+
 
 ## Expanding on Fixing
 (Still writing this too)
