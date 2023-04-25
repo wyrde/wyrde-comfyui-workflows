@@ -119,8 +119,6 @@ When Queue Prompt is clicked, the image should now be a pixel-art bottle.
 ## HiRez Fixing
 (Still writing this)
 
-
-
 ## Expanding on Fixing
 (Still writing this too)
 
@@ -139,7 +137,11 @@ When Queue Prompt is clicked, the image should now be a pixel-art bottle.
 Model
 * https://civitai.com/models/4384/dreamshaper
 
+VAE
+* https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main
+
 Lora
+* https://civitai.com/models/44960?modelVersionId=49584
 
 Embeds
 * EasyNegative https://civitai.com/models/7808/easynegative
