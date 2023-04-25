@@ -29,13 +29,24 @@ This basic workflow generates an image based on the positive and negative prompt
 	* Random: Holdy Changing Numbers, Batman!
   * values are changed by clicking the arrows to scroll through the options or clicking directly on a value to see a list.
 
+Before an image can be generated, a model is needed. Go ahead and select `v1-5-pruned-emaonly.safetensors`
+* What, don't have it? Well, [get it from here](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main).
+* Don't click the file name, it leads to a web page. Click on the right to download the file. <img src="dlv15.png" width="80%" align="middle">
+* Place the file in `ComfyUI\models\checkpoints\`
+
+Click "Queue Prompt" in the box on the side of the window to generate an image. If the same settings are used from the workflow above, it'll look remarkably like <img src="ComfyUI_00335_.png" width="505" aligh="middle">
+* if it doesn't then, umm, oopse?
+* if there are errors on the screen, then the model is likely not selected
+  * or a noodle is disconnected
+* if there are errors in the console window, then other things are wrong.
+
 	
 ## Adding a Vae Loader
 
 * <a href="basic-workflow-vae-v03.json">workflow + vae.json file</a>  
 <img src="basic-workflow-vae-v03.png" align="middle">
 
-There is three primary ways to add nodes
+There are three primary ways to add nodes
   * noodle dragging
     * left click and drag from a node's output dot. A noodle appears.
 	* Drag the noodle to a nice spot and let go.
