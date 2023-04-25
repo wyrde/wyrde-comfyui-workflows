@@ -237,6 +237,8 @@ Why do all the reroutes and color coding? Can't we connect directly from the mod
 
 ## Expanding on Fixing
 
+### More Latent Fixing
+
 Adding more nodes and increasing the HR-Fix is easy.
 * Drag the ouput nodes to the right so there's more space.  
 <img src="./pix/expand hrf 1.png" width="80%" align="middle">
@@ -263,6 +265,44 @@ Adding more nodes and increasing the HR-Fix is easy.
 
 More latent HRFs will gradually increase the output image while adding details. But let's stop here and add some pixel space HRFs. Onewards, noble steed!  
 <img src="./pix/m1B90jt.jpg" width="20%" align="middle">
+
+### Pixel Space HR Fixing
+
+First, we need to translate from latent space to pixel space.
+
+* Select the VAE Decode and its VAE reroute below and clone them over by the last ksampler.  
+<img src="./pix/pixel space hrf 1.png" width="80%" align="middle">
+
+* drag the output nodes to the right again  
+<img src="./pix/pixel space hrf 2.png" width="80%" align="middle">
+
+* Now add a _Upscale Image_ node  
+<img src="./pix/pixel space hrf 3.png" width="80%" align="middle">  
+<img src="./pix/pixel space hrf 4.png" width="80%" align="middle">  
+<img src="./pix/pixel space hrf 5.png" width="80%" align="middle">
+
+* After the upscale node, we need a _VAE Encode_ node.  
+<img src="./pix/pixel space hrf 8.png" width="80%" align="middle">  
+<img src="./pix/pixel space hrf 9.png" width="80%" align="middle">
+
+* Select the reroute nodes and ksampler and clone them into the space after the new encode node  
+<img src="./pix/pixel space hrf 10.png" width="80%" align="middle">
+
+* Connect all the noodles  
+<img src="./pix/pixel space hrf 11.png" width="80%" align="middle">  
+<img src="./pix/pixel space hrf 12.png" width="80%" align="middle">  
+<img src="./pix/pixel space hrf 13.png" width="80%" align="middle">
+
+* During this process, the connection to the first VAE reroute all the way on the left will likely be lost. Don't worry! Pan over to the left by holding down space while moving the mouse.
+  * space + mouse = pan.
+  * release space to move mouse back
+  * space + mouse to pan again
+* start dragging the noodle from the leftmost vae reroute
+  * space and mouse to keep going
+* and attach it to the newer VAE reroute.
+* the workflow should now look something like this:  
+<img src="./pix/pixel space hrf 14.png" width="80%" align="middle">
+
 
 ## Upscaling
 (Still writing this too also)
