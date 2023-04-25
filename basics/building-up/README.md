@@ -303,6 +303,10 @@ First, we need to translate from latent space to pixel space.
 * the workflow should now look something like this:  
 <img src="./pix/pixel space hrf 15.png" width="80%" align="middle">
 
+* adjust the Upscale Image height and width to 704
+* output:  
+<img src="./pix/ComfyUI_00357_.png" width="25%" align="middle">
+
 
 ## Upscaling
 (Still writing this too also)
