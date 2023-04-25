@@ -212,16 +212,29 @@ See the model rerout hanging out at the corner of the positive prompt?
 * Marvel at the slightly larger and more detailed pixel bottle!  
 <img src="ComfyUI_00354_.png" width="20%" align=middle>  
 
-But wait! Isn't this bottle someone different from before?  It sure is! And here is why:
+But wait! Isn't this bottle somewhat different from before? It sure is! And here is why:
 * On the new KSampler, denoise is set to 1.000
-* This telling the ksampler to treat the laten image input as if it were a new canvas and to extrapolate the result like a new image.
+* This tells the ksampler to treat the latent image input as if it were a new canvas and to extrapolate the result like a new image.
 * adjust the denoise down to more closely match the original latent while still adding detail.
 * 0.500 is _generally_ a good number for the first "HR Fix"
 * click Queue Prompt again.
 * Instead of running the whole workflow, comfyui should start at the second KSampler. This is because the there were no changes earlier in the workflow.  
 <img src="ComfyUI_00355_.png" width="20%" align=middle>
 
+* if the first ksamnpler runs again, this means
+  * the seed changed
+  * comfy has been restarted since the last time
+  * I don't know what I'm talking about.
 
+So, umm. err...
+
+Why do all the reroutes and color coding? Can't we connect directly from the model and conditioning outputs to the new ksampler?
+* Sure can! And while it is easy to tell what's going on now...
+* imagine a workflow with a hundred nodes
+* now imagine coming back to the workflow a month later or...
+* looking at another person's workflow.
+* running reroutes, color coding, and keeping things tidy helps considerably!
+* besides, using stable diffusion is about making pretty pictures. I like to make pretty workflows, too!
 
 ## Expanding on Fixing
 (Still writing this too)
