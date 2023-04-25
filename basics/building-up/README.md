@@ -113,8 +113,13 @@ Now drop a _Lora Loader_ in the empty spot.
 * Select _mPixel_v10pixelArt.safetensors_ for the lora_name field.
 * change strength_model and strength_clip to 0.8
 
+When Queue Prompt is clicked, the image should now be a pixel-art bottle.  
+<img src="ComfyUI_00344_.png" width="20%" align="middle">
+
 ## HiRez Fixing
 (Still writing this)
+
+
 
 ## Expanding on Fixing
 (Still writing this too)
