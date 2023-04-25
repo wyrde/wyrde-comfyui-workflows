@@ -234,7 +234,7 @@ Why do all the reroutes and color coding? Can't we connect directly from the mod
 * now imagine coming back to the workflow a month later or...
 * looking at another person's workflow.
 * running reroutes, color coding, and keeping things tidy helps considerably!
-* besides, using stable diffusion is about making pretty pictures. I like to make pretty workflows, too!
+* besides, using stable diffusion is about making pretty pictures. Let's make pretty workflows, too!
 
 ## Expanding on Fixing
 (Still writing this too)
@@ -244,6 +244,10 @@ Why do all the reroutes and color coding? Can't we connect directly from the mod
 
 ## Embeddings/Textual Inversions
 (Still writing this too also and)
+
+## Clip Skip
+(Still writing this too also and too)
+
 
 <!-- <img src="" width="10%" align="middle"> -->
 
