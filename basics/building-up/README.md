@@ -34,7 +34,8 @@ Before an image can be generated, a model is needed. Go ahead and select `v1-5-p
 * Don't click the file name, it leads to a web page. Click on the right to download the file. <img src="dlv15.png" width="80%" align="middle">
 * Place the file in `ComfyUI\models\checkpoints\`
 
-Click "Queue Prompt" in the box on the side of the window to generate an image. If the same settings are used from the workflow above, it'll look remarkably like <img src="ComfyUI_00335_.png" width="50%" aligh="middle">
+Click "Queue Prompt" in the box on the side of the window to generate an image. If the same settings are used from the workflow above, it'll look remarkably like  
+<img src="ComfyUI_00335_.png" width="20%" aligh="middle">
 * if it doesn't then, umm, oopse?
 * if there are errors on the screen, then the model is likely not selected
   * or a noodle is disconnected
