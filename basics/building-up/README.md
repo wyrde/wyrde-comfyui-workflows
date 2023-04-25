@@ -304,12 +304,43 @@ First, we need to translate from latent space to pixel space.
 <img src="./pix/pixel space hrf 15.png" width="80%" align="middle">
 
 * adjust the Upscale Image height and width to 704
+* unlike latent space HR Fixes, after a pixel upscale the denoise doesn't need decreased _as much_. In this case, leaving it at .5 is okay.
+  * generally speaking, sampling after pixel space upscales doesn't need decreased below 0.400. Generally. There's always exceptions. That's the norm with Stable Diffusion.
 * output:  
 <img src="./pix/ComfyUI_00357_.png" width="25%" align="middle">
 
 
 ## Upscaling
-(Still writing this too also)
+
+Improving images with HiRez Fixes is one thing, but what about simply making it bigger? That's where upscaling comes in. As mentioned before, jumping from 512px to 1080p and higher isn't advised due to the lack of detail. Each HR Fix also gives stable diffues the chance to correct mistakes. (It doesn't always, though. Stable Diffusion is a contrary baast.)
+
+Once an image has some detail, one of the best ways to upscale it further is with an _Upscale Model_. There's a whole bunch of them [here](https://upscale.wiki/wiki/Model_Database), but we'll keep it easy with PSNRx2. Follow [this link](https://github.com/wyrde/wyrde-comfyui-workflows/blob/main/others/upscalemodels/apache2/2x-PSNR.pth) and click the Downlaod button.  
+<img src="./pix/dl psnr 1.png" width="80%" align="middle">
+
+Save the file in `ComfyUI\models\upscale_models\`
+
+Now let's set up the upscale!
+* As usual, make some room with a little dragging.
+* the _VAE Decode_ can be left alone since we're going to use it. Only the _Save Image_ node needs moved this time.  
+<img src="./pix/upscale with model 1.png" width="80%" align="middle">
+
+* Now add the _Load Upscale Model_ and _Upscale Image (Using Model)_ nodes.  
+<img src="./pix/upscale with model 2.png" width="80%" align="middle">  
+<img src="./pix/upscale with model 3.png" width="80%" align="middle">
+
+* Connect the inputs and outputs  
+<img src="./pix/upscale with model 4.png" width="80%" align="middle">  
+<img src="./pix/upscale with model 5.png" width="80%" align="middle">  
+<img src="./pix/upscale with model 6.png" width="80%" align="middle">
+
+* Right now, this will result in a 1408x1408 image. But what if that's too big?
+* Add an image scale node, but set it's size lower. 1024x1024 is good for today.  
+<img src="./pix/upscale with model 7.png" width="80%" align="middle">  
+<img src="./pix/upscale with model 8.png" width="80%" align="middle">
+
+* hit queue prompt
+* since the previous parts of the workflow didn't change, it runs the cached image through the scalers.
+<img src="./pix/ComfyUI_00358_.png" width="25%" align="middle">
 
 ## Embeddings/Textual Inversions
 (Still writing this too also and)
