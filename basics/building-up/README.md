@@ -33,7 +33,7 @@ This basic workflow generates an image based on the positive and negative prompt
 
 Before an image can be generated, a model is needed. Go ahead and select `v1-5-pruned-emaonly.safetensors`
 * What, don't have it? Well, [get it from here](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main).
-* Don't click the file name, it leads to a web page. Click on the right to download the file. <img src="./pix/./pix/dlv15.png" width="80%" align="middle">
+* Don't click the file name, it leads to a web page. Click on the right to download the file. <img src="./pix/dlv15.png" width="80%" align="middle">
 * Place the file in `ComfyUI\models\checkpoints\`
 
 Click "Queue Prompt" in the box on the side of the window to generate an image. If the same settings are used from the workflow above, it'll look remarkably like  
