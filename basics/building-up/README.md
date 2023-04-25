@@ -57,13 +57,49 @@ For a VAE Loader
 * Go ahead and place a vae
 
 Download a VAE from [stabilityai](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main) and drop it in `ComfyUI\models\vae`. Get the pruned.safetensors file.
-  * Don't click the filename (it results in a page that is confusing until eyes finally spot the "download" link), click to the right. <img src="downloadvae.png" width="20%" align="middle">.
+  * Don't click the filename (it results in a page that is confusing until eyes finally spot the "download" link), click to the right. <img src="downloadvae.png" width="75%" align="middle">.
   * Drop the file in `ComfyUI\models\vae\`
   * Once it is downloaded, hit F5 and refresh the window so Comfy knows the file is there.
   * With one vae, it is easy to pick in the VAE Loader by clicking on arrows or the list.
 
+In this particular case, there isn't a huge difference in making a new version with the vae linked. For an idea of what differences vae make, check out [this comparison](https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/compare/model-vae). The ones with bad vae are faded and washed out. Good vae are vibrant.
+
+Note
+* Automatic1111's method of matching vae file names to models and placing them in the model folder doesn't matter to ComfyUI. Either the VAE is loaded directly or the one built into the model is used.
+* [Here's some good info on VAE](https://rentry.org/sdvae)
 
 ## Adding a Lora
+
+
+* <a href="basic-workflow-vae-lora.json">workflow + vae + lora.json file</a>  
+<img src="basic-workflow-vae-lora..png" align="middle">
+
+Lora (and the varients) are cool mini-models that are used to alter a bigger model. Think of them like the trojan horse, but everyone is happy with the result. Usually.
+
+[here's a lora](https://civitai.com/models/44960?modelVersionId=49584) to test with. Drop it in the `ComfyUI\models\lora\` folder.
+* as with other files, hit F5 to refresh the file lists
+* ignore the text in the lora page for now, what is first seen is for version 3.0 and version 1 is what we're using.
+
+Adding a lora is a bit more tricky than a vae loader, because they go between the model and the Ksampler.
+* Unlike automatic1111, the lora aren't put in the prompt.
+
+Make a little room for the _lora Loader_ node.
+* Between the _CLIP Text_ nods and _Load Checkpoint_ hold down the control key and drag with the left mouse button. It will draw a box. When Left Mouse is released, everything inside the box is selected.
+* Now hold down shift and Left Click one of the selected nodes. All the nodes will be dragged as a group when the mouse is dragged.
+* It is better to make room by dragging nodes right than left
+* Refreshing (F5) the window zooms to the barely visiable blue box where the beginning nodes are.
+* it gets annoying to pan left all the time
+
+Now drop a _Lora Loader_ in the empty spot.
+* Connect the _Load Checkpoint_ model and clip outputs to the Load Lora.
+  * The _Load LoRA_'s model output goes to the model reroute (to the KSampler model input)
+    * this will autmatically detach it from the Load Checkpoint.
+  * The _Load LoRA_'s CLIP output is noodled to both the CLIP nodes' inputs.
+    * this will autmatically detach them from the Load Checkpoint.
+* Select _mPixel_v10pixelArt.safetensors_ for the lora_name field.
+* change strength_model and strength_clip to 0.8
+
+
 
 ## HiRez Fixing
 
