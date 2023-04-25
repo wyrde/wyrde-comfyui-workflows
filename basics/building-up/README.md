@@ -72,7 +72,7 @@ Note
 
 
 * <a href="basic-workflow-vae-lora.json">workflow + vae + lora.json file</a>  
-<img src="basic-workflow-vae-lora..png" align="middle">
+<img src="basic-workflow-vae-lora.png" align="middle">
 
 Lora (and the varients) are cool mini-models that are used to alter a bigger model. Think of them like the trojan horse, but everyone is happy with the result. Usually.
 
