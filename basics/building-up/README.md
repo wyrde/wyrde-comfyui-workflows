@@ -9,6 +9,8 @@ A series of workflows to teach some of ComfyUI's basics.
 
 Once ComfyUI is installed and running, adding workflows is as easy as dragging and dropping images or workflows created by ComfyUI into the empty area of the browser window. 
 
+To follow along with this tutorial, download [the workflow](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/basics/building-up/basic-workflow-v03.json) and save it. Then use the `[  Load  ]` button in ComfyUI to load it.
+
 This basic workflow generates an image based on the positive and negative prompts.
 * processing starts with the "checkpoint", which is loaded by the Load Checkpoint node on the left.
 * Information from the chekcpoint is sent to the two clip boxes, along the node path, and along the model path.
