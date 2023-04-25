@@ -301,7 +301,7 @@ First, we need to translate from latent space to pixel space.
   * space and mouse to keep going
 * and attach it to the newer VAE reroute.
 * the workflow should now look something like this:  
-<img src="./pix/pixel space hrf 14.png" width="80%" align="middle">
+<img src="./pix/pixel space hrf 15.png" width="80%" align="middle">
 
 
 ## Upscaling
