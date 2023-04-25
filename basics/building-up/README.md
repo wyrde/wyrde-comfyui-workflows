@@ -162,35 +162,51 @@ See the model rerout hanging out at the corner of the positive prompt?
 * Ctrl-C to clone it.
 * move mouse a little to the right (above the older ksmampler is fine)  
 <img src="cloning reroutes 1.png" align=middle>
+
 * ctrl-V to paste the cloned reroute  
 <img src="cloning reroutes 2.png" align=middle>
+
 * now connect them
 <img src="cloning reroutes 3.png" align=middle>
+
 * then drag it right so it is close to the new KSampler  
 <img src="cloning reroutes 4.png" align=middle>
+
 * and connect it to the model input on the new KSampler
 <img src="cloning reroutes 5.png" align=middle>
+
 * The reroute is still in the clipboard, so do another ctrl-v below that initial mode reroute.  
 <img src="cloning reroutes 6.png" align=middle>
+
 * This time, connect the CONDITIONING output from the Positive prompt to the new reroute. The name will change, but not the color.  
 <img src="cloning reroutes 7.png" align=middle>
+
 * Right Click on the reroute node, left click on Colors, then select Yellow
 <img src="cloning reroutes 8.png" align=middle>
+
 * repeat the last few steps to make a second reroute for the negative node and change color to black.
 <img src="cloning reroutes 9.png" align=middle>
-* now tidy them up a bit. (hint: shift-lelft mouse when dragging "snaps" the node to the grid. Makes them easier to place evenly.)  
+
+* now tidy them up a bit.
+* hint: shift-lelft mouse when dragging "snaps" the node to the grid. Makes them easier to place evenly.  
 <img src="cloning reroutes 10.png" align=middle>
+
 * Shift-Left Click on both the new conditioning nodes to select both of them.  
 <img src="cloning reroutes 11.png" align=middle>  
+
 * Contrl-C to clone them to clip board
 * Ctrl V a little to the right to paste them on the workflow.  
 <img src="cloning reroutes 12.png" align=middle>
+
 * Run noodles from the previous conditioning nodes to the new ones.  
 <img src="cloning reroutes 13.png" align=middle>
+
 * and drag them to the right. They should still be selected, so shift+left mouse will move both of them.  
 <img src="cloning reroutes 14.png" align=middle>
+
 * then connect them to the inputs for positive and negative.  
 <img src="cloning reroutes 15.png" align=middle>  
+
 * The upscale and ksampler should be ready. If you changed the _Empty Latent Image_ node to test out larger sizes, change it back to 512px.
 * Click on Queue Prmpt
 * Marvel at the slightly larger and more detailed pixel bottle!  
