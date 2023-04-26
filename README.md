@@ -54,7 +54,7 @@ Some places for ComfyUI stuff much cooler than mine:
   * lollypop x4 is my favorite for illustration style images.
 * [A handy chart of aspect ratios](https://user-images.githubusercontent.com/9657443/231819299-77de2080-7b04-4512-9922-56faec2596b8.png) from a [reddit post](https://www.reddit.com/r/StableDiffusion/comments/10wqv7r/when_it_comes_to_printing_converting_resolutions/)
 * [MisterRuffian's Latent Artist & Modifier Encyclopedia](https://docs.google.com/spreadsheets/d/1_jgQ9SyvUaBNP1mHHEzZ6HhL_Es1KwBKQtnpnmWW82I/edit#gid=1807667703)
-
+* Pickel Scanner: https://github.com/mmaitre314/picklescan
 
 ## inject SD into the brain
 * https://www.youtube.com/@OlivioSarikas
