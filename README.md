@@ -16,6 +16,8 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 The custom nodes and extensions I know about.
 
 ### List
+* https://github.com/ltdrdata/ComfyUI-Manager
+  * custom node manager -- under development
 * [WAS node suite](https://github.com/WASasquatch/was-node-suite-comfyui)
   * development is ended, but nodes are still useful
 * https://github.com/lilly1987/ComfyUI_node_Lilly
