@@ -365,6 +365,9 @@ Embeddings can be placed in positive or negative prompts, as desired. Much like 
 ## Weighting Prompts
 (Still writing this too)
 
+## Options and Considerations
+(still writing this too also)
+
 
 <!-- <img src="./pix/" width="10%" align="middle"> -->
 
@@ -386,7 +389,7 @@ Embeds
 * bad-hands-5 https://huggingface.co/yesyeahvh/bad-hands-5/tree/main
 
 Upscalers
-* https://github.com/wyrde/wyrde-comfyui-workflows/blob/main/others/upscalemodels/apache2
+* 2x PSNR at https://huggingface.co/wyrde/upscales/tree/main/apache2
 
 <!-- will likely forget to doublecheck this -->
 <p align="right"><a href="..">[back]</a><a href="../../../.."> [home]</a></p>
