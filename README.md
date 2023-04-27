@@ -12,7 +12,10 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 * [templates](./templates) some handy templates for comfyui
 
 ## Custom Nodes and Extensions
-Some places for ComfyUI stuff much cooler than mine:
+
+The custom nodes and extensions I know about.
+
+### List
 * [WAS node suite](https://github.com/WASasquatch/was-node-suite-comfyui)
   * development is ended, but nodes are still useful
 * https://github.com/lilly1987/ComfyUI_node_Lilly
@@ -42,9 +45,23 @@ Some places for ComfyUI stuff much cooler than mine:
   * image box/lightbox for previews of generated images
 * https://github.com/BadCafeCode/masquerade-nodes-comfyui
   * Masquerade Nodes (experimental)
-* Many custom nodes are provided as packages on [civitai](https://civitai.com/). Use the "other" type in filters or search with the [comfyui](https://civitai.com/?query=comfyui) tag. <img src="https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png" width="20%" align="middle">
-* An occasionally updated [backup list of the comfy nodes](https://github.com/wyrde/ComfyResources) for those times civit falls down a well.
+* https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+  * Blender integration for comfyui
+
+### CivitAI
+
+* Many custom nodes are provided as packages on [civitai](https://civitai.com/).
+* Use the "other" type in filters or search with the [comfyui](https://civitai.com/?query=comfyui) tag.  
+<img src="https://user-images.githubusercontent.com/9657443/232229734-e1e662f5-d534-413d-9a05-24a09abfef20.png" width="20%" align="middle">
+
+### ComfyResources Project
+* Many custom projects are listed at [ComfyResources](https://github.com/wyrde/ComfyResources)
+* Developers with githtub accounts can easily add to the list
+
+### Installing Custom Nodes and Extensions
+
 * Some more information on installing custom nodes and extensions in [basics](./basics)
+* Most have instructions in their repositories or on civit.
 * If you install custom nodes, keep an eye on comfyui PRs. Many end up in the UI.
 
 ## Useful things
