@@ -12,16 +12,16 @@ Once ComfyUI is installed and running, adding workflows is as easy as dragging a
 To follow along with this tutorial, download [the workflow](https://raw.githubusercontent.com/wyrde/wyrde-comfyui-workflows/main/basics/building-up/basic-workflow-v03.json) and save it. Then use the `[  Load  ]` button in ComfyUI to load it.
 
 This basic workflow generates an image based on the positive and negative prompts.
-* processing starts with the "checkpoint", which is loaded by the Load Checkpoint node on the left.
+* processing starts with the "checkpoint", which is loaded by the **Load Checkpoint** node on the left.
 * Information from the chekcpoint is sent to the two clip boxes, along the node path, and along the model path.
-* The clip text encode node attached to the KSampler's _positive_ input in the _Positive Prompt_.
-* The clip text encode node attached to the KSampler's _negative_ input in the _Negative Prompt_.
-* The Empty Latent Image is the "starting image", is a blank bit of noise. Rather like a painter's canvas.
-* The _Model_ is all the raw information _Stable Diffusion_ uses through the Sampler to resolve noise into images.
-* I don't know what the fuck VAEs are, but they're important.
+* The clip text encode node attached to the **KSampler**'s _positive_ input in the _Positive Prompt_.
+* The clip text encode node attached to the **KSampler**'s _negative_ input in the _Negative Prompt_.
+* The **Empty Latent Image** is the "starting image", and is a blank bit of noise. Rather like a painter's canvas.
+* The _Model_ is all the raw information _Stable Diffusion_ uses through the **KSampler** to resolve noise into images.
+* I don't know what **VAEs** are, but they're important.
   * all models contain a VAE, but not all models have a good VAE.
-  * an external VAE can be added to the workflow through a VAE laoder, see below.
-* The _KSampler_ node has a number of options. I won't go over all of them here, but for right now the most important are:
+  * an external VAE can be added to the workflow through a VAE laoder (see below).
+* The **KSampler** node has a number of options. I won't go over all of them here, but for right now the most important are:
   * The _Seed_ is a number used for randomness. All things being equal, a workflow with the same seed will spit out the same image.
   * If the seed doesn't change and nothing else changes, ComfyUI won't even process the workflow. The result is the same as last time. If nothing else changes and the seed does, then new images will be generated. They can vary wildly from one to the next.
   * This makes it easy to tell if nothing has changed.
@@ -314,7 +314,7 @@ First, we need to translate from latent space to pixel space.
 
 Improving images with HiRez Fixes is one thing, but what about simply making it bigger? That's where upscaling comes in. As mentioned before, jumping from 512px to 1080p and higher isn't advised due to the lack of detail. Each HR Fix also gives stable diffues the chance to correct mistakes. (It doesn't always, though. Stable Diffusion is a contrary baast.)
 
-Once an image has some detail, one of the best ways to upscale it further is with an _Upscale Model_. There's a whole bunch of them [here](https://upscale.wiki/wiki/Model_Database), but we'll keep it easy with PSNRx2. Follow [https://huggingface.co/wyrde/upscales/tree/main/apache2](https://huggingface.co/wyrde/upscales/tree/main/apache2) and click the Downlaod button.  
+Once an image has some detail, one of the best ways to upscale it further is with an _Upscale Model_. There's a whole bunch of them [here](https://upscale.wiki/wiki/Model_Database), but we'll keep it easy with PSNRx2. Follow [https://huggingface.co/wyrde/upscales/tree/main/apache2](https://huggingface.co/wyrde/upscales/tree/main/apache2) and click the LFS button to download.  
 <img src="./pix/dl psnr 2.png" width="80%" align="middle">
 
 Save the file in `ComfyUI\models\upscale_models\`
