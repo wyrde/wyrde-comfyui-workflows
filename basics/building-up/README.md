@@ -343,9 +343,26 @@ Now let's set up the upscale!
 <img src="./pix/ComfyUI_00358_.png" width="25%" align="middle">
 
 ## Embeddings/Textual Inversions
-(Still writing this)
+
+Otherwise known as Textual Inversions, embeddings are a bit different than the usual additions to a comfy workflow. Instead of a node, they are added directly to a prompt. This is due to the nature of an embedding, they are specialized models which provide a specific meaning to a token.
+
+Wait, tokens?
+
+While prompts are human readable, they are not read in a human fashion by stable diffusion. They are translated into _tokens_, and stable diffusion assigns meaning to them according to associations in the model (including lora, which come before the prompts).
+
+Tokens are placed in an prompt with the keyword `embedding:` followed by the embedding's filename. For example, a popular _negative_ embedding is EasyNegative.pt.
+
+`    embedding:EasyNegative`
+
+There is no space between `embedding:` and `EasyNegative`, it is all one "word." The filename extension (`.pt` in this case) can be left off if desired.
+
+Embeddings can be placed in positive or negative prompts, as desired. Much like lora, trigger words aren't strictly neceessary, but can add additional "weight" to the prompt.
+
 
 ## Clip Skip
+(Still writing this)
+
+## Weighting Prompts
 (Still writing this too)
 
 
