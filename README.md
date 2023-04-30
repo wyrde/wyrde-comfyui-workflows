@@ -88,3 +88,5 @@ The custom nodes and extensions I know about.
 
 ## Useful Things
 * [XNView](https://www.xnview.com/en/) a great, light-weight and impressively capable file viewer. It shows the workflow stored in the exif data (View→Panels→Information). Also has favorite folders to make moving and sortintg images from `./output` easier. There may be something better out there for this, but I've not found it.
+* [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/) make windows experience more pleasant. Especially [windows terminal](https://learn.microsoft.com/en-us/windows/terminal/)
+* [process explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) get a better look at what is going on. Add the "GPU Dedicated Bytes" column and see what is eating away VRAM
