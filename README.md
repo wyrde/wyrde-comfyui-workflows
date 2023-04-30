@@ -19,7 +19,7 @@ The custom nodes and extensions I know about.
 * https://github.com/ltdrdata/ComfyUI-Manager
   * custom node manager -- under development
 * [WAS node suite](https://github.com/WASasquatch/was-node-suite-comfyui)
-  * development is ended, but nodes are still useful
+  * development has resumed
 * https://github.com/lilly1987/ComfyUI_node_Lilly
   * Lots of amazing things which are beyond me
 * https://github.com/lilly1987/ComfyUI-workflow
@@ -46,7 +46,7 @@ The custom nodes and extensions I know about.
 * https://github.com/ailex000/ComfyUI-Extensions/
   * image box/lightbox for previews of generated images
 * https://github.com/BadCafeCode/masquerade-nodes-comfyui
-  * Masquerade Nodes (experimental)
+  * Masquerade Nodes 
 * https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
   * Blender integration for comfyui
 
