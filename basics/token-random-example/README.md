@@ -1,7 +1,9 @@
 # Using Tokens for Random Values
 
-Makes extensive use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui)
-* Install WAS suit and avoid a mess of red boxes.
+Makes use of [WAS nodes.](https://github.com/WASasquatch/was-node-suite-comfyui) and omar's [QoL nodes](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92)
+* The WAS nodes are necessary for this example
+* The omar "Text _O" nodes can be removed, they're notes and instructions.
+* The omar latent upscale by factor nodes can be replaced with any latent upscale.
 
 <img src="./token random values example.png" align="middle" width="90%">
 
