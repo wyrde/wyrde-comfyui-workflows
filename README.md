@@ -16,8 +16,11 @@ ComfyUI is found at https://github.com/comfyanonymous/ComfyUI
 The custom nodes and extensions I know about.
 
 ### List
-* https://github.com/ltdrdata/ComfyUI-Manager
-  * custom node manager -- under development
+* ltdrdata's custom nodes
+  * [Comfy Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+    * help organize and install various custom nodes (under development)
+  * https://github.com/ltdrdata/ComfyUI-Impact-Pack
+    * Lots of nodes tha do impressive things
 * [WAS node suite](https://github.com/WASasquatch/was-node-suite-comfyui)
   * development has resumed
 * https://github.com/lilly1987/ComfyUI_node_Lilly
@@ -33,7 +36,6 @@ The custom nodes and extensions I know about.
 * https://github.com/Davemane42/ComfyUI_Dave_CustomNode
 * https://github.com/diffus3/ComfyUI-extensions
   * I think most of these are in comfyui now
-* https://github.com/ltdrdata/ComfyUI-Impact-Pack
 * https://github.com/m957ymj75urz/ComfyUI-Custom-Nodes
 * https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92
   * much of the same ideas as WAS suit but in a different direction
