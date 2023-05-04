@@ -12,7 +12,7 @@ This workflow uses tiled sampling to sample large images in hirez fixes. The Til
 * denoise is handled through start and stop steps compared to total steps.
 * using 30 steps, start at step 15 and end at step 30 (15 steps) is equivalent to 0.500 denoise.
 * Tile Width and Height should be the maximum size the GPU can reasonably handle.
-  * setting these values low can result in extra artiftacts and noise
+  * setting these values low can result in extra artifacts and noise
 
 ## Versions
 
