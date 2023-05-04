@@ -358,6 +358,11 @@ There is no space between `embedding:` and `EasyNegative`, it is all one "word."
 
 Embeddings can be placed in positive or negative prompts, as desired. Much like lora, trigger words aren't strictly neceessary, but can add additional "weight" to the prompt.
 
+<!-- note about embeds in folders
+:
+It requires the folder, and the slash has to be escaped. `embedding:_neg____//7dirtywords,`
+At least, there's no errors.
+-->
 
 ## Clip Skip
 (Still writing this)
