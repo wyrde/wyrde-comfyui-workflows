@@ -373,6 +373,8 @@ At least, there's no errors.
 ## Options and Considerations
 (still writing this too also)
 
+## Customizing image saves
+(some day...)
 
 <!-- <img src="./pix/" width="10%" align="middle"> -->
 

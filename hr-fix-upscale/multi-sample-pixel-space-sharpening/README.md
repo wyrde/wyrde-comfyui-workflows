@@ -25,11 +25,17 @@ Moving noodles switches between model vae and vae loader.
 * [adjusted image sizes, added img2img nodes, cleaned up some lines and nodes](./multi-sample-pixel-space-sharpening-d.json)<br>
 <img src="multi-sample-pixel-space-sharpening-d.png" width="90%" align="middle">
 * [save filename prefix nodes](./multi-sample-pixel-space-sharpening-e.json)
+* [using tiled ksamplers and tiled vae](multi-sample-pixel-space-sharpening-tiled.json)
+  * requires blenderneko's {tiled ksampler](https://github.com/BlenderNeko/ComfyUI_TiledKSampler)
+  * also includes the newest version of custom folder/prefix substitution
 
 ## Resources
 
 WAS nodes
 * https://github.com/WASasquatch/was-node-suite-comfyui
+
+Tiled KSampler
+* https://github.com/BlenderNeko/ComfyUI_TiledKSampler
 
 Model
 * https://civitai.com/models/8281/perfect-world
