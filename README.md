@@ -51,6 +51,8 @@ The custom nodes and extensions I know about.
   * Masquerade Nodes 
 * https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
   * Blender integration for comfyui
+* https://github.com/biegert/ComfyUI-CLIPSeg
+  * generate masks for image inpainting tasks based on text prompts.
 
 ### CivitAI
 
