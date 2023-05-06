@@ -375,7 +375,9 @@ At least, there's no errors.
 
 ## Customizing image saves
 (some day...)
-
+<!-- 
+custom file paths, the yaml file and start argument for save files
+ -->
 <!-- <img src="./pix/" width="10%" align="middle"> -->
 
 ## resources
