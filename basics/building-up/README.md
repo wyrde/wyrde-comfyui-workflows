@@ -364,6 +364,48 @@ It requires the folder, and the slash has to be escaped. `embedding:_neg____//7d
 At least, there's no errors.
 -->
 
+## Custom Nodes
+
+One of the great things about ComfyUI is the ease of adding custom nodes to the workflow. Uusually. Not all custom nodes are equal in installation ease.
+
+The following instructions are for the standalone portable windows build.
+
+First, there's three basic kinds of nodes.
+* Ones that are python-based. These go into `ComfyUI\custom_nodes` folder.
+* Ones that are extensions to the user interface. These go into the `ComfyUI\web\extensions` folder.
+* Ones that are mixed and have files that go into each.
+
+There are two basic ways to get the nodes.
+* In archived format (zips), usually found on civitai.com.
+* as repositories on github or another repository site.
+
+The first step to using custom nodes is installing git. Even if used only once, it'll save so many headaches later.
+* [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git)
+
+The second step is knowing how to open a shell to the custom_nodes folder.
+* the esiest way is to open file explorer, navigate to your custom_nodes folder, then type CMD into the address bar and hit enter.  
+<img src="https://i.imgur.com/IeWKNGw.png" width="50%" align="middle">  
+<img src="https://i.imgur.com/akxAaLm.png" width="50%" align="middle">  
+<img src="https://i.imgur.com/txOblf7.png" width="50%" align="middle">  
+
+### Using the ComfyUI-Manager
+
+The easiest way to install a mod is with he comfyui monaager. It is a mod itself, but fairly easy to install.
+* Not officially part of conmfyui
+* get it from here: [https://github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+* even if the zip version is downloaded, it still needs git to install other custom nodes.
+
+
+### Installing from zips
+
+Most archives are a simple matter of unzipping them into the right folder. If they take more than that, the author generally provides instructions.
+* If the zip has only files ending in `.py`, put them directly in `custom_nodes`
+* if the zip has a folder/directory, put it (and the files inside it), in `custom_nodes`
+  * note, if the folder doesn't contain a file called __init__.py an error will be shown in the console when comfy starts. While annoying, the error can be ignored.
+
+
+
+
 ## Clip Skip
 (Still writing this)
 
