@@ -390,11 +390,18 @@ The second step is knowing how to open a shell to the custom_nodes folder.
 
 ### Using the ComfyUI-Manager
 
-The easiest way to install a mod is with he comfyui monaager. It is a mod itself, but fairly easy to install.
+The easiest way to install a node is with he comfyui monaager. It is a node itself, but fairly easy to install.
 * Not officially part of conmfyui
+  * the manager is still under development
+  * it does not have support for all nodes, but it's installation proceedure will work for most.
 * get it from here: [https://github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
-* even if the zip version is downloaded, it still needs git to install other custom nodes.
-
+  * even if the zip version is downloaded, it still needs git to install other custom nodes.
+* open a command window to custom_nodes (see above)
+* paste `git clone https://github.com/ltdrdata/ComfyUI-Manager.git` into the command window and hit enter.
+* it will download the files  
+<img src="./pix/git clone manager 01.png" width="50%" align="middle">  
+* start comfyui and refresh the window. The manager should now be in the main menue.  
+<img src="./pix/git clone manager 02.png" width="50%" align="middle"> 
 
 ### Installing from zips
 
@@ -403,8 +410,26 @@ Most archives are a simple matter of unzipping them into the right folder. If th
 * if the zip has a folder/directory, put it (and the files inside it), in `custom_nodes`
   * note, if the folder doesn't contain a file called __init__.py an error will be shown in the console when comfy starts. While annoying, the error can be ignored.
 
+### Installing from git
+The proceedure is the same as installing the node manager.
+* copy the url from the green code box on the repo  
+<img src="./pix/git clone manager 03.png" width="50%" align="middle"> 
+* open a command windor or powershell to the custom_nodes directory
+* type `git clone ` and paste in the url, then hit enter.
+* follow instructions on the repo page or readme if there's extra steps (like installing requirements.)
 
+### Conda Virtual Environments
 
+Otherwise known as `venvs`. Using conda to manage python virtual environments is beyond the scope of this document. But there is an important thing to know if you are using the windows portable build and installing custom nodes 'by hand'.
+* When instructions say to use python, you have to tell it to use the version of python in the standalone build.
+* to run "setup.py" from from the custom_nodes folder, requires a line something like this:
+
+```
+    ..\..\..\python_embeded\python.exe .\setup.py
+```
+
+* this is so the correct python will be run and the required packages will be installed where comfyui can see them.
+* if using the manager, this isn't a concern since the manager is already using the correct python.
 
 ## Clip Skip
 (Still writing this)
