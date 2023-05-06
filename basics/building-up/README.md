@@ -390,8 +390,8 @@ The second step is knowing how to open a shell to the custom_nodes folder.
 
 ### Using the ComfyUI-Manager
 
-The easiest way to install a node is with he comfyui monaager. It is a node itself, but fairly easy to install.
-* Not officially part of conmfyui
+The easiest way to install a node is with he *ComfyUI Manager*, written by the awesome Lt Data (whose mysterious origins are lost to the mists of time). It is a node itself, but fairly easy to install.
+* Not officially part of ConmfyUI
   * the manager is still under development
   * it does not have support for all nodes, but it's installation proceedure will work for most.
 * get it from here: [https://github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
