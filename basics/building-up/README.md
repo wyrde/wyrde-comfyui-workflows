@@ -401,19 +401,21 @@ The easiest way to install a node is with he comfyui monaager. It is a node itse
 * it will download the files  
 <img src="./pix/git clone manager 01.png" width="50%" align="middle">  
 * start comfyui and refresh the window. The manager should now be in the main menue.  
-<img src="./pix/git clone manager 02.png" width="50%" align="middle"> 
+<img src="./pix/git clone manager 02.png"  align="middle"> 
 
 ### Installing from zips
 
 Most archives are a simple matter of unzipping them into the right folder. If they take more than that, the author generally provides instructions.
 * If the zip has only files ending in `.py`, put them directly in `custom_nodes`
 * if the zip has a folder/directory, put it (and the files inside it), in `custom_nodes`
-  * note, if the folder doesn't contain a file called __init__.py an error will be shown in the console when comfy starts. While annoying, the error can be ignored.
+  * note, if the folder doesn't contain a file called `__init__.py` an error will be shown in the console when comfy starts. While annoying, the error can be ignored.
 
 ### Installing from git
+
 The proceedure is the same as installing the node manager.
 * copy the url from the green code box on the repo  
-<img src="./pix/git clone manager 03.png" width="50%" align="middle"> 
+<img src="./pix/git clone manager 03.png" width="30%" align="middle">
+
 * open a command windor or powershell to the custom_nodes directory
 * type `git clone ` and paste in the url, then hit enter.
 * follow instructions on the repo page or readme if there's extra steps (like installing requirements.)
