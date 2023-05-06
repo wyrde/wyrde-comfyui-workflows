@@ -366,7 +366,7 @@ At least, there's no errors.
 
 ## Custom Nodes
 
-One of the great things about ComfyUI is the ease of adding custom nodes to the workflow. Uusually. Not all custom nodes are equal in installation ease.
+One of the great things about ComfyUI is the ease of adding custom nodes to the workflow. Usually. Not all custom nodes are equal in installation ease.
 
 The following instructions are for the standalone portable windows build.
 
@@ -390,7 +390,7 @@ The second step is knowing how to open a shell to the custom_nodes folder.
 
 ### Using the ComfyUI-Manager
 
-The easiest way to install a node is with he *ComfyUI Manager*, written by the awesome Lt Data (whose mysterious origins are lost to the mists of time). It is a node itself, but fairly easy to install.
+The easiest way to install a node is with the *ComfyUI Manager*, written by the awesome Lt Data (whose mysterious origins are lost to the mists of time). It is a node itself, but fairly easy to install.
 * Not officially part of ConmfyUI
   * the manager is still under development
   * it does not have support for all nodes, but it's installation proceedure will work for most.
