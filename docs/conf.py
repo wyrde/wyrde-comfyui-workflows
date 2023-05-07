@@ -2,7 +2,10 @@
 # https://docs.readthedocs.io/en/stable/config-file/v2.html
 # https://docs.readthedocs.io/en/stable/guides/migrate-rest-myst.html
 
-
+source_suffix = [
+    ".rst",
+    ".md",
+]
 extensions = [
     # Your existing extensions
     "myst_parser",
