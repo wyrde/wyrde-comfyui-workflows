@@ -3,13 +3,15 @@
 # https://docs.readthedocs.io/en/stable/guides/migrate-rest-myst.html
 
 source_suffix = [
-    ".rst",
     ".md",
+    ".rst",
 ]
+
 extensions = [
     # Your existing extensions
     "myst_parser",
 ]
+
 myst_enable_extensions = [
     "amsmath",
     "colon_fence",
