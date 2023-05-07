@@ -1,1 +1,2 @@
 linkify-it-py
+myst_parser
