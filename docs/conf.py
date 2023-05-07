@@ -5,7 +5,6 @@
 
 extensions = [
     # Your existing extensions
-    ...,
     "myst_parser",
 ]
 myst_enable_extensions = [
@@ -17,4 +16,5 @@ myst_enable_extensions = [
     "html_image",
     "linkify",
     "replacements",
-    "substitution"]
+    "substitution"
+]
