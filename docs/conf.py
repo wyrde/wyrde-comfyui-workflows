@@ -8,7 +8,7 @@ extensions = [
     "myst_parser",
 ]
 myst_enable_extensions = [
-     "amsmath",
+    "amsmath",
     "colon_fence",
     "deflist",
     "dollarmath",
