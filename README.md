@@ -3,7 +3,7 @@ some wyrde workflows for comfyUI
 
 ComfyUI is found at [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
-## Folders
+## Workflow Folders
 
 * [basics:](./basics) some low-scale workflows. Good ways to start out. Beginning tutorials.
 * [compare](./compare) workflows that compare thintgs
