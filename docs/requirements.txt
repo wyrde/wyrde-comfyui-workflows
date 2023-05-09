@@ -1,2 +1,0 @@
-linkify-it-py
-myst-parser
