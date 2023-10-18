@@ -23,6 +23,9 @@ The custom nodes and extensions I know about.
 * Many custom projects are listed at [ComfyResources](https://wyrde.github.io/ComfyResources/)
 * Developers with githtub accounts can easily add to the list
 
+### ComfyWorkflows.com
+- You can share & discover thousands of ComfyUI workflows for free on [ComfyWorkflows.com](https://comfyworkflows.com/)
+
 ### CivitAI
 
 * Many custom nodes are provided as packages on [civitai](https://civitai.com/).
